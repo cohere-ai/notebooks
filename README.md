@@ -22,5 +22,6 @@ Build search products that search by meaning and go beyond keyword matching.
 
 ### 4. Entity Extraction
 Extract name entities from text using only a few examples.
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Entity_Extrcation_with_Generative_Language_Models.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Entity_Extrcation_with_Generative_Language_Models.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/keyword-extraction-gpt-models.png" style="width:100%; max-width:400px" alt="Extract name entities from text using only a few examples" />
