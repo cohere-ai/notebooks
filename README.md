@@ -18,3 +18,9 @@ Build search products that search by meaning and go beyond keyword matching.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Basic_Semantic_Search.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Basic_Semantic_Search.ipynb">Colab</a>]
 
 <img src="https://github.com/cohere-ai/notebooks/raw/main/notebooks/images/basic-semantic-search-overview.png" style="width:100%; max-width:400px" alt="Use query and archive embeddings to retrieve relevant search results" />
+
+
+### 4. Entity Extraction
+Extract name entities from text using only a few examples.
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/keyword-extraction-gpt-models.png" style="width:100%; max-width:400px" alt="Extract name entities from text using only a few examples" />
