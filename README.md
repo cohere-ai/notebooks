@@ -28,6 +28,6 @@ Extract name entities from text using only a few examples.
 
 ### 5. Recommender System
 Recommend articles with via text embedding, classification, and extraction.
-[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Article_Recommender_with_Text_Embedding_Classification_and_Extraction.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Article_Recommender_with_Text_Embedding_Classification_and_Extraction.ipynb">Colab</a>]
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Article_Recommender_with_Text_Embedding_Classification_Extraction.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Article_Recommender_with_Text_Embedding_Classification_Extraction.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/article-recommender/article-rec-feat.png" style="width:100%; max-width:400px" alt="Article recommender with Embed, Classify, and Generate" />
