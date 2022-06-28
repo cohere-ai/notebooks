@@ -36,4 +36,4 @@ Recommend articles with via text embedding, classification, and extraction.
 Intuition behind text embeddings, what use cases they are good for, and how they can be customized using finetuning.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Visualizing_Text_Embeddings.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Visualizing_Text_Embeddings.ipynb">Colab</a>]
 
-<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/vis-embeds/article-recommender/vis-embeds-feat.png" style="width:100%; max-width:400px" alt="Visualizing Text Embeddings" />
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/vis-embeds/vis-embeds-feat.png" style="width:100%; max-width:400px" alt="Visualizing Text Embeddings" />
