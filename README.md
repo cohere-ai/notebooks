@@ -43,3 +43,9 @@ Combing for insight in 10,000 Hacker News posts with text clustering
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Analyzing_Hacker_News_with_Six_Language_Understanding_Methods.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Analyzing_Hacker_News_with_Six_Language_Understanding_Methods.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/Hacker-News-text-analysis-2.png" style="width:100%; max-width:400px" alt="Clustering Hacker News Posts" />
+
+### 8. Hello World! Meet Language AI
+A quick tour of what’s possible with language AI via Cohere’s Large Language Model (LLM) API
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Hello_World_Meet_Language_AI.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Hello_World_Meet_Language_AI.ipynb">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/hello-world/hello-world-feat.png" style="width:100%; max-width:400px" alt="Hello World! Meet Language AI" />
