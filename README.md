@@ -49,3 +49,9 @@ A quick tour of what’s possible with language AI via Cohere’s Large Language
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Hello_World_Meet_Language_AI.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Hello_World_Meet_Language_AI.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/hello-world/hello-world-feat.png" style="width:100%; max-width:400px" alt="Hello World! Meet Language AI" />
+
+### 9. Topic Modeling of AI Papers in 2022
+Semantic search and clustering of papers in Journal of Artificial Intelligence Research
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Topic_Modeling_AI_Papers.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Topic_Modeling_AI_Papers.ipynb">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/topic_modeling_ai_papers.png" style="width:100%; max-width:400px" alt="Hello World! Meet Language AI" />
