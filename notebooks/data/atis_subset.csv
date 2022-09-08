@@ -1,4 +1,3 @@
-query,intent
  i want to fly from boston at 838 am and arrive in denver at 1110 in the morning,atis_flight
  what flights are available from pittsburgh to baltimore on thursday morning,atis_flight
  what is the arrival time in san francisco for the 755 am flight leaving washington,atis_flight_time
