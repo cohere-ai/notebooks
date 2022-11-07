@@ -6,42 +6,42 @@ Code examples and jupyter notebooks for the Cohere Platform
 
 Create a simple sentiment classifier using Cohere's embeddings:
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Text_Classification_Using_Embeddings.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Text_Classification_Using_Embeddings.ipynb">Colab</a>]
-<img src="https://github.com/cohere-ai/notebooks/tree/main/notebooks/images/interim-notebook-visuals/Notebook_Visual_1.svg" style="width:100%; max-width:400px" alt="first we embed the text in the dataset, then we use that to train a classifier" />
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/67bfbe868ccfde25f903d3aacea5a1ffaebfdb42/notebooks/images/interim-notebook-visuals/text-classification-embeddings-interim.svg" style="width:100%; max-width:400px" alt="first we embed the text in the dataset, then we use that to train a classifier" />
 
 ### 2. Text Summarization
 
 Summarize or paraphrase text using Cohere's Generate endpoint.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Basic_Summarization_Notebook.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Basic_Summarization_Notebook.ipynb">Colab</a>]
 
-<img src="https://github.com/cohere-ai/notebooks/tree/main/notebooks/images/interim-notebook-visuals/Notebook_Visual_2.svg" style="width:100%; max-width:400px" alt="provided with the right prompt, a language model can generate multiple candidate summaries" />
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/67bfbe868ccfde25f903d3aacea5a1ffaebfdb42/notebooks/images/interim-notebook-visuals/summarization-interim.svg" style="width:100%; max-width:400px" alt="provided with the right prompt, a language model can generate multiple candidate summaries" />
 
 ### 3. Semantic Search
 
 Build search products that search by meaning and go beyond keyword matching.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Basic_Semantic_Search.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Basic_Semantic_Search.ipynb">Colab</a>]
 
-<img src="https://github.com/cohere-ai/notebooks/tree/main/notebooks/images/interim-notebook-visuals/Notebook_Visual_3.svg" style="width:100%; max-width:400px" alt="Use query and archive embeddings to retrieve relevant search results" />
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/67bfbe868ccfde25f903d3aacea5a1ffaebfdb42/notebooks/images/interim-notebook-visuals/semantic-search-interim.svg" style="width:100%; max-width:400px" alt="Use query and archive embeddings to retrieve relevant search results" />
 
 ### 4. Entity Extraction
 
 Extract name entities from text using only a few examples.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Entity_Extrcation_with_Generative_Language_Models.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Entity_Extrcation_with_Generative_Language_Models.ipynb">Colab</a>]
 
-<img src="https://github.com/cohere-ai/notebooks/tree/main/notebooks/images/interim-notebook-visuals/Notebook_Visual_4.svg" style="width:100%; max-width:400px" alt="Extract name entities from text using only a few examples" />
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/67bfbe868ccfde25f903d3aacea5a1ffaebfdb42/notebooks/images/interim-notebook-visuals/entity-extraction-interim.svg" style="width:100%; max-width:400px" alt="Extract name entities from text using only a few examples" />
 
 ### 5. Recommender System
 
 Recommend articles with via text embedding, classification, and extraction.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Article_Recommender_with_Text_Embedding_Classification_Extraction.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Article_Recommender_with_Text_Embedding_Classification_Extraction.ipynb">Colab</a>]
 
-<img src="https://github.com/cohere-ai/notebooks/tree/main/notebooks/images/interim-notebook-visuals/Notebook_Visual_5.svg" style="width:100%; max-width:400px" alt="Article recommender with Embed, Classify, and Generate" />
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/67bfbe868ccfde25f903d3aacea5a1ffaebfdb42/notebooks/images/interim-notebook-visuals/recommend-articles-interim.svg" style="width:100%; max-width:400px" alt="Article recommender with Embed, Classify, and Generate" />
 
 ### 6. Visualizing Text Embeddings
 
 Intuition behind text embeddings, what use cases they are good for, and how they can be customized using finetuning.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Visualizing_Text_Embeddings.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Visualizing_Text_Embeddings.ipynb">Colab</a>]
 
-<img src="https://github.com/cohere-ai/notebooks/tree/main/notebooks/images/interim-notebook-visuals/Notebook_Visual_6.svg" style="width:100%; max-width:400px" alt="Visualizing Text Embeddings" />
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/67bfbe868ccfde25f903d3aacea5a1ffaebfdb42/notebooks/images/interim-notebook-visuals/visualize-embed-interim.svg" style="width:100%; max-width:400px" alt="Visualizing Text Embeddings" />
 
 ### 7. Clustering Hacker News Posts
 
