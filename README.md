@@ -1,6 +1,6 @@
-# notebooks
+# Get started with Cohere!
 
-Code examples and jupyter notebooks for the Cohere Platform
+This repo contains code examples and jupyter notebooks for you to get started with the Cohere Platform
 
 ### 1. Text Classification Using Embeddings
 
