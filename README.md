@@ -70,3 +70,8 @@ Helping you evaluate which of these options best suits your objectives
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Topic_Modeling_AI_Papers.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Three_Ways_to_Build_a_Text_Classifier_with_Cohere.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/classify-three-options/classify-options-feat.png" style="width:100%; max-width:400px" alt="Hello World! Meet Language AI" />
+
+### 11. Generating Stories with Generate and Stable Diffusion
+Describe your story in two sentences, then guide Cohere's language model as it turns it into a bigger story.
+
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Generating_stories_with_LLMs_and_Stable_Diffusion.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Generating_stories_with_LLMs_and_Stable_Diffusion.ipynb">Colab</a>]
