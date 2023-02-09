@@ -75,3 +75,7 @@ Helping you evaluate which of these options best suits your objectives
 Describe your story in two sentences, then guide Cohere's language model as it turns it into a bigger story.
 
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Generating_stories_with_LLMs_and_Stable_Diffusion.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Generating_stories_with_LLMs_and_Stable_Diffusion.ipynb">Colab</a>]
+
+### 12. Working with the Generate Endpoint
+Explore the Generate endpoint, one of the endpoints available from the Cohere API.
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Working_With_the_Generate_Endpoint.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Working_With_the_Generate_Endpoint.ipynb">Colab</a>]
