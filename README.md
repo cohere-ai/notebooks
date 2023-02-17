@@ -79,3 +79,11 @@ Describe your story in two sentences, then guide Cohere's language model as it t
 ### 12. Working with the Generate Endpoint
 Explore the Generate endpoint, one of the endpoints available from the Cohere API.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Working_With_the_Generate_Endpoint.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Working_With_the_Generate_Endpoint.ipynb">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/generative-ai-part3.png" style="width:100%; max-width:400px" alt="Working with the Generate Endpoint" />
+
+### 13. Evaluating Custom Models
+Create a custom Generate model and evaluate the generation quality.
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Evaluating_Custom_Models.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Evaluating_Custom_Models.ipynb">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/generative-ai-part4.png" style="width:100%; max-width:400px" alt="Evaluating Custom Models" />
