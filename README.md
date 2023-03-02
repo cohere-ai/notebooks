@@ -74,7 +74,9 @@ Helping you evaluate which of these options best suits your objectives
 ### 11. Generating Stories with Generate and Stable Diffusion
 Describe your story in two sentences, then guide Cohere's language model as it turns it into a bigger story.
 
-[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Generating_stories_with_LLMs_and_Stable_Diffusion.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Generating_stories_with_LLMs_and_Stable_Diffusion.ipynb">Colab</a>]
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Generating_stories_with_LLMs_and_Stable_Diffusion.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Generating_stories_with_LLMs_and_Stable_Diffusion.ipynb">Colab</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Brainstorming_Story_Ideas_with_Cohere_and_Stable_Diffusion.ipynb">Colab - v2</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/story-generation-prompt-chaining.png" style="width:100%; max-width:400px" alt="Story Generation with Generate and Stable Diffusion" />
 
 ### 12. Working with the Generate Endpoint
 Explore the Generate endpoint, one of the endpoints available from the Cohere API.
