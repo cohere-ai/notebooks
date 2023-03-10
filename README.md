@@ -89,3 +89,9 @@ Create a custom Generate model and evaluate the generation quality.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Evaluating_Custom_Models.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Evaluating_Custom_Models.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/generative-ai-part4.png" style="width:100%; max-width:400px" alt="Evaluating Custom Models" />
+
+### 14. Multilingual Semantic Search with Cohere and Langchain
+Use Langchain to efficiently build semantic search applications on top of Cohere’s multilingual model.
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Multilingual_Search_with_Cohere_and_Langchain.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Multilingual_Search_with_Cohere_and_Langchain.ipynb">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/search-cohere-langchain.png" style="width:100%; max-width:400px" alt="Multilingual Semantic Search with Cohere and Langchain" />
