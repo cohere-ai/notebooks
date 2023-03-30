@@ -95,3 +95,9 @@ Use Langchain to efficiently build semantic search applications on top of Cohere
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Multilingual_Search_with_Cohere_and_Langchain.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Multilingual_Search_with_Cohere_and_Langchain.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/search-cohere-langchain.png" style="width:100%; max-width:400px" alt="Multilingual Semantic Search with Cohere and Langchain" />
+
+### 15. Fueling Generative Content with Keyword Research
+Build a content idea generator that is backed by keyword research.
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Fueling_Generative_Content_with_Keyword_Research.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Fueling_Generative_Content_with_Keyword_Research.ipynb">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/fueling-generative-content.png" style="width:100%; max-width:400px" alt="Fueling Generative Content with Keyword Research" />
