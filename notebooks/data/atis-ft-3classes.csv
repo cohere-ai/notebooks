@@ -10,7 +10,6 @@ can you show me the economy fare flights from baltimore to dallas,atis_airfare
 show me all first class prices from dallas to baltimore,atis_airfare
 is there ground transportation from the airport in denver to downtown,atis_ground_service
 would you tell me the cheapest one way fare from boston to oakland,atis_airfare
-which airlines fly from boston to washington dc via other cities,atis_airline
 cheapest fare from indianapolis to seattle,atis_airfare
 please list ground transport in san francisco,atis_ground_service
 can you show me the price of a flight to washington from atlanta on thursday morning,atis_airfare
@@ -63,7 +62,6 @@ please list fares for all the flights from atlanta to philadelphia on august the
 what are the round trip fares for flights from denver to philadelphia arriving after 1700 on continental,atis_airfare
 what airlines have business class,atis_airline
 what are the fares for flights from charlotte to newark on tuesday and wednesday,atis_airfare
-what ground transportation is available in boston,atis_ground_service
 can you tell me the cheapest one way fare from boston to san francisco,atis_airfare
 what is the cheapest fare from boston to san francisco,atis_airfare
 round trip fares from denver to philadelphia less than 1000 dollars,atis_airfare
@@ -100,7 +98,6 @@ ground transport denver,atis_ground_service
 what ground transportation is available into washington,atis_ground_service
 ground transportation atlanta,atis_ground_service
 show me the airlines that fly from san francisco to boston,atis_airline
-what ground transportation is there in atlanta,atis_ground_service
 show me dallas ground transport,atis_ground_service
 what are the fares for flights between atlanta and dfw provided by delta airlines,atis_airfare
 ground transportation philadelphia,atis_ground_service
@@ -129,7 +126,6 @@ show me the car rentals in baltimore,atis_ground_service
 show me first class airlines from san francisco to pittsburgh on next tuesday first class only,atis_airline
 what airlines fly from boston to atlanta,atis_airline
 what ground transportation is available from pittsburgh to downtown,atis_ground_service
-what ground transportation is available in san francisco,atis_ground_service
 rental car in baltimore,atis_ground_service
 what are the coach fares from la to charlotte monday morning,atis_airfare
 what kind of ground transportation is there in philadelphia,atis_ground_service
@@ -152,7 +148,6 @@ what is the ground transportation available in the city of philadelphia,atis_gro
 which airlines have first class flights today,atis_airline
 what airlines fly from dallas to baltimore,atis_airline
 what is the fare on american airlines flight 928 from dallas fort worth to boston,atis_airfare
-round trip fares from denver to philadelphia less than 1000 dollars,atis_airfare
 what is the cheapest one way fare from any city to another,atis_airfare
 list the airlines that have nonstop afternoon flights from boston to oakland,atis_airline
 show me ground transportation in san francisco,atis_ground_service
@@ -160,7 +155,6 @@ can you show me economy class one way fares for flights from oakland to dallas o
 what airlines fly between atlanta and san francisco,atis_airline
 what ground transportation is available from the denver airport to downtown denver,atis_ground_service
 how much does it cost to fly from boston to baltimore on a saturday,atis_airfare
-what ground transportation is available in denver,atis_ground_service
 please show me airlines with flight service from boston to denver from denver to philadelphia and from philadelphia to boston,atis_airline
 what are the coach fares from charlotte to la wednesday night,atis_airfare
 is there an airport limousine at the atlanta airport,atis_ground_service
@@ -175,19 +169,15 @@ what's the ground transportation from oakland to san francisco,atis_ground_servi
 what are the fares for flights serving a meal from boston to pittsburgh before noon on thursday,atis_airfare
 what is the cost of a first class ticket from dallas fort worth to san francisco,atis_airfare
 can i have a rental car in houston,atis_ground_service
-which airlines have first class flights today,atis_airline
 what's the lowest round trip fare from dallas to atlanta,atis_airfare
 show me the ground transportation in denver,atis_ground_service
 show me ground transportation in boston,atis_ground_service
 show me the round trip tickets from baltimore to dallas,atis_airfare
-round trip fares from baltimore to philadelphia under 1000 dollars,atis_airfare
 tell me about ground transportation at san francisco,atis_ground_service
 which airline can fly me from atlanta to denver to san francisco,atis_airline
-show me the car rentals in baltimore,atis_ground_service
 what ground transportation is available in baltimore for the day after tomorrow,atis_ground_service
 what's the cheapest one way ticket from baltimore to atlanta,atis_airfare
 what is the fare from boston to oakland on united airlines,atis_airfare
-what is the cheapest ticket from baltimore to san francisco on friday august thirtieth,atis_airfare
 show me round trip fares from baltimore to philadelphia,atis_airfare
 show me the airfare from pittsburgh to san francisco,atis_airfare
 is us air,atis_airline
@@ -237,15 +227,12 @@ what is the fare from atlanta to boston on coach one way,atis_airfare
 ground transportation denver,atis_ground_service
 what ground transport is available in baltimore,atis_ground_service
 i would like information on ground transportation in atlanta from the airport to the city in the morning around 9 am,atis_ground_service
-what ground transportation is available in san francisco,atis_ground_service
-show me ground transportation in san francisco,atis_ground_service
 how much does it cost to go from downtown to logan airport,atis_airfare
 which airlines have nonstop flights from kansas city to chicago,atis_airline
 show me the cheapest one way tickets from atlanta to dallas,atis_airfare
 show me the airlines between boston and denver,atis_airline
 information on ground transportation in denver,atis_ground_service
 do the airlines still offer first class,atis_airline
-show me fares from baltimore to philadelphia,atis_airfare
 how much is a flight from washington to boston,atis_airfare
 what is the least expensive one way ticket from atlanta to denver leaving on october twelfth,atis_airfare
 how much is an economy ticket from washington to san francisco on september thirtieth,atis_airfare
@@ -288,7 +275,6 @@ is there ground transportation from the milwaukee airport to the downtown area,a
 what type of ground transportation is available at logan airport,atis_ground_service
 give me the lowest fare from atlanta to denver on may seventh please,atis_airfare
 what type of ground transportation is available at philadelphia airport,atis_ground_service
-ground transportation in denver,atis_ground_service
 ground transport in denver,atis_ground_service
 show fares and flights from denver to oakland,atis_airfare
 show me ground transport in seattle,atis_ground_service
@@ -296,7 +282,6 @@ is there an airline that advertises having more flights than any other airline,a
 what is the cost of united airlines flight 415 from chicago to kansas city thursday night,atis_airfare
 which airlines fly from boston to san francisco,atis_airline
 which airlines have flights between charlotte and newark,atis_airline
-ground transportation in denver,atis_ground_service
 what ground transportation is available at baltimore,atis_ground_service
 what ground transportation is available at denver airport,atis_ground_service
 show me about the ground transportation in boston,atis_ground_service
@@ -319,7 +304,6 @@ what is the price of a one way fare from atlanta to boston,atis_airfare
 find me the cheapest one way fare i can get from boston to denver,atis_airfare
 what are the first class and coach fares for flights from chicago to kansas city arriving around 7 pm next thursday,atis_airfare
 please give me round trip fares from pittsburgh to philadelphia,atis_airfare
-what airlines fly from boston to pittsburgh,atis_airline
 show me ground transportation in dallas please,atis_ground_service
 what is the cheapest round trip fare from atlanta to pittsburgh,atis_airfare
 is there ground transportation in oakland,atis_ground_service
