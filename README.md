@@ -101,3 +101,9 @@ Build a content idea generator that is backed by keyword research.
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Fueling_Generative_Content_with_Keyword_Research.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Fueling_Generative_Content_with_Keyword_Research.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/fueling-generative-content.png" style="width:100%; max-width:400px" alt="Fueling Generative Content with Keyword Research" />
+
+### 16. Command Model Use Case Patterns
+Understand the range of use cases that you can build with the Cohere Command model.
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Command_Model_Use_Case_Patterns.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Command_Model_Use_Case_Patterns.ipynb">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/command-usecase-patterns.png" style="width:100%; max-width:400px" alt="Command Model Use Case Patterns" />
