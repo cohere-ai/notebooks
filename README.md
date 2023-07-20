@@ -107,3 +107,9 @@ Understand the range of use cases that you can build with the Cohere Command mod
 [<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Command_Model_Use_Case_Patterns.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Command_Model_Use_Case_Patterns.ipynb">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/command-usecase-patterns.png" style="width:100%; max-width:400px" alt="Command Model Use Case Patterns" />
+
+### 17. Constructing Prompts for the Command Model
+Tips and ideas for constructing prompts for the Command Model 
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/Constructing_Prompt_Commands.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Constructing_Prompt_Commands.ipynb">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/constructing-prompts.png" style="width:100%; max-width:400px" alt="Constructing Prompts for the Command Model" />
