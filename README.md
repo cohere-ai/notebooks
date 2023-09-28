@@ -120,3 +120,8 @@ We look at what output validation is and how to implement it using Guardrails AI
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/validating-llm-outputs.png" style="width:100%; max-width:400px" alt="Validating Large Language Model Outputs
 " />
+
+
+### 19. Question Answering Via SageMaker JumpStart
+Question Answering using LangChain and Cohere's Generate and Embedding Models from SageMaker JumpStart
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/QuestionAnwering_Cohere_SagemakerJumpstart.ipynb">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/QuestionAnwering_Cohere_SagemakerJumpstart.ipynb">Colab</a>]
