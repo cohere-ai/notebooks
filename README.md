@@ -135,3 +135,11 @@ Learn how to build a chatbot using Cohere’s Chat endpoint.
 ">Colab</a>]
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/chatbot-chat-endpoint.png" style="width:100%; max-width:400px" alt="How to Build a Chatbot with the Chat Endpoint" />
+
+### 21. How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank
+Learn how to build a chatbot using Cohere’s Chat, Embed, and Rerank endpoints.
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/notebooks/RAG_Chatbot_with_Chat_Embed_Rerank.ipynb
+">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/RAG_Chatbot_with_Chat_Embed_Rerank.ipynb
+">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/rag-chatbot.png" style="width:100%; max-width:400px" alt="How to Build a RAG-Powered Chatbot with Chat, Embed, and Rerank" />
