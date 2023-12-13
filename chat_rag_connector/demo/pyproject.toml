@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "demo"
+version = "0.1.0"
+description = ""
+authors = ["Walter B <walter@cohere.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flask = "2.2.5"
+connexion = { extras = ["swagger-ui"], version = "^2.14.2" }
+python-dotenv = "^1.0.0"
+gunicorn = "^21.2.0"
+unstructured = "^0.11.2"
+hnswlib = "^0.8.0"
+cohere = "^4.37"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
