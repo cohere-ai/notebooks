@@ -1,12 +1,9 @@
-# Template Quick Start Connector
+# LLM University - Chat and RAG with Connectors
 
-This is a _template_ for a simple quick start connector that return static data. This can serve as starting point for creating a brand new connector.
+This is the code used in the LLM University chapter on [Chat and RAG with connectors](https://txt.cohere.com/rag-chatbot-connector/)
 
-## Configuration
 
-This connector is very simple and only needs a `TEMPLATE_CONNECTOR_API_KEY` environment variable to be set. This value will be used for bearer token authentication to protect this connector from abuse.
-
-A `.env-template` file is provided with all the environment variables that are used by this connector.
+It is created based on the quick start connector template available on the quickstart connectors [repository](https://github.com/cohere-ai/quick-start-connectors/tree/main/_template_).
 
 ## Development
 
