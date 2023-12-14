@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "gdrive"
+version = "0.1.0"
+description = ""
+authors = ["Eugene Pavletsov<eugene@lightsonsoftware.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "2.2.5"
+requests = "^2.31.0"
+connexion = { version = "2.14.2", extras = ["swagger-ui"] }
+python-dotenv = "^1.0.0"
+mypy = "^1.4.1"
+google-api-python-client = "^2.100.0"
+google-auth-httplib2 = "^0.1.1"
+google-auth-oauthlib = "^1.1.0"
+gunicorn = "^21.2.0"
+aiohttp = "^3.9.0"
+nltk = "^3.8.1"
+
+[tool.poetry.group.development.dependencies]
+black = "^23.7.0"
+types-requests = "^2.31.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

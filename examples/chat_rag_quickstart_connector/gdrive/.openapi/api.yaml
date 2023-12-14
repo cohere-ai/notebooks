@@ -1,0 +1,56 @@
+openapi: 3.0.3
+info:
+  title: Search Connector API
+  version: 0.0.1
+paths:
+  /search:
+    post:
+      description: >-
+        <p>Searches the connected data source for documents related to the query and returns a set of key-value pairs representing the found documents.</p>
+      operationId: search
+      summary: Perform a search
+      security:
+        - api_key: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - query
+              properties:
+                query:
+                  description: >-
+                    A plain-text query string to be used to search for relevant documents.
+                  type: string
+                  minLength: 1
+            example:
+              query: embeddings
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  results:
+                    type: array
+                    items:
+                      type: object
+                      additionalProperties:
+                        type: string
+        "400":
+          description: Bad request
+        "401":
+          description: Unauthorized
+        default:
+          description: Error response
+
+components:
+  securitySchemes:
+    api_key:
+      type: http
+      scheme: bearer
+      x-bearerInfoFunc: provider.app.apikey_auth
