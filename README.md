@@ -152,3 +152,9 @@ Learn how to build a chatbot connectors using Cohere's build-your-own connectors
 
 <img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/rag-chatbot-connector.png" style="width:100%; max-width:400px" alt="How to Build a RAG-Powered Chatbot with Connectors" />
 
+### 23. How to Fine-Tune a Model for Cohere Chat
+[<a href="https://github.com/cohere-ai/notebooks/blob/main/examples/Fine_tuning_Models_for_the_Chat_Endpoint.ipynb
+">Notebook</a> | <a href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/examples/chat_rag_connector/Fine_tuning_Models_for_the_Chat_Endpoint.ipynb
+">Colab</a>]
+
+<img src="https://raw.githubusercontent.com/cohere-ai/notebooks/main/notebooks/images/chat-finetune.png" style="width:100%; max-width:400px" alt="How to Fine-Tune a Model for Cohere Chat" />
