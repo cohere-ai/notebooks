@@ -8,7 +8,6 @@ logger = logging.getLogger(__name__)
 
 demo_store = {}
 
-
 # This function is run for the /search endpoint
 # the results that are returned here will be passed to Cohere's model for RAG
 def search(body):
