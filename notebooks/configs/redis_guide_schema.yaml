@@ -1,0 +1,30 @@
+version: '0.1.0'
+index:
+    name: semantic_search_demo
+    prefix: rvl
+    storage_type: hash
+
+fields: 
+    - name: url
+      type: text
+    - name: title
+      type: tag
+    - name: text
+      type: text
+    - name: wiki_id
+      type: numeric
+    - name: paragraph_id
+      type: numeric
+    - name: id
+      type: numeric
+    - name: views
+      type: numeric
+    - name: langs
+      type: numeric
+    - name: embedding
+      type: vector
+      attrs:
+        algorithm: flat
+        dims: 1024
+        distance_metric: cosine
+        datatype: float32
