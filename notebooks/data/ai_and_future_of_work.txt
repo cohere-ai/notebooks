@@ -1,0 +1,1591 @@
+©2024 International Monetary Fund SDN/2024/001
+IMF Staff Discussion Notes
+Research Department
+Gen-AI: Artificial Intelligence and the Future of Work
+Prepared by Mauro Cazzaniga, Florence Jaumotte, Longji Li, Giovanni Melina, Augustus J. Panton,
+Carlo Pizzinelli, Emma Rockall, and Marina M. Tavares*
+Authorized for distribution by Pierre-Olivier Gourinchas
+January 2024
+IMF Staff Discussion Notes (SDNs) showcase policy-related analysis and research being
+developed by IMF staff members and are published to elicit comments and to encourage debate.
+The views expressed in Staff Discussion Notes are those of the author(s) and do not necessarily
+represent the views of the IMF, its Executive Board, or IMF management.
+ABSTRACT: Artificial intelligence (AI) has the potential to reshape the global economy, especially in the realm
+of labor markets. Advanced economies will experience the benefits and pitfalls of AI sooner than emerging
+market and developing economies, largely because their employment structure is focused on cognitiveintensive roles. There are some consistent patterns concerning AI exposure: women and college-educated
+individuals are more exposed but also better poised to reap AI benefits, and older workers are potentially less
+able to adapt to the new technology. Labor income inequality may increase if the complementarity between AI
+and high-income workers is strong, and capital returns will increase wealth inequality. However, if productivity
+gains are sufficiently large, income levels could surge for most workers. In this evolving landscape, advanced
+economies and more developed emerging market economies need to focus on upgrading regulatory
+frameworks and supporting labor reallocation while safeguarding those adversely affected. Emerging market
+and developing economies should prioritize the development of digital infrastructure and digital skills.
+RECOMMENDED CITATION: Cazzaniga and others. 2024. “Gen-AI: Artificial Intelligence and the Future of
+Work.” IMF Staff Discussion Note SDN2024/001, International Monetary Fund, Washington, DC.
+ISBN: 979-8-40026-254-8
+JEL Classification Numbers: E24, J24, J31, O33, O38
+Keywords:
+Artificial Intelligence, Labor Market, Job Displacement, Income
+Inequality, Advanced Economies, Emerging Market Economies, LowIncome Developing Countries
+Author’s E-Mail Address:
+mauro98cazzaniga@gmail.com, FJaumotte@imf.org, LLi4@imf.org,
+GMelina@imf.org, APanton@imf.org, CPizzinelli@imf.org,
+ERockall@stanford.edu, MMendestavares@imf.org
+
+* The authors thank Pierre-Olivier Gourinchas and Antonio Spilimbergo for feedback and guidance and many IMF colleagues for
+useful comments. The views expressed herein are those of the authors and should not be attributed to the IMF, its Executive Board,
+or its management. Any remaining errors are the responsibility of the authors.
+ -
+INTERNATIONAL MONETARY FUND 1
+Contents
+Executive Summary __________________________________________________________________ 2
+I. Introduction _____________________________________________________________________ 3
+II. AI Exposure and Complementarity____________________________________________________ 5
+III. Worker Reallocation in the AI-Induced Transformation _________________________________ 11
+IV. AI, Productivity, and Inequality _____________________________________________________ 15
+V. AI Preparedness _________________________________________________________________ 19
+VI. Conclusions and Policy Considerations _____________________________________________ 22
+Annex I. Data ______________________________________________________________________ 26
+Annex 2. Additional Information on AI Occupational Exposure and Potential Complementarity __ 28
+Annex 3. Methodology for the Worker Transition Analysis _________________________________ 29
+Annex 4. Model Details ______________________________________________________________ 32
+Annex 5. AI Preparedness Index ______________________________________________________ 34
+References ________________________________________________________________________ 36
+Boxes
+1. AI Occupational Exposure and Potential Complementarity1 _________________________________ 24
+2. Artificial-Intelligence-led Innovation and the Potential for Greater Inclusion1 ____________________ 25
+Figures
+1. Employment Shares by AI Exposure and Complementarity: Country Groups and Select ___________ 8
+2. Employment Share by Exposure and Complementarity (Selected Countries) _____________________ 9
+3. Share of Employment in High-Exposure Occupations by Demographic Groups __________________ 10
+4. Share of Employment in High-Exposure Occupations by Income Deciles _______________________ 11
+5. Occupational Transitions for College-Educated High-Exposure Workers for BRA and GBR ________ 12
+6. Life Cycle Profiles of Employment Shares by Education Level for Brazil and the United ___________ 13
+7. 1-Year Re-Employment Probability of Separated Workers __________________________________ 14
+8. Estimated Wage Premia from Occupation Changes _______________________________________ 15
+9. Exposure to AI and to Automation and Income in the UK ___________________________________ 17
+10. Change in Total Income by Income Percentile __________________________________________ 18
+11. Impact on Aggregates (Percentage ___________________________________________________ 18
+12. AI Preparedness Index and _________________________________________________________ 20
+13. ICT Employment Share and Individual Components of the AI Preparedness Index ______________ 21
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 2
+Executive Summary
+Artificial intelligence (AI) is set to profoundly change the global economy, with some commentators
+seeing it as akin to a new industrial revolution. Its consequences for economies and societies remain hard
+to foresee. This is especially evident in the context of labor markets, where AI promises to increase productivity
+while threatening to replace humans in some jobs and to complement them in others.
+Almost 40 percent of global employment is exposed to AI, with advanced economies at greater risk but
+also better poised to exploit AI benefits than emerging market and developing economies. In advanced
+economies, about 60 percent of jobs are exposed to AI, due to prevalence of cognitive-task-oriented jobs. A
+new measure of potential AI complementarity suggests that, of these, about half may be negatively affected by
+AI, while the rest could benefit from enhanced productivity through AI integration. Overall exposure is 40
+percent in emerging market economies and 26 percent in low-income countries. Although many emerging
+market and developing economies may experience less immediate AI-related disruptions, they are also less
+ready to seize AI’s advantages. This could exacerbate the digital divide and cross-country income disparity.
+AI will affect income and wealth inequality. Unlike previous waves of automation, which had the strongest
+effect on middle-skilled workers, AI displacement risks extend to higher-wage earners. However, potential AI
+complementarity is positively correlated with income. Hence, the effect on labor income inequality depends
+largely on the extent to which AI displaces or complements high-income workers. Model simulations suggest
+that, with high complementarity, higher-wage earners can expect a more-than-proportional increase in their
+labor income, leading to an increase in labor income inequality. This would amplify the increase in income and
+wealth inequality that results from enhanced capital returns that accrue to high earners. Countries’ choices
+regarding the definition of AI property rights, as well as redistributive and other fiscal policies, will ultimately
+shape its impact on income and wealth distribution.
+The gains in productivity, if strong, could result in higher growth and higher incomes for most workers.
+Owing to capital deepening and a productivity surge, AI adoption is expected to boost total income. If AI
+strongly complements human labor in certain occupations and the productivity gains are sufficiently large,
+higher growth and labor demand could more than compensate for the partial replacement of labor tasks by AI,
+and incomes could increase along most of the income distribution.
+College-educated workers are better prepared to move from jobs at risk of displacement to highcomplementarity jobs; older workers may be more vulnerable to the AI-driven transformation. In the UK
+and Brazil, for instance, college-educated individuals historically moved more easily from jobs now assessed to
+have high displacement potential to those with high complementarity. In contrast, workers without
+postsecondary education show reduced mobility. Younger workers who are adaptable and familiar with new
+technologies may also be better able to leverage the new opportunities. In contrast, older workers may struggle
+with reemployment, adapting to technology, mobility, and training for new job skills.
+To harness AI's potential fully, priorities depend on countries’ development levels. A novel AI
+preparedness index shows that advanced and more developed emerging market economies should invest in AI
+innovation and integration, while advancing adequate regulatory frameworks to optimize benefits from
+increased AI use. For less prepared emerging market and developing economies, foundational infrastructural
+development and building a digitally skilled labor force are paramount. For all economies, social safety nets
+and retraining for AI-susceptible workers are crucial to ensure inclusivity. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 3
+I. Introduction
+Artificial intelligence (AI) promises to boost productivity and growth, but its impact on economies and
+societies is uncertain, varying by job roles and sectors, with the potential to amplify disparities. As a
+positive productivity shock, AI will expand economies’ production frontiers and will lead to reallocations
+between labor and capital while triggering potentially profound changes in many jobs and sectors. AI offers
+unprecedented opportunities for solving complex problems and improving the accuracy of predictions,
+enhancing decision-making, boosting economic growth, and improving lives. However, precisely because of its
+vast and flexible applicability in numerous domains, the implications for economies and societies are uncertain
+(Ilzetzki and Jain 2023).
+AI represents a wide spectrum of technologies designed to enable machines to perceive, interpret, act,
+and learn with the intent to emulate human cognitive abilities. Across this spectrum, generative AI (GenAI)
+includes systems such as sophisticated large language models that can create new content, ranging from text
+to images, by learning from extensive training data. Other AI models, in contrast, are more specialized,
+focusing on discrete tasks such as pattern identification. Meanwhile, automation is characterized by its focus on
+optimizing repetitive tasks to boost productivity, rather than producing new content. The field of AI is
+experiencing a swift evolution, especially with the advent of GenAI, which has broadened AI's potential
+applications. This suggests that its impact will expand to reshape job functions and the division of labor.
+One critical dimension to consider is the societal acceptability of AI. Acceptability may vary depending on
+job roles. Some professions may seamlessly integrate AI tools, while others could face resistance because of
+cultural, ethical, or operational concerns. This uncertainty becomes especially pronounced in labor markets.
+Although AI holds the potential for production-oriented applications, its effect will likely be mixed. In some
+sectors where human oversight of AI is necessary, it could amplify worker productivity and labor demand.
+Conversely, in other sectors, AI might pave the way for significant job displacements. A rise in aggregate
+productivity of the economy could however strengthen overall economic demand, potentially creating more job
+opportunities for most workers in a ripple effect. Moreover, this evolution could also lead to the emergence of
+new sectors and job roles—and the disappearance of others—transcending mere intersectoral reallocation.
+Beyond immediate job effects, another critical economic dimension is the capital income channel. As AI
+drives efficiency and innovations, those who own AI technologies or have stakes in AI-driven industries may
+experience increased capital income. This shift could potentially exacerbate inequalities.
+AI challenges the belief that technology affects mainly middle and, in some cases, low-skill jobs: its
+advanced algorithms can now augment or replace high-skill roles previously thought immune to
+automation. While historical waves of automation and the integration of information technology affected
+predominantly routine tasks, AI's capabilities extend to cognitive functions, enabling it to process vast amounts
+of data, recognize patterns, and make decisions. As a result, even high-skill occupations, which were
+previously considered immune to automation because of their complexity and reliance on deep expertise now
+face potential disruption.1 Jobs that require nuanced judgment, creative problem-solving, or intricate data
+
+1 Another historical example of technology that hit the relatively educated is the introduction of the calculator. Before the widespread
+use of calculators, the role of accountants was considered a medium- to high-skill job, given that a significant portion of the
+population was uneducated. The introduction of calculators led to a reduction in the number of accountants (Wootton and Kemmerer
+2007). 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 4
+interpretation—traditionally the domain of highly educated professionals—may now be augmented or even
+replaced by advanced AI algorithms, potentially exacerbating inequality across and within occupations. This
+shift challenges the conventional wisdom that technological advances threaten primarily lower-skill jobs and
+points to a broader and deeper transformation of the labor market than by previous technological revolutions.
+The impact of AI is also likely to differ significantly across countries at different levels of development
+or with different economic structures. Advanced economies, with their mature industries and service-driven
+economies, typically have a higher concentration of jobs in sectors that require complex cognitive tasks. These
+economies are therefore both more susceptible to, yet better positioned to benefit from, AI innovations.
+Conversely, emerging market and developing economies, often still reliant on manual labor and traditional
+industries, may initially face fewer AI-induced disruptions. However, these economies may also miss out on
+early AI-driven productivity gains, given their lack of infrastructure and a skilled workforce. Over time, the AI
+divide could exacerbate existing economic disparities, with advanced economies harnessing AI for competitive
+advantage while emerging market and developing economies grapple with integrating AI into their growth
+models.
+To inform the discussion on the potential impact of AI on the future of work and which policies
+countries should enact in response, this note aims to answer six questions.
+(1) Which countries are more exposed to AI adoption? Which countries are likely to benefit most?
+(2) How differently will AI affect workers within countries? Which segments of workers are likely to thrive
+and which face more risks?
+(3) Historically, how frequently did workers shift between roles now facing varying AI exposure? What
+insights do these shifts reveal about labor adaptability?
+(4) In what ways could AI reshape income and wealth inequality?
+(5) What is the potential impact for growth and productivity?
+(6) Which countries appear better prepared for the AI transition? How can policies maximize gains and
+mitigate likely AI-related challenges?
+This note builds on a growing body of work that explores the impact of AI on labor markets and the
+macroeconomy. Many empirical studies so far have focused largely on the US, finding that many of the tasks
+of a significant portion of the workforce, including those of high-skilled workers, could be substantially replaced
+by AI (for example, Felten, Raj, and Seamans 2021, 2023; Eloundou and others 2023; Webb 2020). A few
+studies (OECD 2023; Albanesi and others 2023; Briggs and Kodnani 2023) adopt a cross-country approach;
+Gmyrek, Berg, and Bescond (2023) undertake a comprehensive review of emerging market economies and
+find less exposure to AI than in advanced economies; Colombo, Mercorio, and Mezzanzanica (2019) focus on
+the Italian labor market. These studies apply empirical approaches similar to those used in the automation
+literature (for example, Autor and Dorn 2013, Acemoglu and Restrepo 2022, Das and Hilgenstock 2022).
+This note contributes to the existing literature in four significant ways. First, while previous AI exposure
+measures often implicitly equate exposure with substitutability of human tasks, this note attempts to assess the
+potential for complementarity and substitution with labor, using the approach developed by Pizzinelli and others
+(2023). This method considers the wider social, ethical, and physical context of occupations, along with
+required skill levels, to discern whether AI may complement or replace roles. This adds to recent studies that
+have attempted to make this distinction using a purely task-based framework (Acemoglu and Restrepo 2018,
+2022; Gmyrek, Bert, and Bescond 2023). Second, the note offers some initial insight into the potential for 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 5
+workers to make the transition from occupations at risk of displacement to those with high AI-complementarity
+potential, drawing on microdata for one advanced and one emerging market economy. Third, it takes a deep
+look at how AI may affect income and wealth inequality within countries. It dissects AI exposure patterns across
+demographics and earnings levels and uses a model-based analysis to evaluate AI's impact on labor and
+capital income inequality, as well as on income levels. Last, the note examines how AI preparedness for this
+technological shift may differ across countries at different income levels, using a very large sample of advanced
+and emerging market and developing economies.
+With this analysis there are some important caveats. First, although in the model analysis activity grows in
+occupations with high AI complementarity and falls in low-complementarity occupations—mimicking sectoral
+reallocations—the analysis on AI exposure assumes that sector sizes are fixed and that the tasks required in
+each occupation are unchanged. Consequently, the results are more pertinent for the short to medium term.
+Over longer horizons, workers will likely migrate across different sectors and roles, or acquire new skills, and
+jobs will evolve. In addition, the analysis assumes that workers within the same occupation will be affected in
+the same way, but there can be variation in the effects of AI. AI may also affect firm dynamics and market
+concentration (Babina and others, forthcoming), driving inequality between workers at different firms. Second,
+the study relies on the premise that tasks performed within similar occupations are homogenous around the
+world, while there can be significant cross-country variations. Third, the approach abstracts from linkages
+across occupations and countries (trade linkages), as well as from cross-border spillovers of AI exposure. Last,
+while the analyses on workers’ AI exposure and societies’ preparedness use empirical approaches, the
+potential impacts on inequality and productivity are analyzed with a model. The latter therefore depend on
+potentially strong calibration assumptions. The pace of AI adoption, influenced by the time needed by firms to
+invest in any necessary physical capital and the reorganization required to capitalize on AI, is difficult to
+foresee. Likewise, the time required to exert aggregate macroeconomic effects, the impact on intersectoral
+reallocation of factors for production, the birth of new industries, and AI’s exact implications for economies and
+societies are challenging to predict. Any estimate embodies a level of uncertainty reminiscent of past
+introductions of general-purpose technologies, such as electricity. This uncertainty applies also to the results of
+this note.
+The remainder of the note is structured as follows. Section II illustrates the conceptual framework of AI
+exposure and complementarity and attempts to quantify empirically the degree of exposure to and
+complementarity with AI across countries and groups of workers within countries. Section III examines how
+easily workers have historically shifted across roles now facing varying degrees of AI exposure and
+complementarity. Section IV uses a model to project potential implications of AI adoption for productivity,
+incomes, and inequality. Section V assesses countries’ AI preparedness in key policy areas. Section VI
+concludes and presents policy considerations.
+II. AI Exposure and Complementarity
+II.1 Conceptual Framework
+Assessing the impact of AI on employment is complex because of its swift evolution, uncertainty in
+integration across production processes, and shifting societal perceptions. Given the rapid advance and
+evolving capabilities of AI-based technologies, which production processes will integrate AI and which human 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 6
+tasks will be replaced or enhanced remain uncertain. Over time, the changing social acceptability of AI could
+also affect its integration into production processes.
+This note refines a commonly used conceptual framework to better measure human work’s exposure
+to, and complementarity with, AI. To study the effect of technological innovation on jobs, it is standard to
+conceptualize individual occupations as a bundle of tasks and to consider which tasks can be replaced or
+complemented by technology (see for instance Acemoglu and Restrepo 2022; and Moll, Rachel, and Restrepo
+2022 for recent applications). Felten, Raj, and Seamans (2021, 2023) define “exposure” to AI as the degree of
+overlap between AI applications and required human abilities in each occupation. The analysis refines this
+approach by augmenting it with Pizzinelli and others’ (2023) index of potential AI complementarity. This index
+leverages information on the social, ethical, and physical context of occupations, along with required skill levels
+(see Box 1 for details). The index reflects an occupation’s likely degree of shielding from AI-driven job
+displacement and, when paired with high AI exposure, gives an indication of AI complementarity potential. For
+example, because of advances in textual analysis, judges are highly exposed to AI, but they are also highly
+shielded from displacement because society is currently unlikely to delegate judicial rulings to unsupervised AI.
+Consequently, AI will likely complement judges, increasing their productivity rather than replacing them.2
+Conversely, clerical workers, who are also very exposed to AI but have a lower level of shielding, are more at
+risk of being displaced. The level of shielding and complementarity will likely evolve over time and at a different
+pace across countries, reflecting higher AI accuracy, which will decrease the chances for “hallucinations”—AI
+system output that is not based on reality or a given context. Social preferences and available alternatives will
+also play a role (see Pizzinelli and others 2023 for quantitative illustrations of this phenomenon). For example,
+in low-income countries, where trained doctors are scarce, scalable AI-backed medical consultations may be
+viewed as an attractive option. The remainder of this note refers to the complementarity potential driven by high
+AI exposure and high shielding more succinctly as “complementarity.”
+Joint consideration of exposure and complementarity indicates the types of labor market
+developments each occupation is more likely to experience with AI adoption. Occupations with high
+exposure for which AI can autonomously complete tasks may see reduced human labor demand, leading to
+lower wages. Jobs that require human supervision over AI may experience a boost in productivity, which would
+raise labor demand and wages for incumbent workers. However, even in occupations in which AI is likely to
+complement human labor, workers without AI-related skills risk reduced employment. Hence, the ease of
+acquiring AI-related skills will determine the ultimate impact of this technology.
+Based on these two criteria, occupations can be categorized into three groups: “high exposure, high
+complementarity”; “high exposure, low complementarity”; and “low exposure” (see Box 1).3
+ Although
+the indicators (and the thresholds adopted to define what is high and low, represented by their median values)
+are relative measures, this categorization highlights the overarching differences across occupations in terms of
+their AI exposure and complementarity potential. High-exposure, high-complementarity occupations have
+significant potential for AI support, as AI can complement workers in their tasks and decision-making. However,
+there is limited scope for unsupervised use of AI in these roles. These are primarily cognitive jobs with a high
+degree of responsibility and interpersonal interactions, such as those performed by surgeons, lawyers, and
+
+2 One caveat is the possibility that increased productivity for certain high-exposure, high-complementarity jobs may lead to a decline
+in their demand.
+3 As discussed in Box 1, complementarity is of limited relevance when AI exposure is limited. Hence, for the sake of simplicity, this
+note groups occupations with low exposure together regardless of their potential complementarity. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 7
+judges. In such roles, workers can potentially reap the productivity benefits from AI, provided they have the
+skills needed to interact with the technology. On the other hand, high-exposure, low-complementarity
+occupations are well positioned for AI integration, but there is a greater likelihood that AI will replace human
+tasks. This could lead to a decline in labor demand and slower wage growth for these jobs. Telemarketers are
+a prime example. Last, low-exposure occupations” have minimal or no potential for AI application. This group
+encompasses a diverse range of professions, from dishwashers and performers to others.
+This conceptual framework is subject to several caveats. First, the index of Felten, Raj, and Seamans
+(2021) and the complementarity measure discussed in Box 1 offer only a relative interpretation. In other words,
+these measures tell us whether a given occupation is more or less exposed, or complementary, than others.
+Second, high complementarity can still result in displacement from occupations of workers who do not have the
+required skills or whose employers do not invest in the technology. Companies investing in these technologies
+earlier would solidify commercial advantages over competitors. In other words, while the analysis assumes that
+workers within the same occupation will be affected in the same way, there can be variation in the effects of AI.
+Firms that are more successful at integrating AI may increase their productivity more than competitors and pay
+higher wages, exacerbating intra-occupational inequality. Third, the conceptual framework provides only a
+static view of exposure and complementarity. In this regard, it does not speak to the existing or prospective
+availability of necessary IT infrastructure or to workers’ ability to acquire the needed skills or to relocate across
+different occupations. Neither does it take into account the effects of ongoing integration of AI and robotics. In
+addition, it does not factor in potential changes in societal preferences, which will also shape regulations and
+could make unsupervised AI acceptable in a growing number of contexts or ban its use in others. On the
+macroeconomic side, it does not account for adoption speed and the factors influencing adoption, including
+costs borne by firms compared with productivity benefits. The conceptual framework also does not factor in
+feedback effects, which, for example—through higher overall productivity as a result of AI adoption—could
+boost labor demand for most types of jobs, partially offsetting potential negative impacts of AI.
+The note applies this categorization to appraise the exposure of the current employment structure to AI
+for a large number of countries. The definitions are applied to 142 countries using the online International
+Labour Organization (ILO) employment database and an internationally consistent classification of occupations.
+To examine within-country variation, a more granular level of the categorization—based on more than 400
+occupation titles—is also applied to countries with good microdata coverage: two advanced economies (UK
+and US) and four emerging market economies (Brazil, Colombia, India, South Africa).4
+
+II.2 Cross-Country Differences
+About 40 percent of workers worldwide are in high-exposure occupations; the share is 60 percent in
+advanced economies, which indicates potentially large macroeconomic implications. Advanced
+economies have a greater share of high-exposure occupations, with either low or high complementarity, than
+emerging market economies and low-income countries (Figure 1, panel 1). In the average advanced economy,
+27 percent of employment is in high-exposure, high-complementarity occupations, 33 percent in high-exposure,
+low-complementarity jobs. In comparison, emerging market economies have corresponding shares of 16 and
+
+4 Specifically, the analysis of the 142 countries from the ILO database uses 72 sub-major occupation groups (2-digit level) of the
+International Standard Classification of Occupations (ISCO)-08 classification. The microdata analysis uses the 130 minor groups (3-
+digit) of the same classification for India and the 436 unit groups (4-digit) for the other five countries. See Annex 1 for details. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 8
+24 percent, respectively, and low-income countries have shares of 8 and 18 percent, respectively.5 A similar
+result emerges when looking at selected individual countries using more refined classifications (Figure 1, panel
+2). Almost 70 and 60 percent of UK and US employment, respectively, is in high-exposure occupations,
+approximately equally distributed between those that are high- and low-complementarity positions. Highexposure employment in emerging market economies ranges from 41 percent in Brazil to 26 percent in India.
+Figure 1. Employment Shares by AI Exposure and Complementarity: Country Groups and Selected
+Individual Countries
+1. Country Groups
+(Percent)
+2. Selected Countries
+(Percent)
+Sources: American Community Survey; Gran Encuesta Integrada de Hogares; India Periodic Labour Force Survey; International Labour
+Organization; Labour Market Dynamics in South Africa; Pesquisa Nacional por Amostra de Domicílios Contínua; UK Labour Force Survey; and IMF
+staff calculations.
+Note: Country labels use International Organization for Standardization (ISO) country codes. AEs = advanced economies; EMs = emerging market
+economies; LICs = low-income countries; World = all countries in the sample. Share of employment within each country group is calculated as the
+working-age-population-weighted average.
+The composition of the labor force in terms of broad occupational groups reflecting countries’
+economic structure explains most of the differences in exposure and complementarity across
+countries. Figure 2 reports the employment shares by occupational groups for three countries with markedly
+different shares of employment in exposed occupations. The UK has a significant portion of employment in
+professional and managerial occupations, which exhibit high exposure and high complementarity, and in
+clerical support workers and technician occupations, generally high exposure and low complementarity. In India
+most workers are craftspeople, skilled agricultural workers, and low-skilled, or “elementary” workers; most of
+these are in the low-exposure category. Brazil represents a broadly intermediate case.
+
+5 There is heterogeneity behind average figures. In advanced economies the share of employment in high-exposure, highcomplementarity occupations (HEHCs) ranges between 20.2 and 37.3 percent; the share in high-exposure, low-complementarity
+occupations (HELCs) ranges between 25.9 and 46.1 percent; and the share in low-exposure occupations (LEs) ranges between
+22.5 and 53.6 percent. In emerging market economies, the ranges are 5.7–28.2 percent for HEHCs, 10.4–34.7 percent for HELCs,
+and 46.1–75.9 percent for LEs. In low-income countries, the ranges are 2–35.3 percent for HEHCs, 1.4–33 percent for HELCs, and
+54–96.1 percent for LEs.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 9
+Figure 2. Employment Share by Exposure and Complementarity (Selected Countries)
+1. Brazil
+(Percent)
+2. United Kingdom
+(Percent)
+3. India
+(Percent)
+Sources: India Periodic Labour Force Survey; Pesquisa Nacional por Amostra de Domicílios Contínua; UK Labour Force Survey; and IMF staff calculations.
+Note: The charts plot the total employment share by each of the nine 1-digit International Standard Classification of Occupations (ISCO)-08 occupation
+codes.
+These findings suggest that advanced economies may be more susceptible to labor market shifts from
+AI adoption, materializing over a shorter time horizon than in emerging market economies and lowincome countries. Given their high shares of employment in both low- and high-complementarity occupations,
+advanced economies may experience a more polarized effect from the structural transformation brought about
+by AI. On one hand, they face a greater risk of labor displacement and harmful income developments for
+workers in the high-exposure and low-complementarity occupations. On the other hand, they are better
+positioned to take advantage early of the emerging AI growth opportunities as a result of their larger amount of
+employment in high-exposure and high-complementarity jobs. The net employment impact will depend on
+countries’ ability to innovate, adopt, and adapt to AI. Both advanced and emerging market and developing
+economies are subject to considerable uncertainty surrounding these predictions. For example, in low-income
+countries AI adoption could mirror the swift adoption of mobile technology and lead to large marginal benefits
+from AI. In addition, with the appropriate digital infrastructure in place, AI may also represent an opportunity for
+emerging market and developing economies to address skill shortages, especially in the health and education
+sectors, potentially increasing inclusion and productivity (Box 2).
+II.3 Within-Country Differences
+Beyond the overall exposure of each country to AI, different groups within countries are likely to be
+affected differently. The advent of AI could exacerbate inequality within countries along various dimensions,
+such as the income level of individuals, their education level, or their gender. Understanding which groups are
+most vulnerable is essential to design policies that can mitigate those effects. Interestingly, while the overall
+exposure of countries to AI differs significantly between advanced and emerging market and developing
+economies, the patterns of exposure across individuals within countries are very similar for the two advanced
+economies and the four emerging market economies included in the granular microdata analysis. An important
+caveat is that findings may be different in other countries.
+Exposure is higher for women and for more educated workers but is mitigated by a higher potential for
+complementarity with AI (Figure 3). In most countries, women tend to be employed in high-exposure
+occupations more than men (Figure 3, panel 1). Because this share is distributed approximately equally 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 10
+between low- and high-complementarity jobs, the result can be interpreted to mean that women face both
+greater risks and greater opportunities. Exceptions to this pattern may be attributed to high shares of women in
+agricultural jobs, especially in countries where the farming sector is large (for example, India). Turning to
+education, in all countries examined, higher education levels are associated with a greater share of
+employment in high-exposure occupations, but this is especially pronounced in occupations with high
+complementarity (Figure 3, panel 2). The higher level of exposure supports the popular view that, unlike
+automation, AI could more strongly affect high-skilled workers. However, higher exposure is alleviated by
+greater potential for complementarity. Last, age differences do not exhibit a common pattern (Figure 3, panel
+3). This is because the composition of different age cohorts in terms of gender and education is very distinct
+across countries, thus overshadowing age-based differences. In the UK and the US, younger groups have
+more college-educated individuals thanks to increased university attendance over the past 30 years; gender
+composition of age groups is similar. In emerging market economies and low-income countries, there are fewer
+people with higher education, but younger groups have more women thanks to recent rises in female labor
+participation.
+Figure 3. Share of Employment in High-Exposure Occupations by Demographic Groups
+1. By Gender
+(Percent)
+2. By Education
+(Percent)
+3. By Age
+(Percent)
+
+Sources: American Community Survey; Gran Encuesta Integrada de Hogares; India Periodic Labour Force Survey; Labour Market Dynamics in
+South Africa; Pesquisa Nacional por Amostra de Domicílios Contínua; UK Labour Force Survey; and IMF staff calculations.
+Note: The bars represent employment shares in high-exposure occupations. In panel 1, employment shares are conditional on each gender
+category. In panel 2, employment shares are conditional on each of the four education categories (middle school and below, high school, some
+college, college or higher). In panel 3, employment shares are conditional on each of the four age intervals. Country labels use International
+Organization for Standardization (ISO) country codes.
+Exposure is spread along the labor income distribution, but potential gains from AI are positively
+correlated with income. The share of employment in occupations at risk of displacement (high-exposure, lowcomplementarity jobs; Figure 4, panel 1) is broadly similar across income quantiles (with a mildly positive slope
+in emerging market economies). This differs from previous waves of automation and information technology
+during which risks of displacement were highest for middle-income earners. Consistent with popular discourse,
+AI differs from traditional automation by potentially affecting jobs of workers throughout the income distribution.
+However, employment in occupations that have a high potential for complementarity with AI (high-exposure,
+high-complementarity jobs; Figure 4, panel 2) is more concentrated in the upper-income quantiles. The
+correlation between earnings and potential complementarity is consistent with the findings on education level
+and is even more pronounced for emerging market economies (Figure 4, panel 3). This suggests that AI’s
+gains will likely disproportionately accrue to higher-income earners, especially in countries such as India and, to
+a lesser extent, the US, where complementarity steadily rises at the top of the distribution. The phenomenon
+will likely be more muted in countries such as the UK, where the increase in complementarity plateaus at the
+top. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 11
+Figure 4. Share of Employment in High-Exposure Occupations and Potential Complementarity by
+Income Deciles
+1. High-Exposure, LowComplementarity
+(Percent)
+2. High-Exposure, HighComplementarity
+(Percent)
+3. Potential Complementarity
+Sources: American Community Survey; Gran Encuesta Integrada de Hogares; India Periodic Labour Force Survey; Labour Market Dynamics in
+South Africa; Pesquisa Nacional por Amostra de Domicílios Contínua; Pizzinelli and others (2023); UK Labour Force Survey; and IMF staff
+calculations.
+Note: Panel 1 shows the employment share in jobs with high exposure but low complementarity, and panel 2 presents the employment share in jobs
+with high exposure and high complementarity, each categorized by income deciles. Panel 3 shows the potential AI occupational complementarity
+from Pizzinelli and others (2023), averaged and grouped by income deciles. Country labels use International Organization for Standardization (ISO)
+country codes.
+III. Worker Reallocation in the AI-Induced
+Transformation
+In the long term, workers will adjust to changing skill demands and sector shifts, with some potentially
+transitioning to high-AI-complementarity roles and some struggling to adapt. The previous section
+provided a static picture of AI exposure based on the current employment composition of countries. Over time,
+however, workers are likely to adapt to the evolving labor market. Although the analysis on AI exposure and
+complementarity is conducted at the occupational level, it is important to make a distinction between jobs and
+workers. AI adoption may destroy some jobs (and displace the associated workers) and create or enhance
+others—but whether the incumbents are the ones who can reap the associated benefits is unclear. The
+employment effects will likely depend on worker characteristics, which in turn will affect their adaptability.
+Historical data suggest that some workers may struggle to adapt to technology-induced shifts in the job
+market.6
+Historical job transition patterns suggest how workers could adapt. This section analyzes microdata from
+Brazil and the UK to examine worker transition across occupations with different current AI exposure and
+
+6 In the US, Cortes, Jaimovich and Siu (2017) found that less-educated young men contributed to the decline in routine manual jobs
+since the 1980s, while women with intermediate education led the fall in routine cognitive jobs. These workers often moved to lowwage occupations or nonemployment. Most of the reallocation took place through fewer moves into these occupations from
+unemployment and inactivity (Cortes and others 2020), suggesting that automation affected job seekers more than current workers.
+In the UK, Dabla-Norris, Pizzinelli, and Rappaport (2023) found that routine job decline affected women without college degrees
+differently across ages: older women shifted to higher-paying jobs, while younger ones went to lower-paying manual jobs. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 12
+complementarity.7 It explores whether age and education affect transitions8 and how these characteristics
+affect incomes. In general, workers switch between similar types of occupations, indicating potentially limited
+flexibility in adjusting to evolving labor markets. However, there is a significant fraction of switches across
+occupations with different levels of exposure to AI. Analyzing these dynamics can provide suggestive evidence
+on possible worker movements following AI adoption and help identify potentially vulnerable groups.
+Figure 5. Occupational Transitions for College-Educated Workers in Brazil and the United Kingdom
+1. Brazil
+(Percent)
+2. United Kingdom
+(Percent)
+Sources: Pesquisa Nacional por Amostra de Domicílios Contínua; UK Labour Force Survey; and IMF staff calculations.
+Note: “From” indicates the exposure category of the occupation the individual had in the preceding quarter; “to” indicates the exposure category of
+the occupation the worker transitioned to. The share of transitions represents the average share of transitions in the “from” category for collegeeducated workers who go to the “to” category.
+Workers with a college education have historically shown a greater ability to transition into what are
+now jobs with high AI-complementarity potential. Both college- and non-college-educated workers
+frequently change occupations. The average yearly occupation-switching probability is 43.7 percent in Brazil
+and 29.8 percent in the UK for college-educated workers and 38 percent and 27 percent for non-collegeeducated workers.9 College-educated individuals working in what are or may become AI-intensive jobs tend to
+stay within such environments when they switch jobs, irrespective of AI’s complementarity to their roles (Figure
+5). In addition, more than a third of those moving away from low-complementarity jobs shift toward roles with
+higher AI complementarity, which demonstrates a potential avenue for job growth. Non-college-educated
+workers are predominantly found in low-AI-exposure jobs and are less inclined to move to highcomplementarity positions when they switch from high-exposure, low-complementarity occupations.10
+
+7 Annex 3 provides details on the data used for the analysis, and Cazzaniga and others (forthcoming) describe the methodology
+and perform further analysis. The analysis in this section is conducted only for the UK and Brazil because the labor force surveys for
+these two countries are structured as rotating panels, which allows for tracking individual workers over time. The analysis, however,
+comes with a caveat: cohort effects are not included because of the limited time series dimension of the data.
+8 Gender is not directly discussed in this section because the main results presented below for each education group hold for both
+males and females separately.
+9 These values are broadly in line with other evidence on occupational mobility in advanced economies and emerging markets. For
+instance, for the US, Kambourov and Manovskii (2009) estimate a yearly occupation switching rate of 21 percent, while Moscarini
+and Vella (2008) estimate a monthly rate of 3.5 percent, equivalent to 34.7 percent annually. Meanwhile, for Brazil, Monsueto,
+Moreira Cunha, and da Silva Bichara (2014) estimate a 30 percent occupation switching rate over a period of four months.
+10 Industry switches also happen, but the classification of AI exposure and complementarity has not been conducted at the industry
+level. While some occupations are industry-specific (for example, doctors typically work in health care), others are more versatile
+and can cross into other industries.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 13
+Figure 6. Life-Cycle Profiles of Employment Shares by Education Level, Brazil and the United
+Kingdom
+1. Brazil
+(Percent)
+
+2. United Kingdom
+(Percent)
+Sources: Pesquisa Nacional por Amostra de Domicílios Contínua; UK Labour Force Survey; and IMF staff calculations.
+Note: The panels plot the estimated share of employment by age for each exposure category for college- and non-college-educated workers,
+according to the calculations described in Annex 3.
+AI adoption poses challenges but represents an opportunity for young college-educated workers’
+careers. Figure 6 shows that college-educated workers often transition from low- to high-complementarity jobs
+in their 20s and 30s. Their career progression stabilizes by their late 30s to early 50s, when they usually have
+reached senior roles and are less inclined to make significant job switches. Although non-college-educated
+workers show similar patterns, their progression is less pronounced, and they occupy fewer high-exposure
+positions. This suggests that young, educated workers are exposed to both potential labor market disruptions
+and opportunities in occupations likely to be affected by AI. On one hand, if low-complementarity positions,
+such as clerical jobs, serve as stepping stones toward high-complementarity jobs, a reduction in the demand
+for low-complementarity occupations could make young high-skilled workers’ entry into the labor market more
+difficult. On the other hand, AI may enable young college-educated workers to become experienced more
+quickly as they leverage their familiarity with new technologies to enhance their productivity. With the
+introduction of generative AI, the use of AI has itself become much easier. A recent study shows that the
+productivity impact of an AI-based conversational assistant was greatest for less experienced and low-skilled
+customer support workers; the effect on experienced and highly skilled workers was minimal (Brynjolfsson,
+Danielle, and Raymond 2023).
+Older workers may be less adaptable and face additional barriers to mobility, as reflected in their lower
+likelihood of reemployment after termination. Following job termination, older workers are less likely to
+secure new employment within a year than young and prime-age workers (Figure 7). Several factors can
+explain this discrepancy. First, older workers’ skills, though once in high demand, may now be obsolete as a
+result of rapid technological advances. Moreover, after significant time in a particular location, they may have
+geographic and emotional ties, such as to a spouse and children, that discourage them from relocation for new
+job opportunities. Financial obligations accumulated over the years might also make them less likely to accept
+positions with a pay cut. Last, having invested many years, if not decades, in a particular sector or occupation,
+there may be a natural reluctance or even a perceptual barrier to a transition to entirely new roles or industries.
+This may reflect a combination of comfort with familiar settings, concern about the learning curve in a new
+domain, or perceived age bias. These constraints are likely to be relevant also in the context of AI-induced
+disruptions. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 14
+Figure 7. One-Year Reemployment Probability of Separated Workers
+1. Brazil 2. United Kingdom
+Sources: Pesquisa Nacional por Amostra de Domicílios Contínua; UK Labour Force Survey; and IMF staff calculations.
+Note: The bars show the reemployment probability of workers who have recently (within the previous quarter) moved from employment to
+unemployment, which is defined as the share of these workers who are again employed one year later. “From” indicates the exposure category of
+the occupation the individual had before being unemployed, while “to” indicates the exposure category of the occupation the worker transitioned to.
+“Prime age” refers to workers over 35 and under 55; “old” refers to workers 55 and older.
+Historically, older workers have demonstrated less adaptability to technological advances; artificial
+intelligence may present a similar challenge for this demographic group. After unemployment, older
+workers previously employed in high-exposure and high-complementarity occupations are less likely to find
+jobs in the same category of occupation than prime-age workers (Figure 7). This difference in the
+reemployment dynamics can reflect technological change, changes in workers’ preferences, and age-related
+biases or stereotypes in the hiring processes in high-complementarity and high-exposure occupations.
+Technological change may affect older workers through the need to learn new skills. Firms may not find it
+beneficial to invest in teaching new skills to workers with a shorter career horizon; older workers may also be
+less likely to engage in such training, since the perceived benefit may be limited given the limited remaining
+years of employment. This effect can be magnified by the generosity of pension and unemployment insurance
+programs.11 These channels align with Braxton and Taska (2023), which finds that technology contributes 45
+percent of earnings losses following unemployment. This happens primarily because workers lacking new skills
+move to jobs where their existing skills are valued but that garner lower wages.
+Occupational switches also affect workers’ incomes. In both the Brazil and the UK, progressing to highexposure, high-complementarity occupations is associated with higher wages (Figure 8).12 Greater access to
+these types of jobs could thus be an significant driver of income growth for workers in advanced and emerging
+market and developing economies. In Brazil (Figure 8, panel 1), workers switching to low-exposure from highexposure occupations tend to experience a contraction in hourly wages. Hence, such transitions may be
+associated with income losses.
+
+11 See for example Yashiro and others (2022), who find that in Finland, older workers in occupations more exposed to digital
+technologies are more likely to exit employment each year, and this effect is amplified when the workers can access an extension of
+benefits, known as the “unemployment tunnel,” which extends unemployment benefits until retirement.
+12 A large amount of literature, starting with Kambourov and Manovskii (2009) finds that occupational mobility is an important driver
+of wage growth at the individual level and of wage inequality across workers.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 15
+Figure 8. Estimated Wage Premiums from Changing Occupation
+(Percent)
+1. Brazil 2. United Kingdom
+Sources: Pesquisa Nacional por Amostra de Domicílios Contínua; UK Labour Force Survey; and IMF staff calculations.
+Note: “From” indicates the exposure category of the occupation the individual had in the preceding year, while “to” indicates the exposure category
+of the occupation the worker transitioned to. The premiums are relative to stayers; that is, they represent the increase or decrease in wages in relation
+to workers in the “from” category who did not switch occupations over a year. Wage premiums are calculated according to the regression specification
+in Annex 2. 95 percent confidence intervals for the point estimates are shown by whiskers.
+In summary, as AI reshapes the labor market, workers will likely adapt to shifting demands, with
+outcomes varying by education and age. Young college-educated workers are the most vulnerable yet the
+most adaptable, often seesawing between job types. Historical patterns from Brazil and the UK reveal that
+high-exposure, high-complementarity roles offer wage premiums, while switching to low-exposure roles might
+decrease wages. The tendency for workers of all ages to return to similar roles after unemployment suggests
+some labor market inflexibility. The ability to adjust is crucial for navigating AI-induced changes. Last, while the
+historical patterns examined in this section are informative, the structural transformation AI adoption will
+generate is still uncertain, and no one knows for sure how the labor market as a whole and individual workers
+will be able to adjust.
+IV. AI, Productivity, and Inequality
+In this section, a model-based analysis is used to evaluate the potential impact of AI adoption on the
+economy and inequality. This analytical approach serves as a complement to the preceding empirical
+findings by examining broader effects on the economy, highlighting three critical channels through which AI
+may affect it: (1) labor displacement, (2) complementarity, and (3) productivity gains. These three channels are
+essential to gauging the potential impact of AI adoption. First, AI adoption may shift tasks previously performed
+by labor to AI capital, leading to a reduction in labor income. Second, AI adoption may increase the importance
+of tasks that are not displaced by AI, particularly in occupations with high complementarity between human
+labor and AI. This leads to a shift in value added and labor demand toward occupations with high AI
+complementarity and away from other occupations. Third, AI adoption may lead to broad-based productivity
+gains, boosting investment and increasing overall labor demand, which may offset some of the decline in labor
+income caused by AI-induced labor displacement. As a result, the overall impact of AI on income levels and
+inequality will depend on the extent to which gains in economic activity generated by AI-induced productivity
+compensate for any labor income losses. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 16
+To understand AI's impact on income levels and income inequality, both labor and capital income
+channels must be examined. A task-based model, detailed in Rockall, Pizzinelli, and Tavares (forthcoming),
+is developed. The model builds on the work of Drozd, Taschereau-Dumouchel, and Tavares (2022) and Moll,
+Rachel, and Restrepo (2022). Agents differ by their labor productivity and asset holdings, offering a rich picture
+of the income and wealth distribution. AI is assumed to be adopted at its maximum potential and affects agents
+according to their AI exposure and complementarity potential. Within this analytical framework, AI's effect on
+income operates primarily through the three channels mentioned above. AI adoption also leads to increases in
+the return on capital, raising capital income, which in turn increases wealth and wealth inequality consistently
+with the initial distribution of asset holdings.
+The model is calibrated to the United Kingdom, a country that is highly exposed to AI adoption.
+Workers’ income is divided into three categories: (1) labor income, which can be positively or negatively
+exposed to AI depending on its degree of complementarity with workers’ skills; (2) capital income, which
+increases with AI adoption; and (3) benefits and other income (government benefits, pensions, and so forth).13
+Figure 9, panel 1, shows that high-income workers have a much larger share of capital income than middleand low-income workers, suggesting that this source of income may play a crucial role in determining the
+income inequality impact of AI adoption. Middle- and low-income workers’ total income depends more on labor
+income. The impact of AI on labor income will vary with workers’ AI exposure and complementarity. In line with
+the evidence presented in Section II, Figure 9, panel 2, shows that workers’ exposure to AI increases with their
+income. However, workers’ potential complementarity with AI also increases with income, albeit in the case of
+the UK, it peaks around the 75th percentile, declining slightly thereafter.
+The impact of AI is simulated by building three scenarios, which assume a labor share decline in line
+with comparable historical episodes associated with automation. The decrease in the labor share has
+historically been associated with routine-biased automation and, to a lesser extent, with increased trade,
+growing markups, and declining worker bargaining power resulting from the weakening of labor unions.14
+Drawing on the change observed in the UK between 1980 and 2014 as a possible scenario, we assume that
+the labor share declines by 5.5 percentage points following the introduction of AI. This impact is spread across
+the income distribution, depending on workers’ AI exposure and complementarity, as shown in Figure 9, panel
+2. The three scenarios embed the same displacement of labor tasks via the capital deepening effect but are
+differentiated by (1) low-complementarity, if AI only mildly increases the demand for high-complementarity
+occupations; (2) high-complementarity, if AI strongly supports the demand for high-complementarity
+occupations; and (3) high-complementarity and high productivity, if AI strongly complements highcomplementary occupations, as in scenario (2), and further augments the productivity of the economy,
+predominantly through workers in high-complementarity occupations. The productivity increase is calibrated to
+generate close to a 1.5 percentage point increase in the workers’ average annual productivity growth rate in the
+first 10 years after AI adoption. This value is at the lower end of firm-level studies estimating the potential
+impact of AI adoption on workers’ productivity (as discussed in Briggs and Kodnani 2023).15
+
+13 While pension benefits are usually classified as ordinary income, pension fund income is classified as capital income. For
+simplicity, in Figure 9, panel 1, pension income is lumped together with government benefits and other income.
+14 See IMF (2017); Dao, Mitali, and Koczan (2019); and Bergholt, Furlanetto, and Maffei-Faccioli (2022) for factors that may explain
+the decline in the labor share.
+15 While the analysis presented in this section compares steady-state scenarios, the model would also allow for the study of shortterm dynamics toward the long-term steady state. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 17
+Figure 9. Exposure to AI and to Automation and Income in the UK
+1. Exposure of Income to AI
+(British pounds)
+2. Exposure and Complementarity by Income
+Percentiles
+(AI and complementarity index)
+Sources: UK Office for National Statistics, Wealth and Assets Survey; and IMF staff calculations.
+Note: Panel 1 shows three categories of workers’ income by total income percentiles: (1) wage income; (2) benefits, pensions, and other income;
+and (3) capital income (rents and estimated investment income). In panel 2, AI exposure is measured as the share of total hours worked in a job in
+the top 30 percent of AI Occupational Exposure scores, from Felten, Raj, and Seamans (2021), weighted by hours worked. This threshold is chosen
+to make the analysis comparable with historical episodes of automation. AI complementarity is measured by considering work contexts and skills, as
+discussed in Box 1 and in detail in Pizzinelli and others (2023). In the panel, we plot AI exposure and complementarity by total income percentiles.
+RHS = right scale.
+The impact of AI on labor income inequality depends on the race between the degree of exposure to,
+and complementarity with, AI, and its boost to productivity.16 When AI has low complementarity with labor,
+AI adoption leads to a decline in labor income inequality (Figure 10) because of the displacement effect. At the
+top of the income distribution the displacement effect is larger than the complementarity gains, leading to a
+labor income decline at the top. When AI is highly complementary to labor, the complementarity effect becomes
+stronger than the displacement effect, particularly in the upper half of the income distribution, leading to a
+smaller share of high-income workers negatively affected by AI compared with the low-complementarity case.
+The share of workers negatively affected at the top drops from almost 15 percent to less than 5 percent. This
+high complementarity also leads to a decline in the labor income of those with less complementary tasks, who
+are typically among low-income workers. As a consequence, labor income inequality increases. Last, when the
+AI productivity impact is also considered, labor income rises for all workers in the economy, even for the
+workers who have low exposure and those with high exposure and low complementarity. The main reason is
+that higher productivity leads to higher demand for all factors of production in the economy, leading to
+increased labor income. However, labor income inequality rises because the increase is larger for workers with
+high AI complementarity.
+Unlike labor income inequality, capital income and wealth inequality always increase with AI adoption
+(Figure 10). The main reason for the increase in capital income and wealth inequality is that AI leads to labor
+displacement and an increase in the demand for AI capital, increasing capital returns and asset holdings' value.
+In all scenarios, interest rates increase by almost 0.4 percentage point, with the potential to partially offset the
+decline in the natural rate of interest in the UK and advanced economies in general.17 Since in the model, as in
+
+16 Annex 4 discusses two additional hypothetical scenarios that disentangle the importance of exposure and complementarity.
+17 The increase in the interest rate is approximately of the same magnitude as the decline in the UK natural rate attributable to
+demographics (IMF 2023).
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 18
+the data, high-income workers hold a large share of assets, they benefit more from the rise in capital returns.
+As a result, in all scenarios, independent of the impact on labor income, the total income of top earners
+increases because of capital income gains. These model simulations abstract from possible changes in the
+definition of property rights, as well as changes in fiscal and redistributive policies, which can help reshape
+distributional outcomes (see, for example, Berg and others 2021, in the context of automation; and Klinova and
+Korinek 2021, in the context of AI).
+Figure 10. Change in Total Income by Income Percentile
+1. Low Complementarity
+(Percent)
+2. High Complementarity
+(Percent)
+3. High Complementarity and High
+Productivity (Percent)
+Source: IMF staff calculations.
+Note: The panels show three scenarios from the model: (1) low complementarity, (2) high complementarity, and (3) high complementarity and high
+productivity. For all scenarios, the calibrated change in the capital share is the same: 5.5 percentage points, based on the change in the capital share
+during 1980–2014. The panels show the change in total income by income percentile, decomposed into the change in labor income in blue and the
+change in capital income in orange. For more details on the model see Annex 4. P = percentile.
+Under the high-complementarity, high-productivity scenario, the increase in total national income is
+largest and benefits all workers, although gains for those at the top are larger. In the first scenario, in
+which AI has low complementarity, the use of AI leads to an increase in output of almost 10 percent thanks to a
+combination of capital deepening and a small increase
+in total factor productivity (Figure 11). When higher
+complementarity is considered (second scenario), the AI
+impact on output and total factor productivity is similar to
+the impact in the low-complementarity scenario because
+these scenarios assume the same capital deepening
+and capital productivity gains. However, higher
+complementarity leads to sectoral reallocation, with
+labor demand and economic activity moving from low- to
+high-complementarity occupations. Total income levels
+of low-income workers decline by 2 percent, while the
+gains at the top are almost 8 percent, leading to
+approximately the same increase in the level of national
+income as in the first scenario and an increase in labor
+income inequality. Last, when the productivity impact is
+also considered, output increases by 16 percent
+between steady states, and total factor productivity
+Figure 11. Impact on Aggregates
+(Percentage points, left scale; percent, right scale)
+ Source: IMF staff calculations.
+Note: The figure shows the change in the aggregate wage and
+wealth Gini between the initial and final distribution in each scenario,
+as well as the change in TFP and output. For more details on the
+model see Annex 4. RHS = right scale; TFP = total factor
+productivity.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 19
+increases by almost 4 percent. These gains happen primarily in the first 10 years of the transition. Under this
+third scenario, despite the increase in labor income inequality, the total income level increases for all workers in
+the economy, ranging from 2 percent for low-income workers to almost 14 percent for high-income workers.
+In emerging market and developing economies with higher initial inequality, AI could amplify wealth
+gaps and reduce wage disparity to a larger extent, but if the exposure to AI is lower and widespread, it
+could dampen these effects. An important issue is how model results may change when considering two
+aspects pertinent to emerging market and developing economies: (1) higher initial levels of income and wealth
+inequality and (2) lower exposure to AI. Simulations suggest that higher initial income and wealth inequality
+could exacerbate wealth disparity, because AI-associated gains accrue predominantly to top earners. At the
+same time, labor income inequality could decrease to a larger extent because of a higher concentration of AIexposed workers at the top of the income distribution. The final effect, however, depends on the degree of
+complementarity, as in the case of advanced economies. In an economy with fewer AI-exposed workers, the
+direct impact of AI on both income and wealth distribution may be less pronounced, given that fewer people
+stand to benefit from AI.18 Last, AI’s potential to enhance public services, modernize finance, and bolster such
+sectors as agriculture and health care could boost inclusion and productivity in emerging market and
+developing economies. Although these aspects are outside the scope of the model analysis, they are
+discussed in Box 2.
+Although the model simulations focus on within-country inequality, AI adoption may also have
+significant effects on global economic disparity, driven by potential reshoring of activities to advanced
+economies. Such a shift could trigger reallocation of capital and labor from less developed regions, which are
+not as prepared to harness AI, toward more technologically advanced and AI-ready countries (Alonso and
+others 2022). Call centers located in emerging market economies are a potential example. These could be at
+risk of replacement by AI-driven solutions, subsequently leading to their relocation to advanced economies. In
+addition to labor reallocation, the increased profitability of firms that adopt AI may generate an influx of capital
+from emerging market and developing economies to advanced economies, which could reduce equilibrium
+interest rates in advanced economies and exert downward pressure on capital income.19 Clearly, these
+dynamics are highly uncertain at this stage. It is also possible that, with sufficient investment, AI may help
+emerging market and developing economies leapfrog in certain sectors, facilitating the offshoring of a broader
+selection of tasks and thus reducing cross-country inequality.
+V. AI Preparedness
+Preparedness for AI adoption is essential to harness its potential and mitigate its inherent risks. AI
+adoption can result in diverse labor market outcomes across countries, particularly regarding workforce
+reallocation and inequality. These likely varied outcomes are intertwined with countries’ structural and
+institutional frameworks. A country's level of preparedness plays a pivotal role when it comes to maximizing
+AI's benefits while managing downside risks, as historical episodes of technology adoption demonstrate
+(Cirera, Comin, and Cruz 2022).
+
+18 An important caveat regards the extent to which wealthy people in emerging market and developing economies have invested in
+foreign stocks likely to benefit from AI adoption. If such investment is significant, wealthy individuals may get higher returns on their
+foreign capital holdings even if domestic adoption is low,.
+19 A multicountry version of the model could investigate this and other relevant issues.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 20
+This section proposes an AI Preparedness Index (AIPI), which covers multiple strategic areas for AI
+readiness. Drawing from the literature on the cross-country determinants of technology diffusion (for example,
+Keller 2004) and adoption (for example, Nicoletti, Rueden, and Andrews 2020), the index is made up of a
+selected set of macro-structural indicators that are relevant for AI adoption. These are organized under four
+categories: (1) digital infrastructure, (2) innovation and economic integration, (3) human capital and labor
+market policies, and (4) regulation and ethics. Annex 5 contains the full list of subindicators and details on the
+index construction methodology.
+Although each component of the AIPI is important individually, preparedness for AI-induced structural
+transformation will likely rely on the collective performance in all areas. For example, the digital
+infrastructure component, a crucial determinant of information and communications technology adoption (for
+example, Nicoletti, Rueden, and Andrews 2020) can lay the foundation for the diffusion and localized
+applications of AI technology. Nonetheless, such infrastructure would be of limited use absent a skilled
+workforce capable of leveraging digital platforms for innovative workplace applications (Bartel, Ichniowski, and
+Shaw 2007). Therefore, the human capital and labor market policies element, which incorporates the presence
+of social safety nets, assesses the prevalence and inclusive distribution of digital skills within the labor force
+and the presence of policies that facilitate labor reallocation while safeguarding those harmed by AI-induced
+transitions (Nicoletti, Rueden, and Andrews 2020). Coupled with strong infrastructure, a digitally skilled labor
+force is vital for innovation and economic integration (Autor, Levy, and Murnane 2003), which not only fosters
+domestic technological development through a vibrant R&D ecosystem but also promotes international trade
+and attracts foreign investment and new (AI) technologies (Bloom, Draca, and Van Reenen 2015). Last, the
+regulation and ethics dimension evaluates the extent to which the existing legal frameworks are adaptable to
+evolving new (digital) business models and the
+presence of strong governance for effective
+enforcement.
+Wealthier economies, including advanced and
+some emerging market economies, are generally
+better prepared than low-income countries to
+adopt AI, although there is considerable variation
+across countries (Figure 12). Broadly, advanced
+and some emerging market economies are highly
+exposed to potential disruptions from AI—amid a
+substantial share of employment in highly exposed
+occupations. Yet these highly exposed economies,
+notably the UK and US, as analyzed in Section II, are
+also well positioned to harness the benefits and
+mitigate the risks of AI thanks to their strong
+preparedness, particularly in digital infrastructure,
+human capital, and adaptable regulatory frameworks.
+On the other hand, low-income countries, although
+relatively less exposed, are underprepared across all
+dimensions to harness the benefits of AI. Notably,
+weak digital infrastructure and a less digitally skilled
+labor force are a concern. These
+Figure 12. AI Preparedness Index and
+Employment Share in High-Exposure
+Occupations
+Sources: Fraser Institute; International Labour Organization; International
+Telecommunication Union; United Nations; Universal Postal Union; World
+Bank; World Economic Forum; and IMF staff calculations.
+Note: The plot comprises 125 countries: 32 AEs, 56 EMs, and 37 LICs. The
+red reference lines are derived from the median values of the AI
+Preparedness Index and high-exposure employment. Exes denote the
+average values for each corresponding country group. Circles represent the
+average values for each respective country group. AEs = advanced
+economies; EMs = emerging market economies; LICs = low-income
+countries. Country labels use International Organization for Standardization
+(ISO) country codes.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 21
+cross-country differences risk amplifying the existing income gap between rich and poor economies, because
+advanced economies expect productivity increases, as shown by the model-based simulations in the previous
+section.
+Figure 13. Information and Communications Technology Employment Share and Individual
+Components of the AI Preparedness Index
+1. Digital Infrastructure 2. Human Capital and Labor Market Policies
+3. Innovation and Integration 4. Regulation and Ethics
+Sources: Fraser Institute; International Labour Organization; International Telecommunication Union; United Nations; Universal Postal Union; World
+Bank; World Economic Forum; and IMF staff calculations.
+Note: ICT employment refers to people working in the information and communications sector based on ISIC-Rev. 4 classification. 142 countries
+are included: 35 AEs, 67 EMs, and 40 LICs. Exes denote the average values for each corresponding country group. Circles represent the average
+values for each respective country group. Simple correlation (corr.) is also added for each country group. AEs = advanced economies; EMs =
+emerging market economies; ICT = information and communications technology; LICs = low-income countries; ISIC = International Standard
+Industrial Classification.
+Reform prioritization should align with AI preparedness gaps. In this context, it is useful to distinguish
+between foundational AI preparedness—digital infrastructure and human capital that enable workers and firms
+to adopt AI—and second-generation preparedness (innovation and legal frameworks). For economies with high
+AI exposure and strong foundational AI adoption preparedness (advanced economies and some emerging
+market economies), more emphasis should be placed on strengthening their digital innovation capacity and
+adapting their legal and ethical frameworks to govern and foster AI advances. Accordingly, improvement in
+regulatory frameworks—which are critical for broadening societal trust in AI tools—followed by innovation and
+integration, are the AI preparedness dimensions more strongly correlated with the size of the digital sector in
+advanced economies (Figure 13, panels 3 and 4). Regulatory frameworks need to mitigate cybersecurity risks
+as well (Carriere-Swallow and Haksar 2019; Haksar and others 2021), which increase with widespread use of
+AI (Bank of America 2023) and may adversely affect firms’ performance (Jamilov, Rey, and Tahoun 2023).
+Where foundational preparedness is weak (low-income countries and some emerging market economies), 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 22
+investment in digital infrastructure and human capital should be prioritized to reap early gains from AI while
+paving the way for second-generation preparedness. In other words, while the capacity to innovate and
+strengthen regulatory frameworks for digital businesses is crucial in attracting (digital) investments in lowincome countries, these frameworks will be less effective without strong AI infrastructure and a digitally skilled
+labor force. In some emerging market economies and low-income countries where foundational preparedness
+is not a strong binding constraint, improvement in innovation and regulatory frameworks could catalyze private
+investment in digital innovations. The correlations reported in Figure 13 (panels 1 and 2) corroborate these
+arguments, with digital Infrastructure and human capital strongly associated with the digital sector size in lowincome countries. With such investments, AI has the potential to improve the delivery of fundamental services
+such as education and health care and could perform complex tasks in areas where skilled labor is scarce.
+However, considering the costs associated with such investments and the limited fiscal space in many lowincome countries, it would be prudent to focus spending on high-return projects.
+VI. Conclusions and Policy Considerations
+AI adoption may generate labor market shifts with significant cross-country differences. The exact
+implications of AI for economies and societies are challenging to predict, embodying a level of uncertainty
+reminiscent of past introductions of general-purpose technologies, such as electricity. This uncertainty is
+particularly pronounced in labor markets, where AI offers productivity gains but also poses risks of job
+displacements. This note’s findings highlight the significant portion of global employment that is exposed to AI,
+with advanced economies generally both more exposed but also better positioned to leverage this technology
+than most emerging market and developing economies. This dynamic suggests a potential widening of the
+digital divide and global income disparity.
+Women and highly educated workers are consistently more exposed to, but also more likely to benefit
+from, AI; older workers may be more likely to struggle during this technological transition. Both women,
+with their strong presence in the services sector, and highly educated workers, typically employed in cognitiveintensive occupations, face greater AI exposure. Yet both groups also stand to gain the most from its
+integration. College-educated and younger people move more easily into high-complementarity jobs; older
+workers, however, face challenges in reemployment and adapting to new technologies, mobility, and acquiring
+new job skills.
+Beyond its impact on income levels, which could increase for most workers, AI will also reshape wealth
+and income distribution. Capital deepening and the surge in productivity driven by AI hold the potential to
+elevate wage incomes for a broad range of workers and to increase total income. This is more likely if AI
+exhibits significant complementarity with human labor in several roles and if the productivity boost is sufficiently
+strong. The enhanced economic activity and labor demand spurred by AI could offset the negative
+consequences of labor displacement. Unlike previous automation waves, which affected mostly middle-skilled
+workers, AI's displacement risks span the entire income spectrum, including high-income earners and skilled
+professionals. However, the potential for AI to complement jobs is positively correlated with income levels. As
+such, the trajectory of labor income inequality hinges on how well AI complements tasks undertaken by highincome professionals. Model simulations suggest that with strong complementarity, high-wage earners might
+experience a disproportionate increase in their earnings, thereby intensifying labor income inequality. This
+channel would amplify the increase in income and wealth inequality resulting from enhanced capital returns,
+which typically accrue to higher-earning people. These channels abstract from countries’ choices regarding the
+definition of AI’s property rights and redistributive policies, which will ultimately shape impacts on income and
+wealth distribution. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 23
+Harnessing the advantages of AI will depend on countries’ preparedness and the ability of workers to
+adapt to this new technology. Advanced and some emerging market economies are well positioned to
+harness AI thanks to their high exposure and preparedness. Other emerging market economies and lowincome countries may find it difficult to harness potential AI benefits given their inadequate infrastructure, their
+workers’ lack of skills, and the absence of institutional frameworks—putting them at risk of competitive
+disadvantage. Economic development stages influence preparedness priorities. Advanced and more developed
+emerging market economies should launch adequate regulatory frameworks to optimize the benefits of
+increased AI use and invest in complementary innovations. Low-income countries and other emerging market
+economies should prioritize digital infrastructure and human capital. With such investments, AI could help
+alleviate skill shortages, expand the provision of health care and education, and improve productivity and
+competitiveness in new sectors.
+The potential implications of AI demand a proactive approach from policymakers geared toward
+maintaining social cohesion. While long-term productivity gains from AI are likely, during the transition, job
+displacement and changes in income distribution could have substantial political economy implications. History
+shows that economic pressures can lead to social unrest and demands for political change. Ensuring social
+cohesion is paramount. Policies must promote the equitable and ethical integration of AI and train the next
+generation of workers in these new technologies; they must also protect and help retrain workers currently at
+risk from disruptions. The cross-border nature of AI amplifies its ethical and data security challenges and calls
+for international cooperation to ensure responsible use, as recently laid out in the Bletchley Declaration, signed
+by 28 countries and the EU. Countries have varying capacity to address these issues, which highlights the
+need for harmonized global principles and local legislation. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 24
+Box 1. Artificial Intelligence Occupational Exposure and Potential
+Complementarity
+Several studies have proposed definitions of AI exposure at the occupational level. The most common
+is the AI Occupational Exposure (AIOE) index of Felten, Raj, and Seamans (2021), measuring the
+correspondence between 10 AI applications and 52 human skills. This overlap between AI and human
+abilities is then weighted by the degree of importance and complexity of such skills in each job. This index is
+interpreted in relative terms and reported as normalized or rescaled between 0 and 1. It is also agnostic
+about the implication of exposure for human labor. In other words, it focuses on the relative likelihood of AI’s
+integration into the functions of a given job, but it does not consider the likelihood of AI serving as a
+complementary technology or subsituting for human labor.
+Some studies build on the AIOE measure to attempt to answer this question. Pizzinelli and others
+(2023) propose a potential complementarity index to adjust the original AIOE measure. In this
+approach, greater potential complementarity reduces exposure. Hence, a higher complementarity-adjusted
+AIOE (C-AIOE) more explicitly reflects a higher chance of labor substitution. To develop this index, the
+authors use O*NET, the same repository of occupational characterisitcs employed by Felten, Raj, and
+Seamans (2021), but draw from two different areas: work contexts and skills. Work contexts include social
+and physical aspects of how work in a given occupation is carried out. Using case-by-case judgment, the
+authors argue that in some contexts societies may be less likely to allow unsupervised use of AI. For
+instance, the criticality of decisions and the gravity of the consequences of errors are two job aspects that
+may motivate societies to require humans to make final decisions or take actions. Judges and doctors, for
+example, despite high AI exposure, would still likely be human beings.
+Conceptually, exposure and complementarity can be
+thought of as two dimensions of relevance, as in Box
+Figure 1.1. At the first stage, exposure (x-axis) defines the
+scope for applying AI to carry out the main functions of a job. At
+the second stage, given the degree of potential application, a
+set of societal and technical concerns determines
+complementarity. For occupations with high exposure, low
+complementarity entails a relatively higher likelihood of AI
+replacing key tasks. In more acute cases, AI may lead to a
+decrease in the demand for the occupation altogether. This
+would in turn translate into reduced employment prospects,
+lower wages, and higher risk of displacment. High exposure
+combined with high complementarity entails a greater likelihood
+of workers in those jobs experiencing productivity growth and
+wage gains from adopting AI-driven technologies. However,
+these benefits will likely be contingent on possessing the skills
+needed to use AI. Without such skills, workers may be at a
+disadvantage and may experience lower compensation and reduced employment prospects. Last, at lower
+levels of exposure, complementarity becomes less relevant, because the tasks in an occupation that are
+likely to be either supported or replaced by AI are less integral components of the job itself (see Annex 2 for
+additional details).
+This box was prepared by Carlo Pizzinelli.
+Box Figure 1.1. Conceptual Diagram
+of AI Occupational Exposure (AIOE)
+and Complementarity (θ)
+Sources: Felten, Raj, and Seamans (2021); Pizzinelli
+and others (2023); and IMF staff calculations.
+Note: Red reference lines denote the median of
+AIOE and compementaity. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 25
+Box 2. Artificial-Intelligence-Led Innovation and the Potential for Greater
+Inclusion
+Growing AI adoption has the potential to exacerbate cross-country and within-country inequality.
+This box argues, however, that there are also several avenues through which AI could be leveraged to foster
+inclusion in developing economies. Enhancing inclusion in the delivery of public services that focus on
+boosting human capital, such as health care and education, as well as in agriculture and credit access,
+presents a promising avenue through which AI can augment productivity.
+One example is the transformative role of digitalization in government technology ("govtech").
+Historically, digitalization has helped modernize public finance by enhancing revenue collection and
+spending efficiency. It has also improved the delivery of social services, thereby fostering inclusion and
+reducing inequality (Amaglobeli and others 2023). Notably, during COVID-19–related lockdowns, nations
+such as Namibia, Peru, Zambia, and Uganda successfully used their digital infrastructure to expedite the
+distribution of financial aid. AI could amplify this wave of transformation by assisting in informed decisionmaking, identifying service gaps, detecting fraud and corruption, and customizing local interventions.
+By streamlining bureaucratic tasks, AI tools could also free up time and resources, which could be
+better allocated to key sectors for inclusion—for example, agriculture, health care, and education.
+Interventions in these sectors benefit primarily the socially and economically vulnerable. In agriculture, AI
+could be leveraged to predict yields, optimize irrigation, and identify potential pests, thereby enhancing food
+security and productivity (IFC 2020). In health care, AI could assist in predictive analytics to foresee
+outbreaks, optimize resource allocation in hospitals, facilitate diagnoses, and make quality health care
+accessible and affordable even in areas with shortages of qualified medical staff (Wahl and others 2018;
+USAID 2019). In education, personalized learning experiences could be delivered through AI algorithms,
+reducing the human capital divide in regions lacking qualified educators (UNESCO 2021).
+AI also holds the promise of advancing financial inclusion, specifically by using unconventional data
+to evaluate creditworthiness (IFC 2020). This would allow underserved communities to gain access to
+financial services that would otherwise be out of reach. Given the risks associated with AI technologies—
+such as potential embedded bias and opaque outcomes (Shabsigh and Boukherouaa 2023)—their
+deployment should be accompanied by stronger frameworks for monitoring and oversight (Boukherouaa and
+others 2021; FCA 2022). The expansion of digital financial services has historically been linked with
+increased inclusion. An IMF study (Sahay and Čihák 2020) analyzed 52 emerging market and developing
+economies and underscored a marked rise in digital financial inclusion, with notable progress in Africa and
+Asia. COVID-19 further accelerated the growth of digital financial services, which tend to benefit low-income
+households and small businesses while promoting economic growth and reducing inequality (Sahay and
+others 2017; Sahay and Čihák 2020).
+While AI adoption promises transformative change, its successful implementation requires substantial
+investment, political commitment, and safeguards for data security and privacy.
+This box was prepared by Giovanni Melina. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 26
+Annex I. Data
+I.1 Descriptive Charts
+Annex Table 1.1. Data Sources for Stylized Facts
+Figures Sources Economies
+Figure 1. Employment Shares by AI Exposure
+and Complementarity: 1. Country Groups ILO 32 AEs, 56 EMs, 37 LICs
+Figure 1. Employment Shares by AI Exposure
+and Complementarity: 2. Selected Countries
+ACS, GEIH, India PLFS,
+LMDSA, PNADC, UK LFS
+BRA, COL, GBR, IND, USA,
+ZAF
+Figure 2: Employment Share by Exposure and
+Complementarity
+India PLFS, PNADC, and UK
+LFS BRA, GBR, IND
+Figure 3. Share of Employment in HighExposure Occupations by Demographic
+Groups
+ACS, GEIH, India PLFS,
+LMDSA, PNADC, UK LFS
+BRA, COL, GBR, IND, USA,
+ZAF
+Figure 4. Share of Employment in HighExposure Occupations and Potential
+Complementarity by Income Deciles
+ACS, GEIH, India PLFS,
+LMDSA, Pizzinelli and others
+(2023), PNADC, and UK LFS
+BRA, COL, GBR, IND, USA,
+ZAF
+Figure 5. Occupational Transitions for CollegeEducated Workers for Brazil and the United
+Kingdom
+PNADC and UK LFS BRA, and GBR
+Figure 7. One-Year Reemployment Probability
+of Separated Workers PNADC and UK LFS BRA, GBR
+Figure 8: AI and Informality PNADC BRA
+Figure 12. AI Preparedness Index and
+Employment Share in High-Exposure
+Occupations
+FI, ILO, ITU, UN, UPU, WB,
+WEF
+32 AEs, 56 EMs, 37 LICs
+Figure 13. Information and Communications
+Technology Employment Share and Individual
+Components of the AI Preparedness Index
+FI, ILO, ITU, UN, UPU, WB,
+WEF
+35 AEs, 67 EMs, 40 LICs
+Box Figure 1.1: Conceptual Diagram of AI
+Occupational Exposure (AIOE) and
+Complementarity (θ)
+Felten, Raj, and Seamans
+(2021), Pizzinelli and others
+(2023)
+Source: IMF staff.
+Note: Survey year considered: 2019 for USA, ZAF, IND; 2022 for COL, GBR, BRA. Regarding survey sample size, 2,239,553 for
+USA, 238,251 for GBR, 1,923,188 for BRA, 919,459 for COL, 69,420 for ZAF, 420,720 for IND. American Community Survey
+(ACS); Gran Encuesta Integrada de Hogares (GEIH); India Periodic Labour Force Survey (PLFS); International Labour
+Organization (ILO); Labour Market Dynamics in South Africa (LMDSA); Pesquisa Nacional por Amostra de Domicílios Contínua
+(PNADC); UK Labour Force Survey (LFS). AEs = advanced economics; EMs = emerging markets; LICs = low-income countries.
+Country names use International Organization for Standardization (ISO) country codes. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 27
+I.2 Country Coverage
+Annex Table 1.2. Country Sample Coverage
+ISO3 Country Income
+Group ISO3 Country Income
+Group ISO3 Country Income
+Group
+SSD South Sudan LIC BOL Bolivia EM GEO Georgia EM
+AFG Afghanistan LIC IRN Iran EM SYC Seychelles EM
+CAF Central African Republic LIC PRI Puerto Rico AE MEX Mexico EM
+SOM Somalia LIC BGD Bangladesh LIC OMN Oman EM
+MRT Mauritania LIC SLV El Salvador EM QAT Qatar EM
+SDN Sudan LIC GTM Guatemala EM THA Thailand EM
+TCD Chad LIC EGY Egypt EM SRB Serbia EM
+LBY Libya EM SEN Senegal LIC CRI Costa Rica EM
+COD Congo, Democratic Republic of the LIC MAC Macao SAR AE TUR Türkiye EM
+STP São Tomé and Príncipe LIC PRY Paraguay EM URY Uruguay EM
+YEM Yemen LIC BWA Botswana EM KAZ Kazakhstan EM
+ETH Ethiopia LIC LBN Lebanon EM RUS Russia EM
+COM Comoros LIC SUR Suriname EM HUN Hungary EM
+MOZ Mozambique LIC NAM Namibia EM SAU Saudi Arabia EM
+AGO Angola EM BLZ Belize EM BGR Bulgaria EM
+GNB Guinea-Bissau LIC GUY Guyana EM HRV Croatia AE
+HTI Haiti LIC GHA Ghana LIC GRC Greece AE
+IRQ Iraq EM KGZ Kyrgyz Republic LIC ROU Romania EM
+VEN Venezuela EM TLS Timor-Leste LIC CHL Chile EM
+COG Congo, Republic of LIC BIH Bosnia and Herzegovina EM SVK Slovak Republic AE
+PNG Papua New Guinea LIC MAR Morocco EM POL Poland EM
+BDI Burundi LIC CPV Cabo Verde EM ITA Italy AE
+MLI Mali LIC JAM Jamaica EM ARE United Arab Emirates EM
+SLE Sierra Leone LIC TTO Trinidad and Tobago EM MYS Malaysia EM
+SYR Syria EM LKA Sri Lanka EM CYP Cyprus AE
+ZWE Zimbabwe LIC RWA Rwanda LIC LVA Latvia AE
+MDG Madagascar LIC BTN Bhutan LIC SVN Slovenia AE
+SWZ Eswatini EM ECU Ecuador EM CHN China EM
+BFA Burkina Faso LIC KEN Kenya LIC PRT Portugal AE
+TGO Togo LIC FJI Fiji EM CZE Czech Republic AE
+DJI Djibouti LIC BHS Bahamas, The EM ESP Spain AE
+GAB Gabon EM KWT Kuwait EM MLT Malta AE
+GIN Guinea LIC TUN Tunisia EM LTU Lithuania AE
+MDV Maldives EM DOM Dominican Republic EM TWN Taiwan Province of China AE
+NER Niger LIC BLR Belarus EM BEL Belgium AE
+MMR Myanmar LIC AZE Azerbaijan EM IRL Ireland AE
+LAO Lao P.D.R. LIC ARG Argentina EM FRA France AE
+NIC Nicaragua LIC MDA Moldova LIC ISL Iceland AE
+NGA Nigeria LIC VNM Vietnam LIC HKG Hong Kong SAR AE
+MWI Malawi LIC MKD North Macedonia EM NOR Norway AE
+CMR Cameroon LIC JOR Jordan EM CAN Canada AE
+HND Honduras LIC MNG Mongolia EM AUT Austria AE
+VCT St. Vincent and the Grenadines EM COL Colombia EM ISR Israel AE
+UZB Uzbekistan LIC PER Peru EM KOR Korea AE
+NPL Nepal LIC IND India EM AUS Australia AE
+TZA Tanzania LIC ARM Armenia EM GBR United Kingdom AE
+UGA Uganda LIC BRN Brunei Darussalam EM JPN Japan AE
+LSO Lesotho LIC ZAF South Africa EM LUX Luxembourg AE
+GMB Gambia, The LIC PHL Philippines EM SWE Sweden AE
+BEN Benin LIC PAN Panama EM DEU Germany AE
+CIV Côte d'Ivoire LIC BRA Brazil EM NZL New Zealand AE
+TJK Tajikistan LIC MNE Montenegro EM CHE Switzerland AE
+PAK Pakistan EM BRB Barbados EM FIN Finland AE
+KHM Cambodia LIC UKR Ukraine EM EST Estonia AE
+LBR Liberia LIC BHR Bahrain EM NLD Netherlands, The AE
+DZA Algeria EM IDN Indonesia EM USA United States AE
+ZMB Zambia LIC MUS Mauritius EM DNK Denmark AE
+LCA St. Lucia EM ALB Albania EM SGP Singapore AE 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 28
+Annex 2. Additional Information on AI
+Occupational Exposure and Potential
+Complementarity
+Annex Figure 2.1, panel 1, plots the distribution of AI occupational exposure (AIOE) and complementarity for
+individual occupations within each major occupational group (that is, 4-digit occupation within each major
+group of the International Standard Classification of Occupations [ISCO]-08 classification). As is evident, some
+occupational groups are, on average, characterized both by high exposure and high complementarity, such as
+professionals, managers, and technicians. Others have both high exposure and low complementarity, such as
+clerical workers. Another important observation is that, in general, compared with exposure, the dispersion of
+potential complementarity is larger within than across occupational groups, suggesting that the factors that may
+determine complementarity are cut across the spectrum of jobs.
+Given potential complementarity, θ, a complementarity-adjusted AI occupational exposure (C-AIOE) measure
+can be constructed as follows: C-AIOE = AIOE *(1– θ – θMIN)). The adjustment lowers exposure for
+occupations with higher values of θ relative to the occupation with the lowest complementarity (θMIN).
+Annex Figure 2.1, panel 2 compares AIOE and C-AIOE. For professionals and managers, the average
+exposure is much lower after the complementarity adjustment. Meanwhile, clerical occupations, on average,
+have the highest complementarity-adjusted exposure, suggesting that they are the most vulnerable to
+disruption. Last, for occupational groups with average exposure that was already low, the adjustment does not
+substantially change their relative position in the ranking compared with the unadjusted measure.
+Annex Figure 2.1. AI Complementarity and Exposure across Major Occupational Groups
+1. AIOE and Complementarity (θ) 2. AIOE and C-AIOE
+Sources: Felten, Raj, and Seamans (2021); Pizzinelli and others (2023); and IMF staff calculations.
+Note: The figure plots the distribution of the values of complementarity θ, unadjusted exposure AIOE (AI occupational exposure), and adjusted exposure
+C-AIOE (C for complementarity) across occupations specified by ISCO-08 codes. The boundaries of the whiskers is based on the 1.5 IQR value. The
+grouping is at the 1-digit ISCO-08 code level. ISCO = International Standard Classification of Occupations.
+*Technicians and associate professionals; **skilled agricultural, forestry, and fishery workers; ***plant and machine operators and assemblers. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 29
+Annex 3. Methodology for the Worker Transition
+Analysis
+III.1 Data
+To analyze worker reallocation between occupations in Section III, this note uses the panel structure of the UK
+Labor Force Survey (LFS) and Brazil’s Pesquisa Nacional por Amostra de Domicílios Contínua (PNADC,
+National Continuous Household Sampling Survey). Both surveys have a similar design: households are
+interviewed quarterly, and they remain in the sample for five quarters (rolling replacement survey).
+Although the PNADC survey identifies households across quarters, it does not identify the number of people
+within households. Thus, a matching algorithm must be used to identify individuals across quarters based on
+individual characteristics. The note uses the algorithm proposed by Ribas and Soares (2008) and implemented
+by Datazoom.
+III.2 Constructing Worker Flows
+Using the panel data, it is possible to estimate the employment flows and construct the transition matrices
+shown in Annex Table 3.1. A transition from unemployment to inactivity (U2N), for example, is defined as
+happening when a worker is inactive in the current quarter but was unemployed in the previous quarter.
+Similarly, a transition from high-exposure employment to low-exposure employment (HE2LE) is defined as
+happening when a worker is employed in an occupation code with exposure above the median in the current
+quarter but was employed in an occupation code with exposure below the median in the previous quarter.
+An occupational switch, or transition, is defined as happening when a worker reports an occupation code in the
+quarter that differs from the occupation code reported in the previous quarter. This includes both job-to-job
+transitions (when the worker changes employer) and on-the-job transitions (when the worker switches
+occupations but remains with the same employer).
+III.3 Wage Dynamics
+The UK LFS reports wage data only in the first and final waves of a household’s participation in the survey.
+Thus, for the analysis shown in Figure 7, the note considers transitions and wage changes over a period of one
+year instead of one quarter. Even though for Brazil wage data are available for all five waves a household
+participates in the survey, transitions are still considered over a year so as to keep the methodology consistent
+with that used for the UK.
+The wage variation is constructed as the variation in the log gross hourly wages between the fifth and first
+quarters an individual is in the survey. The following regression specification is run for both countries:
+𝑦௜௥௧ ൌ𝛼൅𝛿ଵ𝐽2𝐽௜௥௧ ൅ 𝛿ଶ𝐽2𝐽௜௥௧ ൈ 𝑂𝑆௜௥௧ ൅ 𝛿ଷ𝐸𝑈𝐸௜௥௧
+൅෍𝜃௞
+௞
+𝐶௜௥ሺ௧ିଵሻ ௞ 𝐶௜௥௧
+௞ ൅෍෍𝜙௞௝
+௞ ௝
+𝑂𝑆௜௥௧𝐶௜௥ሺ௧ିଵሻ ௞ 𝐶௜௥௧
+௝ 𝑗
+൅𝛽𝑋௜௥௧ ൅ 𝛾௧ ൅ 𝜂௥ ൅ 𝜀௜௥௧.
+Here, i refers to the individual in the survey, t is the quarter, and r the geographic region, such that 𝛾௧ is a yearquarter fixed effect and 𝜂௥ a region fixed effect. 𝑋௜௥௧ is a matrix of demographic characteristics: age, education, 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 30
+and gender (including age-education interactions, and in the case of Brazil, dummies for informality). J2J is a
+dummy variable representing job-to-job transitions, defined as happening when workers have been with their
+current employer for less than 12 months in wave 5 of the survey and were employed in wave 1. EUE
+represents transition through unemployment, coded when the worker was unemployed in waves 2 through 4.
+OS is a dummy for an occupational switch. Last, 𝐶௜௥௧
+௞ is a dummy for a worker in exposure category k in period
+t.
+Thus, the θ௞ coefficient represents the log wage change for “stayers” in category k; that is, those who did not
+switch occupations, while ϕ௞௝ is the change for those who changed occupation from exposure category k to
+exposure category j. For example, the wage premium relative to stayers plotted in Figure 7 for a worker who
+went from HELC to HEHC would be represented as ϕுா௅஼,ுாு஼ െ θுா௅஼.
+III.4 Life-Cycle Profiles of Occupational Shares
+Figure 6 plots occupational shares in each category, obtained by estimating the following cubic polynomial
+regression:
+𝐶௜
+௞ ൌ 𝛽଴ ൅ 𝛽ଵ𝑎𝑔𝑒௜ ൅ 𝛽ଶ𝑎𝑔𝑒௜
+ଶ ൅ 𝛽ଷ𝑎𝑔𝑒௜
+ଷ ൅ 𝛿𝑓𝑒𝑚𝑎𝑙𝑒௜ ൅ 𝜀௜,
+in which 𝐶௜
+௞ is a dummy that indicates whether worker i is in an occupation in exposure category k. The figure
+then plots the predicted values 𝐶ప
+෢௞ for each age value.
+Annex Table 3.1. Quarterly Transition Probabilities across Occupation Types and Labor Market
+Statuses for Brazil and the United Kingdom
+1. Brazil
+(Percent)
+
+2. United Kingdom
+(Percent)
+
+Sources: Pesquisa Nacional por Amostra de Domicílios Contínua; UK Labour Force Survey; and IMF staff calculations.
+Note: Each cell reports the percentage of workers who transition from the occupation or labor market status listed in the respective row to that listed
+in the respective column between two quarters. Each row adds up to 100 percent; that is, the totality of workers in the occupation or labor market
+status listed in the respective row in the first quarter. U2N = a transition from unemployment to inactivity; HE2LE = a worker employed in an
+occupation code with AI exposure above the median in the current quarter but employed in an occupation code with AI exposure below the median
+in the previous quarter.
+III.5 AI and Informality
+In many emerging market and developing economies, despite high labor informality, AI-induced labor
+reallocation is unlikely to affect the size of the formal labor force significantly. Growth in high-exposure, highcomplementarity occupations will likely be in the formal sector, as these roles mostly require skilled, formally
+employed workers. Hence, AI’s growth will not necessarily move workers from the informal to the formal sector.
+However, workers displaced from high-exposure, low-complementarity occupations may face job loss and
+move to informality. Evidence from Brazil, however, indicates a limited risk of such a double blow (Annex
+Figure 3.1). A large share of employment in low-exposure occupations is in formal work arrangements (panel
+1)—though this finding may not necessarily extend to other emerging market economies. Moreover, most
+occupational switches of formal workers have not involved movement into the informal sector (panel 2). 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 31
+Historically, only about 20 percent of workers moving from high-exposure to low-exposure occupations also
+entered the informal sector.
+Annex Figure 3.1. AI and Informality
+1. Share of Employment in Brazil, by Formality
+and Exposure Category
+(Percent)
+2. Probability of a Formal Worker’s Transition to a LowExposure Occupation, by Exposure Category
+(Percent)
+Sources: Pesquisa Nacional por Amostra de Domicílios Contínua; and IMF staff calculations.
+Note: Panel 1 shows the share of employment in total employment according to formality and exposure category. Panel 2 shows the transition
+probabilities for formal workers moving to a low-exposure occupation. “From” indicates the exposure category of person’s occupation in the preceding
+quarter. The transition probability represents the average share of formal workers in the “from” category who move to a low-exposure occupation.
+Blue bars represent the probability of a formal worker moving to a formal job; orange bars represent the probability of a formal worker moving to an
+informal job. LE = low exposure.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 32
+Annex 4. Model Details
+This annex gives a brief overview of the model’s main elements and considers two extreme scenarios that
+illustrate the main channels through which AI adoption affects the economy. The model details are in a paper
+by Rockall, Pizzinelli, and Tavares (forthcoming), which combines the models of Drozd, TaschereauDumouchel, and Tavares (2023) and Moll, Rachel, and Restrepo (2022).
+IV.1 Main Model Features
+Time in the model is viewed as continuous. The final consumption good is produced using intermediate goods
+obtained using a continuum of tasks aggregated according to a Cobb-Douglas production function. Tasks can
+be produced using labor or capital. Agents are heterogeneous in their skills and ability to invest in capital
+markets, leading to variations in their capital endowments. Agents supply labor inelastically across different
+sectors and are subject to dissipation shocks. Different sectors pay different wages, and agents who invest in
+bonds receive the risk-free rate, whereas those who invest in capital markets receive a higher rate equal to the
+return on capital. Agents maximize standard preferences over utility flows from consumption subject to a
+budget constraint and a natural debt limit. The heterogeneity in skill types and investment allows the model to
+replicate income and wealth inequality.
+In the model, there are three main channels through which AI adoption affects the economy. First, labor
+displacement arises because tasks performed by labor are carried out by capital, given that technological
+progress makes it feasible for AI to perform those tasks. It is assumed that capital is more productive than labor
+at performing those tasks, making labor displacement productivity-enhancing. Second, complementarity
+reallocates value added, and hence labor demand and income, from workers with less AI complementarity to
+workers with high AI complementarity. It is assumed that the complementarity channel does not affect the
+overall labor share in the economy. Third, the productivity channel increases the output and wages of workers
+with high AI complementarity.
+The model’s Cobb-Douglas production function is as follows:
+in which 𝜂௭ denotes the importance in value added of the tasks that can be performed by skill z, 𝜓௭ denotes the
+productivity of labor for these tasks, and K denotes the aggregate stock of capital in the economy. In this
+model, the displacement channel is characterized by changes in 𝛼௭, the complementarity channel by changes
+in 𝜂௭, and the productivity channel by changes in 𝜓௭.
+IV.2 Additional Scenarios
+Two hypothetical scenarios are reported to highlight the impact of the displacement and the complementarity
+channels. In the first scenario, the displacement effect affects all workers equally, while complementarity affects
+workers according to the data shown in Figure 9, panel 2. In the second scenario, the complementarity channel
+is deactivated, and displacement occurs according to the data reported in Figure 9, panel 2. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 33
+When the displacement effect affects all workers equally (Annex Figure 4.1, panel 1), all workers suffer a loss
+of labor income because they experience a decline in the number of tasks they perform. However, workers with
+high AI complementarity experience an increase in the demand for tasks that were not displaced at the
+expense of workers with low AI complementarity. The combination of these two effects causes workers with
+high AI complementarity (who are also high-income workers, as in the data) to accrue most of the gains in
+productivity generated by AI adoption. Consequently, AI adoption leads to more significant labor income and
+wealth inequality under this scenario.
+In contrast, when the AI exposure impact increases with income and there is no complementarity (Annex
+Figure 4.1, panel 2), the income gains from adopting AI are higher at the bottom of the income distribution. This
+happens because workers at the bottom of the income distribution are less exposed to AI and thus suffer less
+task displacement. In contrast, higher-income workers are more exposed and consequently suffer greater task
+displacement. As a result, under this scenario, AI adoption leads to lower income inequality since the gains in
+capital income are not enough to compensate for the lower gains in labor income at the top caused by task
+displacement.
+These two scenarios illustrate the importance of how exposure and complementarity are spread across the
+income distribution. When exposure is more equally distributed and complementarity is concentrated at the top,
+AI adoption may raise income and wealth inequality. When exposure is concentrated at the top of the income
+distribution, and complementarity is weak, AI adoption could lead to a decline in income inequality.
+Annex Figure 4.1. Change in Total Income by Income Percentile
+1. Equally Distributed Exposure and Data-Driven
+Complementarity
+(Percent)
+2. Data-Driven Exposure with No Complementarity
+(Percent)
+Source: IMF staff calculations.
+Note: The plots represent two hypothetical model-based scenarios: (1) equally distributed exposure and data-driven complementarity, and (2) datadriven exposure with no complementarity. For all scenarios, the calibrated change in the capital share is the same: 5.5 percentage points, in line with
+the change in the capital share observed in 1980–2014. The plots show the change in total income by income percentile, decomposed into the change
+in labor income in blue and the change in capital income in orange. P = percentile.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 34
+Annex 5. AI Preparedness Index
+V.1 Indicators
+One of the main contributions of this note is the construction of an index—underpinning the analysis in Section
+V—that assesses the level of AI
+preparedness across countries.
+Measuring AI preparedness is
+challenging, including because the
+institutional requirements for economywide integration of AI are still uncertain.
+However, the literature on historical
+episodes of technology adoption (see
+Keller 2004; Chinn and Fairlie 2007;
+Nicoletti, Rueden, and Andrews 2020;
+Cirera, Comin, and Cruz 2022) has
+identified key determinants that are likely
+relevant for AI: digital infrastructure,
+human capital, technological innovation,
+and legal frameworks. These broad
+determinants are supplemented with a set
+of indicators expected to be important for
+smooth AI adoption. These include
+sustained human capital investment,
+inclusive STEM [science, technology,
+engineering, and mathematics] expertise,
+labor and capital mobility within and
+across countries, and adaptability of legal
+frameworks to new (digital) business
+models. The full set of indicators is
+summarized in Annex Table 5.1.
+The resulting index improves on common
+AI readiness indicators in the literature (for example, Oxford Insights 2022) on at least two fronts. First, the
+focus is on AI adoption preparedness (rather than invention leadership), allowing comparability of the level of
+preparedness across all economies, including low-income countries (where the focus will be more on adopting
+than inventing new technologies). Second, the index also crucially incorporates labor market transition
+indicators relevant for the AI era, including active labor market (for example, upskilling and skills training) and
+social protection. Digital infrastructure and human capital and labor market policies can be considered
+"foundational” elements of AI preparedness, because they are prerequisites for its adoption. Innovation and
+economic integration and regulation and ethics can be considered “second-generation” elements likely to
+maximize the economic impact of AI.
+Annex Table 5.1. AI Preparedness Indicators
+Source:
+Note: Data source for each indicator is shown in square brackets. FI = Fraser Institute;
+GNI = gross national income; ILO = International Labour Organization; ITU =
+International Telecommunication Union; STEM = science, technology, engineering, and
+mathematics; UN = United Nations; UPU = Universal Postal Union; WB = World Bank;
+WEF = World Economic Forum.
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 35
+V.2 Aggregation and Robustness Checks
+Within each of the four aggregate dimensions, the subindicators (𝑥ሻ—for the latest year with available data—
+are normalized on a 0–1 scale as follows:
+𝑥െ𝑥௠௜௡
+𝑥௠௔௫ െ 𝑥௠௜௡
+Each aggregate dimension (digital infrastructure,
+human capital and labor market policies,
+digital innovation and economic integration,
+regulation and ethics) is the simple average of its
+normalized subcomponents. The AI Preparedness
+Index is then derived as the simple average of the
+four aggregate dimensions. The index is computed
+for 32 advanced economies, 56 emerging market
+economies, and 37 low-income countries. Annex
+Figure 5.1 summarizes the level of AI
+preparedness and its main components for
+selected economies.
+Section V shows that the index’s components are
+correlated with information and communications
+technology employment, corroborating their
+relevance. In addition, the strength of these
+correlations conditional on development levels
+makes intuitive sense.
+Employing simple averages in aggregating the
+index has at least two shortcomings.20 First, the
+equal weighting inherently risks undervaluing key
+components and overemphasizing minor ones,
+obscuring vital weaknesses or strengths, by
+spreading their impact across the aggregate index. Second, the use of simple averages is sensitive to outliers
+and extreme values.
+As a robustness check, we employ principal component analysis (PCA) in aggregating the index. For each
+aggregate dimension, the first principal component (PC) of subindicators is extracted, normalized between 0
+and 1, and the index is then computed as the sum of these normalized PCs. The results based on the PCA are
+indistinguishable from those obtained with simple averaging.
+
+20 Other aggregation methods have their own strengths, but they also come with drawbacks in this context. For example, a constant
+elasticity of substitution (CES) aggregation, which would assume imperfect substitutability among the index’s components, could
+suggest that a deficit in regulatory frameworks could be imperfectly substituted by, say, strong performance in innovation.
+Annex Figure 5.1. Cross-Country AI Preparedness
+Dimensions: Selected Countries
+Source:
+Note: The figure shows the contribution of digital infrastructure, innovation
+and integration, human capital and policies, and regulation and ethics to AI
+preparedness by country. The length of the bar indicates AI preparedness.
+Highlighted bars denote the country group average. AEs = advanced
+economies; EMs = emerging market economies; LICs = low-income
+countries. Country names use International Organization for
+Standardization (ISO) country codes. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 36
+References
+Acemoglu, D., and P. Restrepo. 2018. “Artificial Intelligence, Automation, and Work.” In The Economics of
+Artificial Intelligence: An Agenda, edited by A. Agrawal, J. Gans, and A. Goldfarb, 197–236. Chicago:
+University of Chicago Press.
+Acemoglu, D., and P. Restrepo. 2022. “Tasks, Automation, and the Rise in US Wage Inequality.” Econometrica
+90 (5): 1973–2016.
+Albanesi, S., A. D. da Silva, J. F. Jimeno, A. Lamo, and A. Wabitsch. 2023. “New Technologies and Jobs in
+Europe.” CEPR Discussion Paper DP18220, Centre for Economic Policy Research, London, UK.
+Alonso, C., A. Berg, S. Kothari, C. Papageorgiou, and S. Rehman. 2022. “Will the AI Revolution Cause a Great
+Divergence?” Journal of Monetary Economics 127: 18–37.
+Amaglobeli, D,. R. de Mooij, A. Mengistu, M. Moszoro, M. Nose, S. Nunhuck, S. Pattanayak, L. Rivero del
+Paso, F. Solomon, R. Sparkman, H. Tourpe, and G. Uña. 2023. “Transforming Public Finance through
+GovTech.” IMF Staff Discussion Note 2023/004, International Monetary Fund, Washington, DC.
+Autor, D. H., and D. Dorn. 2013. “The Growth of Low-Skill Service Jobs and the Polarization of the US Labor
+Market.” American Economic Review 103 (5): 1553–597.
+Autor, D. H., F. Levy, and R. J. Murnane. 2003. “The Skill Content of Recent Technological Change: An
+Empirical Exploration.” Quarterly Journal of Economics 118 (4): 1279–333.
+Babina, T., A. Fedyk, A. He, and J. Hodson. Forthcoming. “Artificial Intelligence, Firm Growth, and Product
+Innovation.” Journal of Financial Economics.
+Bank of America. 2023. “Cybersecurity Report: Landscape, Trends & What Comes Next.” Bank of America
+Global Research, New York.
+Bartel, A., C. Ichniowski, and K. Shaw. 2007. “How Does Information Technology Affect Productivity? PlantLevel Comparisons of Product Innovation, Process Improvement, and Worker Skills*.” Quarterly
+Journal of Economics 122 (4): 1721–758.
+Berg, A., L. Bounader, N. Gueorguiev, H. Miyamoto, K. Moriyama, R. Nakatani, and L. F. Zanna. 2021. “For the
+Benefit of All: Fiscal Policies and Equity-Efficiency Trade-offs in the Age of Automation.” IMF Working
+Paper 2021/187, International Monetary Fund, Washington, DC.
+Bergholt, D., F. Furlanetto, and N. Maffei-Faccioli. 2022. "The Decline of the Labor Share: New Empirical
+Evidence." American Economic Journal: Macroeconomics 14 (3): 163–98.
+Bloom, N., M. Draca, and J. Van Reenen. 2015. “Trade Induced Technical Change? The Impact of Chinese
+Imports on Innovation, IT and Productivity.” Review of Economic Studies 83 (1): 87–117.
+Braxton, J. Carter, and B. Taska. 2023. "Technological Change and the Consequences of Job Loss." American
+Economic Review 113 (2): 279–316.
+Brynjolfsson, E., L. Danielle, and L. R. Raymond. 2023. "Generative AI at Work." NBER Working Paper 31161,
+National Bureau of Economic Research, Cambridge, MA. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 37
+Boukherouaa, E., G. Shabsigh, K. AlAjmi, J. Deodoro, A. Farias, E. S. Iskender, A. T. Mirestean, and R.
+Ravikumar. 2021. “Powering the Digital Economy: Opportunities and Risks of Artificial Intelligence in
+Finance.” IMF Departmental Paper 2021/024, International Monetary Fund, Washington, DC.
+Briggs, J., and D. Kodnani. 2023. “The Potentially Large Effects of Artificial Intelligence on Economic Growth.”
+Goldman Sachs - Global Economics Analyst, New York.
+Carriere-Swallow, Y., and V. Haksar. 2019. "The Economics and Implications of Data: An Integrated
+Perspective," IMF Departmental Paper 2019/013, International Monetary Fund, Washington, DC.
+Cazzaniga, M., C. Pizzinelli, E. Rockall, and M. M. Tavares. Forthcoming. “Exposure to Artificial Intelligence
+and Occupational Mobility: A Cross-Country Analysis.” IMF Working Paper, International Monetary
+Fund, Washington, DC.
+Chinn, M. D., and R. W. Fairlie. 2007. “The Determinants of the Global Digital Divide: A Cross-Country
+Analysis of Computer and Internet Penetration.” Oxford Economic Papers 59 (1): 16–44.
+Cirera, X., D. Comin, and M. Cruz. 2022. "Bridging the Technological Divide: Technology Adoption by Firms in
+Developing Countries." World Bank, Washington, DC.
+Colombo, E., F. Mercorio, and M. Mezzanzanica. 2019, "AI Meets Labor Market: Exploring the Link between
+Automation and Skills." Information Economics and Policy 47: 27–37.
+Cortes, G. M., N. Jaimovich, and H. E. Siu. 2017. "Disappearing Routine Jobs: Who, How, and Why?" Journal
+of Monetary Economics 91: 69–87.
+Cortes, G. M., N. Jaimovich, C. J. Nekarda, and H. E. Siu. 2020. "The Dynamics of Disappearing Routine Jobs:
+A Flows Approach." Labour Economics 65: 101823.
+Dabla-Norris, E., C. Pizzinelli, and J. Rappaport. 2023. "Job Polarization and the Declining Wages of Young
+Female Workers in the United Kingdom." Oxford Bulletin of Economics and Statistics 85 (6): 1185-
+1210.
+Dao, M. C., D. Mitali, and Z. Koczan. 2019. "Why Is Labour Receiving a Smaller Share of Global
+Income?" Economic Policy 34 (100): 723–59.
+Das, M., and B. Hilgenstock. 2022. "The Exposure to Routinization: Labor Market Implications for Developed
+and Developing Economies." Structural Change and Economic Dynamics 60 (C): 99–113.
+Drozd, L. A., M. Taschereau-Dumouchel, and M. M. Tavares. 2022. "Understanding Growth through
+Automation." Research Department, Federal Reserve Bank of Philadelphia, Philadelphia, PA.
+Eloundou, T., S. Manning, P. Mishkin, and D. Rock. 2023. “GPTs are GPTs: An Early Look at the Labor Market
+Impact Potential of Large Language Models.” arXiv.org working paper.
+Financial Conduct Authority (FCA). 2022. “Machine Learning in UK Financial Services.” Bank of England and
+Financial Conduct Authority, London, UK.
+Felten, E., M. Raj, and R. Seamans. 2021. "Occupational, Industry, and Geographic Exposure to Artificial
+Intelligence: A Novel Dataset and Its Potential Uses." Strategic Management Journal 42 (12): 2195–
+217.
+Felten, E., M. Raj, and R. Seamans. 2023. "How Will Language Modelers Like ChatGPT Affect Occupations
+and Industries?" arXiv.org working paper. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 38
+Gmyrek, P., J. Berg, and D. Bescond. 2023. Generative AI and Jobs: A Global Analysis of Potential Effects on
+Job Quantity and Quality. ILO Working Paper 96. International Labour Organization, Geneva,
+Switzerland.
+International Finance Corporation (IFC). 2020. “Artificial Intelligence in Emerging Markets: Opportunities,
+Trends and Emerging Business Models.” International Finance Corporation. World Bank, Washington,
+DC.
+Ilzetzki, E., and S. Jain. 2023. The Impact of Artificial Intelligence on Growth and Employment. VoxEU.org,
+June 20.
+Haksar, V., Y. Carriere-Swallow, E. Islam, A. Giddings, K. Kao, E. Kopp, and G. Quiros-Romero. 2021.
+"Toward a Global Approach to Data in the Digital Age," IMF Staff Discussion Note 2021/005,
+International Monetary Fund, Washington, DC.
+International Monetary Fund (IMF). 2017. World Economic Outlook: Gaining Momentum? Chapter 3.
+International Monetary Fund, Washington, DC, April.
+International Monetary Fund (IMF). 2023. World Economic Outlook: A Rocky Recovery, Chapter 2.
+International Monetary Fund, Washington, DC, April.
+Jamilov, R., H. Rey, and A. Tahoun. 2023. "The Anatomy of Cyber Risk." NBER Working Paper 28906,
+National Bureau of Economic Research, Cambridge, MA.
+Kambourov, G., and I. Manovskii. 2009. "Occupational Mobility and Wage Inequality." Review of Economic
+Studies 50: 731–59.
+Keller, W. “International Technology Diffusion.” 2004. Journal of Economic Literature 42 (3): 752–82.
+Klinova, K., and A. Korinek. 2021. "AI and Shared Prosperity." In Proceedings of the 2021 AAAI/ACM
+Conference on AI, Ethics, and Society, 645–51.
+Moll, B., L. Rachel, and P. Restrepo. 2022. "Uneven Growth: Automation's Impact on Income and Wealth
+Inequality." Econometrica 90 (6): 2645–683.
+Monsueto, S. E., A. Moreira Cunha, and J. da Silva Bichara. 2014. "Occupational Mobility and Income
+Differentials: The experience of Brazil between 2002 and 2010." Cepal Review 113: 139–55.
+Moscarini, G., and F. G. Vella. 2008. “Occupational Mobility and the Business Cycle.” NBER Working Paper
+13819, National Bureau of Economic Research, Cambridge, MA.
+Nicoletti, G., C. V. Rueden, and D. Andrews. 2020. “Digital Technology Diffusion: A Matter of Capabilities,
+Incentives or Both?” European Economic Review 128: 103513.
+Organisation for Economic Co-operation and Development (OECD). 2023. “OECD Employment Outlook 2023:
+Artificial Intelligence and the Labour Market.” Paris, France.
+Oxford Insights. 2022. “Government AI Readiness Index.” Malvern, UK.
+Pizzinelli, C., A. Panton, M. M. Tavares, M. Cazzaniga, and L. Li. 2023. "Labor Market Exposure to AI: CrossCountry Differences and Distributional Implications." IMF Working Paper 2023/216, International
+Monetary Fund, Washington, DC.
+Ribas, R. P., and S. S. D. Soares. 2008. “The IBGE Monthly Employment Survey (PME) Panel.” Discussion
+Paper 1348, Institute of Applied Economic Research, Brasília, Brazil. 
+STAFF DISCUSSION NOTES Gen-AI: Artificial Intelligence and the Future of Work
+INTERNATIONAL MONETARY FUND 39
+Rockall, E., C. Pizzinelli, and M. Mendes Tavares. Forthcoming. "Artificial Intelligence Adoption and Inequality."
+IMF Working Paper, International Monetary Fund, Washington, DC.
+Sahay, R., M. Čihák, P. N’Diaye, A. Barajas, S. Mitra, A. Kyobe, Y. N. Mooi, and S. R. Yousefi. 2017. "Financial
+Inclusion: Can It Meet Multiple Macroeconomic Goals?" IMF Staff Discussion Note 2015/017,
+International Monetary Fund, Washington, DC.
+Sahay, R., and M. Čihák. 2020. "Finance and Inequality." IMF Staff Discussion Note 2020/001, International
+Monetary Fund, Washington, DC.
+Sahay, R., U. Eriksson von Allmen, A. Lahreche, P. Khera, S. Ogawa, M. Bazarbash, and K. Beaton. 2020.
+"The Promise of Fintech: Financial Inclusion in the Post COVID-19 Era." IMF Departmental Paper
+2020/009, International Monetary Fund, Washington, DC.
+Shabsigh, G., and E. B. Boukherouaa. 2023. “Generative Artificial Intelligence in Finance.” Fintech Note
+2023/006, International Monetary Fund, Washington, DC.
+United Nations Educational, Scientific and Cultural Organization (UNESCO). 2021. “AI and Education:
+Guidance for Policy-Makers.” Paris, France.
+US Agency for International Development (USAID). 2019. “Artificial Intelligence in Global Health: Defining a
+Collective Path Forward.” Washington, DC.
+Wahl, B., A. Cossy-Gantner, S. Germann, and N. R. Schwalbe. 2018. "Artificial Intelligence (AI) and Global
+Health: How Can AI Contribute to Health in Resource-Poor Settings?" BMJ Global Health 3 (4):
+e000798.
+Webb, M. 2020. “The Impact of Artificial Intelligence on the Labor Market.” Stanford University Working Paper,
+Stanford, CA.
+Wootton, C. W., and B. E. Kemmerer. 2007. "The Emergence of Mechanical Accounting in the US, 1880–
+1930." Accounting Historians Journal 34 (1): 91–124.
+Yashiro, N., T. Kyyrä, H. Hwang, and J. Tuomala. 2022. “Technology, Labour Market Institutions and Early
+Retirement.” Economic Policy 37 (112): 811–49. 
