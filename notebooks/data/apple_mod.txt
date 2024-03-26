@@ -1,0 +1,2549 @@
+Preamble
+In 2010, a top Apple executive emailed Apple’s then-CEO about an ad for the new
+Kindle e-reader. The ad began with a woman who was using her iPhone to buy and read books
+on the Kindle app. She then switches to an Android smartphone and continues to read her books
+using the same Kindle app. The executive wrote to Jobs: one “message that can’t be missed is
+that it is easy to switch from iPhone to Android. Not fun to watch.” Jobs was clear in his
+response: Apple would “force” developers to use its payment system to lock in both developers
+and users on its platform. Over many years, Apple has repeatedly responded to competitive
+threats like this one by making it harder or more expensive for its users and developers to leave
+than by making it more attractive for them to stay.
+For many years, Apple has built a dominant iPhone platform and ecosystem that has
+driven the company’s astronomical valuation. At the same time, it has long understood that
+disruptive technologies and innovative apps, products, and services threatened that dominance by
+making users less reliant on the iPhone or making it easier to switch to a non-Apple
+smartphone. Rather than respond to competitive threats by offering lower smartphone prices to
+consumers or better monetization for developers, Apple would meet competitive threats by
+imposing a series of shapeshifting rules and restrictions in its App Store guidelines and developer
+agreements that would allow Apple to extract higher fees, thwart innovation, offer a less secure
+or degraded user experience, and throttle competitive alternatives. It has deployed this playbook
+across many technologies, products, and services, including super apps, text messaging,
+smartwatches, and digital wallets, among many others.
+Apple’s conduct also stifles new paradigms that threaten Apple’s smartphone dominance,
+including the cloud, which could make it easier for users to enjoy high-end functionality on a
+lower priced smartphone—or make users device-agnostic altogether. As one Apple manager
+recently observed, “Imagine buying a [expletive] Android for 25 bux at a garage sale and it
+works fine . . . . And you have a solid cloud computing device. Imagine how many cases like
+that there are.” Simply put, Apple feared the disintermediation of its iPhone platform and
+undertook a course of conduct that locked in users and developers while protecting its profits.
+Critically, Apple’s anticompetitive conduct not only limits competition in the smartphone
+market, but also reverberates through the industries that are affected by these restrictions,
+including financial services, fitness, gaming, social media, news media, entertainment, and more.
+Unless Apple’s anticompetitive and exclusionary conduct is stopped, it will likely extend and
+entrench its iPhone monopoly to other markets and parts of the economy. For example, Apple is
+rapidly expanding its influence and growing its power in the automotive, content creation and
+entertainment, and financial services industries–and often by doing so in exclusionary ways that
+further reinforce and deepen the competitive moat around the iPhone.
+This case is about freeing smartphone markets from Apple’s anticompetitive and
+exclusionary conduct and restoring competition to lower smartphone prices for consumers,
+reducing fees for developers, and preserving innovation for the future. The United States and the
+States of New Jersey, Arizona, California, Connecticut, Maine, Michigan, Minnesota, New
+Hampshire, New York, North Dakota, Oklahoma, Oregon, Tennessee, Vermont, Wisconsin, and
+the District of Columbia, acting by and through their respective
+
+Attorneys General, bring this case to address Apple’s anticompetitive and exclusionary conduct
+and alleviate harm to competition.
+I.
+
+Introduction
+
+1.
+
+The Apple Computer Company, as it was then called, was founded in 1976 to
+make and market personal computers. From its inception, Apple had a knack for expensive,
+high-end design and niche marketing relative to its competitors. But it struggled to compete
+against rivals that offered lower prices and more programs. After two decades, Apple struggled
+to compete against Windows personal computers and by the late 1990s, it was on the brink of
+bankruptcy.
+
+2.
+
+Apple’s fortunes changed around the time it launched the iPod in 2001.
+Innovative design and savvy marketing had not been enough to drive a successful business
+strategy. This time, the confluence of several factors made it a smash success. Apple’s iTunes
+application allowed iPod users to organize their song library and update their iPod. A pathclearing antitrust enforcement case, brought by the United States and state attorneys general,
+against Microsoft opened the market and constrained Microsoft’s ability to prohibit companies
+like Apple from offering iTunes on Windows PCs. Licensing agreements with the major music
+labels allowed Apple to offer iPod/iTunes users a wide selection of music for a fee-perdownload. The iPod experience gave Apple a recipe for the future: a high-end device, a large
+number of platform participants (i.e., music labels and consumers), and a digital storefront. More
+importantly, it gave Apple a playbook: drive as many consumers and third-party participants to
+the platform as possible and offer a wide selection of content, products, and services created by
+those third parties to consumers. This structure put Apple in the driver’s seat to generate
+substantial revenues through device sales in the first instance and subsequently the ancillary fees
+that it derives from sitting between consumers on the one hand and the products and services
+they love on the other.
+
+3.
+
+Apple’s experience with the iPod set the stage for Apple’s most successful
+product yet. In 2007, Apple launched the iPhone, a smartphone that offered high-end hardware
+and software applications, called “apps,” built atop a mobile operating system that mimicked the
+functionality and ease of use of a computer. Apple initially offered only a small number of apps
+that it created for the iPhone. But Apple quickly realized the enormous value that a broader
+community of entrepreneurial, innovative developers could drive to its users and the iPhone
+platform more broadly. So Apple invited and capitalized on the work of these third parties while
+maintaining control and monetizing that work for itself. The value of third parties’ work served
+an important purpose for Apple. Indeed, as early as 2010, then-CEO Steve Jobs discussed how to
+“further lock customers into our ecosystem” and “make Apple[’s] ecosystem even more sticky.”
+Three years later, Apple executives were still strategizing how to “get people hooked to the
+ecosystem.”
+
+4.
+
+That strategy paid off. Over more than 15 years, Apple has built and sustained the
+most dominant smartphone platform and ecosystem in the United States by attracting third-party
+developers of all kinds to create apps that users could download on their smartphones through a
+digital storefront called the App Store. As developers created more and better products, content,
+apps, and services, more people bought iPhones, which incentivized even more third parties to
+develop apps for the iPhone. Today, the iPhone’s ecosystem includes products, apps, content,
+accessories, and services that are offered by content creators, newspaper publishers, banks,
+advertisers, social media companies, airlines, productivity developers, retailers and other
+merchants, and others. As Apple’s power grew, its leverage over third parties reinforced its tight
+control over how third parties innovate and monetize on and off the smartphone in ways that
+were anticompetitive and exclusionary.
+
+5.
+
+Today, Apple charges as much as $1,599 for an iPhone and earns high margins on
+each one, more than double those of others in the industry. When developers imagine a new
+product or service for iPhone consumers, Apple demands up to 30 percent of the price of an app
+whose content, product, or service it did not create. Then when a consumer wants to buy some
+additional service within that app, Apple extracts up to another 30 percent, again for a service
+Apple does not create or develop. When customers buy a coffee or pay for groceries, Apple
+charges a fee for every “tap-to-pay” transaction, imposing its own form of an interchange fee on
+banks and a significant new cost for using credit cards. When users run an internet search,
+Google gives Apple a significant cut of the advertising revenue that an iPhone user’s searches
+generate.
+
+6.
+
+Apple keenly understands that while a community of developers and accessory
+makers is indispensable to the success of the iPhone, they also pose an existential threat to its
+extraordinary profits by empowering consumers to “think different” and choose perfectly
+functional, less-expensive alternative smartphones.
+
+7.
+
+Apple’s smartphone business model, at its core, is one that invites as many
+participants, including iPhone users and third-party developers, to join its platform as possible
+while using contractual terms to force these participants to pay substantial fees. At the same
+time, Apple restricts its platform participants’ ability to negotiate or compete down its fees
+through alternative app stores, in-app payment processors, and more.
+
+8.
+
+In order to protect that model, Apple reduces competition in the markets for
+performance smartphones and smartphones generally. It does this by delaying, degrading, or
+outright blocking technologies that would increase competition in the smartphone markets by
+decreasing barriers to switching to another smartphone, among other things. The suppressed
+technologies would provide a high-quality user experience on any smartphone, which would, in
+turn, require smartphones to compete on their merits.
+
+9.
+
+Apple suppresses such innovation through a web of contractual restrictions that it
+selectively enforces through its control of app distribution and its “app review” process, as well
+as by denying access to key points of connection between apps and the iPhone’s operating
+system (called Application Programming Interfaces or “APIs”). Apple can enforce these
+restrictions due to its position as an intermediary between product creators such as developers on
+the one hand and users on the other.
+
+10.
+
+This complaint highlights five examples of Apple using these mechanisms to
+suppress technologies that would have increased competition among smartphones. Suppressing
+these technologies does not reflect competition on the merits. Rather, to protect its smartphone
+monopoly—and the extraordinary profits that monopoly generates—Apple repeatedly chooses to
+make its products worse for consumers to prevent competition from emerging. These examples
+below individually and collectively have contributed to Apple’s ability to secure, grow, and
+maintain its smartphone monopoly by increasing switching costs for users, which leads to higher
+prices and less innovation for users and developers. Apple has used one or both mechanisms
+(control of app distribution or control of APIs) to suppress the following technologies, among
+others:
+
+Super apps provide a user with broad functionality in a single app. Super apps can
+improve smartphone competition by providing a consistent user experience that can
+be ported across devices. Suppressing super apps harms all smartphone users—
+including Apple users—by denying them access to high quality experiences and it
+harms developers by preventing them from innovating and selling products.
+
+Cloud streaming game apps provide users with a way to play computing intensive
+games in the cloud. Cloud streaming games (and cloud streaming in general) can
+improve smartphone competition by decreasing the importance of expensive
+hardware for accomplishing high compute tasks on a smartphone. Suppressing cloud
+streaming games harms users by denying them the ability to play high-compute
+games, and it harms developers by preventing them from selling such games to users.
+
+Messaging apps are apps that allow users to communicate with friends, family, and
+other contacts. Messaging apps that work equally well across all smartphones can
+improve competition among smartphones by allowing users to switch phones without
+changing the way they communicate with friends, family, and others. Apple makes
+third-party messaging apps on the iPhone worse generally and relative to Apple
+Messages, Apple’s own messaging app, by prohibiting third-party apps from sending
+or receiving carrier-based messages. By doing so, Apple is knowingly and
+deliberately degrading quality, privacy, and security for its users and others who do
+not have iPhones. Apple also harms developers by artificially constraining the size of
+their user base.
+
+Smartwatches are an expensive accessory that typically must be paired to a
+smartphone. Smartwatches that can be paired with different smartphones allow users
+to retain their investment in a smartwatch when switching phones thereby decreasing
+the literal cost associated with switching from one smartphone to another, among
+other things. By suppressing key functions of third-party smartwatches—including
+the ability to respond to notifications and messages and to maintain consistent
+connections with the iPhone—Apple has denied users access to high performing
+smartwatches with preferred styling, better user interfaces and services, or better
+batteries, and it has harmed smartwatch developers by decreasing their ability to
+innovate and sell products.
+
+Digital wallets are an increasingly important way that smartphones are used and are a
+product in which users develop a great deal of comfort and trust as they typically
+contain users’ most sensitive information. Digital wallets that work across
+smartphone platforms allow users to move from one smartphone brand to another
+with decreased frictions, among other things. Apple has denied users access to digital
+wallets that would have provided a wide variety of enhanced features and denied
+digital wallet developers—often banks—the opportunity to provide advanced digital
+payments services to their own customers.
+
+11.
+
+By maintaining its monopoly over smartphones, Apple is able to harm consumers
+in a wide variety of additional ways. For example, by denying iPhone users the ability to choose
+their trusted banking apps as their digital wallet, Apple retains full control both over the
+consumer and also over the stream of income generated by forcing users to use only Appleauthorized products in the digital wallet. Apple also prohibits the creation and use of alternative
+app stores curated to reflect a consumer’s preferences with respect to security, privacy, or other
+values. These and many other features would be beneficial to consumers and empower them to
+make choices about what smartphone to buy and what apps and products to patronize. But
+allowing consumers to make that choice is an obstacle to Apple’s ability to maintain its
+monopoly.
+
+12.
+
+Of course, this is not the story Apple presents to the world. For decades, Apple
+branded itself a nimble, innovative upstart. In 1998, Apple co-founder Steve Jobs criticized
+Microsoft’s monopoly and “dirty tactics” in operating systems to target Apple, which prompted
+the company “to go to the Department of Justice” in hopes of getting Microsoft “to play fair.”
+But even at that time, Apple did not face the same types of restrictions it imposes on third parties
+today; Apple users could use their iPod with a Windows computer, and Microsoft did not charge
+Apple a 30 percent fee for each song downloaded from Apple’s iTunes store. Similarly, when
+Apple brought the iPhone to market in 2007, it benefited from competition among component
+makers and wireless carriers.
+
+13.
+
+While Apple’s anticompetitive conduct arguably has benefited its shareholders—
+to the tune of over $77 billion in stock buybacks in its 2023 fiscal year alone—it comes at a great
+cost to consumers. Some of those costs are immediate and obvious, and they directly affect
+Apple’s own customers: Apple inflates the price for buying and using iPhones while preventing
+the development of features like alternative app stores, innovative super apps, cloud-streaming
+games, and secure texting.
+
+14.
+
+Other costs of Apple’s anticompetitive conduct may be less obvious in the
+immediate term. But they are no less harmful and even more widespread, affecting all
+smartphone consumers. Apple’s smartphone monopoly means that it is not economically viable
+to invest in building some apps, like digital wallets, because they cannot reach iPhone users. This
+means that innovations fueled by an interest in building the best, most user-focused product that
+would exist in a more competitive market never get off the ground. What’s more, Apple itself
+has less incentive to innovate because it has insulated itself from competition. As Apple’s
+executives openly acknowledge: “In looking at it with hindsight, I think going forward we need
+to set a stake in the ground for what features we think are ‘good enough’ for the consumer. I
+would argue we’re already doing *more* than what would have been good enough. But we find
+it very hard to regress our product features YOY [year over year].” Existing features “would
+have been good enough today if we hadn’t introduced [them] already,” and “anything new
+and especially expensive needs to be rigorously challenged before it’s allowed into the consumer
+phone.” Thus, it is not surprising that Apple spent more than twice as much on stock buybacks
+and dividends as it did on research and development.
+
+15.
+
+Moreover, Apple has demonstrated its ability to use its smartphone monopoly to
+impose fee structures and manipulate app review to inhibit aggrieved parties from taking
+advantage of regulatory and judicial solutions imposed on Apple that attempt to narrowly
+remedy harm from its conduct.
+
+16.
+
+Apple wraps itself in a cloak of privacy, security, and consumer preferences to
+justify its anticompetitive conduct. Indeed, it spends billions on marketing and branding to
+promote the self-serving premise that only Apple can safeguard consumers’ privacy and security
+interests. Apple selectively compromises privacy and security interests when doing so is in
+Apple’s own financial interest—such as degrading the security of text messages, offering
+governments and certain companies the chance to access more private and secure versions of app
+stores, or accepting billions of dollars each year for choosing Google as its default search engine
+when more private options are available. In the end, Apple deploys privacy and security
+justifications as an elastic shield that can stretch or contract to serve Apple’s financial and
+business interests.
+
+17.
+
+Smartphones have so revolutionized American life that it can be hard to imagine a
+world beyond the one that Apple, a self-interested monopolist, deems “good enough.” But under
+our system of antitrust laws, “good enough” is, quite simply, not enough. Consumers,
+competition, and the competitive process—not Apple alone—should decide what options
+consumers should have. And competition, not Apple’s self-interested business strategies, should
+be the catalyst for innovation essential to our daily lives, not only in the smartphone market but
+in closely related industries like personal entertainment, automotive infotainment, and even more
+innovations that have not yet been imagined. Competition is what will ensure that Apple’s
+conduct and business decisions do not thwart the next Apple.
+
+18.
+
+Protecting competition and the innovation that competition inevitably ushers in
+for consumers, developers, publishers, content creators, and device manufacturers is why
+Plaintiffs bring this lawsuit under Section 2 of the Sherman Act to challenge Apple’s
+maintenance of its monopoly over smartphone markets, which affect hundreds of millions of
+Americans every day. Plaintiffs bring this case to rid smartphone markets of Apple’s
+monopolization and exclusionary conduct and to ensure that the next generation of innovators
+can upend the technological world as we know it with new and transformative technologies.
+
+
+II.
+
+Defendant Apple
+
+19.
+
+Apple is a global technology company with headquarters in Cupertino, California.
+Apple is one of the world’s most valuable public companies with a market capitalization over
+$2.5 trillion. In fiscal year 2023, Apple generated annual net revenues of $383 billion and net
+income of $97 billion. Apple’s net income exceeds any other company in the Fortune 500 and
+the gross domestic products of more than 100 countries.
+
+20.
+
+The iPhone, Apple’s signature product, is the primary driver of Apple’s growth
+and profitability, routinely commanding profit margins of more than 30 percent on devices
+alone—significantly higher than its smartphone competitors. iPhone sales have made up a
+majority of Apple’s annual revenue every year since 2012.
+
+21.
+
+Apple increasingly extracts revenue from iPhone users beyond the initial
+smartphone sale. For example, Apple offers iPhone upgrades, apps and in-app payments, paid
+digital subscription services (e.g., Apple’s music streaming, TV, news, gaming, fitness, and
+cloud storage subscriptions), accessories (e.g., tracking devices, headphones, chargers, iPhone
+cases), and more. Apple refers to these offerings as “Services” and “Wearables, Home, and
+Accessories,” respectively. In fiscal year 2023, these offerings accounted for nearly one-third of
+Apple’s total revenue, or four times what Apple earned from selling Mac computers. Some of
+the largest drivers of revenue within these categories are Apple’s smartwatch, the Apple Watch,
+and Apple’s App Store, where iPhone users purchase and download apps. In recent years,
+Services have accounted for an increasing share of Apple’s revenues, while the iPhone has
+remained the primary gateway through which U.S. consumers access these services.
+
+22.
+
+Apple’s U.S. market share by revenue is over 70 percent in the performance
+smartphone market—a more expensive segment of the broader smartphone market where
+Apple’s own executives recognize the company competes—and over 65 percent for all
+smartphones. These market shares have remained remarkably durable over the last decade.
+
+23.
+
+Apple’s smartphone market shares understate Apple’s dominance and likely
+growth in key demographics, including among younger American consumers. For example, onethird of all iPhone users in the United States were born after 1996, as compared to just 10 percent
+for Samsung, Apple’s closest smartphone competitor. Surveys show that as many as 88 percent
+of U.S. teenagers expect to purchase an iPhone for their next smartphone. iPhone users also tend
+to come from higher income households. Because smartphone users generally use a single
+smartphone to access related products and services, locking up key user groups allows Apple to
+capture greater spending on iPhone-related products and services, realize higher margins per user
+as compared to its smartphone rivals, and exercise greater control over developers and other
+smartphone ecosystem participants.
+
+24.
+
+In fiscal year 2023, Apple spent $30 billion on research and development. By
+comparison, Apple spent $77 billion on stock buybacks during the same year.
+
+25.
+
+Apple was founded in 1976. During its first 25 years, the company focused in
+large part on producing and marketing personal computers. Although the market for personal
+computers expanded over the next several decades, Apple struggled to gain customer adoption
+for its higher-priced products relative to its lower-cost competitors, including IBM and
+Microsoft. In the late 1990s, Apple significantly restructured the company and embarked on a
+new strategy focused not just on selling personal computers, but also consumer devices like the
+iPod, which led to the development of the iPhone.
+
+A.
+
+Apple launched the iPod, iTunes, and the iTunes Store against the backdrop
+of United States v. Microsoft
+
+26.
+
+When Apple began developing mobile consumer devices, it did so against the
+backdrop of United States v. Microsoft, which created new opportunities for innovation in areas
+that would become critical to the success of Apple’s consumer devices and the company itself.
+For example, the iPod did not achieve widespread adoption until Apple developed a crossplatform version of the iPod and iTunes for Microsoft’s Windows operating system, at the time
+the dominant operating system for personal computers. In the absence of the consent decree in
+United States v. Microsoft, it would have been more difficult for Apple to achieve this success
+and ultimately launch the iPhone.
+
+27.
+
+On May 18, 1998, the Justice Department and the attorneys general of 19 states
+and the District of Columbia filed United States v. Microsoft, an antitrust lawsuit against
+Microsoft alleging that the company had violated Section 2 of the Sherman Act by monopolizing
+the market for Intel-compatible personal computer operating systems. At trial, the government
+successfully established that Microsoft took steps to undermine the competitive threats posed by
+“middleware,” such as web browsers like Netscape, after recognizing that if users could use
+middleware to access a variety of content and services via remote servers, over the internet, they
+might be less reliant on Windows.
+
+28.
+
+Microsoft also took steps to undermine cross-platform technologies like
+QuickTime, a software architecture developed by Apple to play multimedia content (e.g., music
+and videos) on Apple’s Mac computers and Microsoft’s Windows PCs. In particular, Apple’s
+then-Senior Vice President of Software Engineering testified that Microsoft “[wrote] steps into
+its operating system to ensure that a QuickTime file will not operate reliably on Windows,”
+“trick[ed] the user into believing that QuickTime technology is part of the problem actually
+caused by the Windows operating system,” and “introduced greater technical incompatibilities
+between QuickTime and Microsoft products.”
+
+29.
+
+In April 2000, the trial court ultimately found that Microsoft’s conduct violated
+Section 2 of the Sherman Act. An appeals court upheld the district court’s findings of liability
+regarding middleware.
+
+30.
+
+In January 2001, Apple introduced iTunes, software built on Apple’s QuickTime
+architecture, and advertised it as “Jukebox Software” for organizing and listening to music.
+The initial version of iTunes was only compatible with Apple’s Mac computers.
+
+31.
+
+Later that same year, Apple debuted the iPod, a portable digital audio player that
+worked alongside iTunes to “let[] you put your entire music collection in your pocket and listen
+to it wherever you go.” Like iTunes, the initial iPod was only compatible with Mac computers.
+
+32.
+
+On November 1, 2002, the trial court accepted a proposed consent decree in
+United States v. Microsoft. Among other things, the consent decree prohibited Microsoft from
+retaliating against companies for developing or distributing products such as browsers and media
+players. The consent decree also required Microsoft to make various APIs available to thirdparty developers, including Apple.
+
+33.
+
+Following that consent decree in October 2003, Apple launched a cross-platform
+version of iTunes that was compatible with the Windows operating system. As a result, a much
+larger group of users could finally use the iPod and iTunes, including the iTunes Store. The
+iTunes Store allowed users to buy and download music and play it on their iTunes computer
+application or on the iPod. Apple benefited substantially from this new customer base. In the first
+two years after launching the iPod, Apple sold a few hundred thousand devices. The year after
+launching a Windows-compatible version of iTunes and gaining access to millions more
+customers, Apple sold millions of devices. Apple went on to sell hundreds of millions of iPod
+devices over the next two decades. Moreover, iTunes became the market leader in online music
+services. At an event in 2007, Apple’s then-CEO said of the iPod, “it didn’t just change the way
+we all listened to music, it changed the entire music industry.” At the same event, he announced
+that the company would change its name from Apple Computer, Inc. to Apple, Inc. in light of its
+shifting focus to consumer electronics rather than computers.
+
+34.
+
+The ubiquity of iPod and iTunes on Windows, in part because of a successful
+antitrust enforcement action against Microsoft, contributed to the development and success of
+Apple’s next flagship product—the iPhone. But after launching the iPhone, Apple began stifling
+the development of cross-platform technologies on the iPhone, just as Microsoft tried to stifle
+cross-platform technologies on Windows.
+
+35.
+
+In January 2007, Apple debuted the first-generation iPhone, describing the device
+as “an iPod, a phone, and an internet communicator,” and touting the fact that users could
+“sync[] content from a user’s iTunes library on their PC or Mac.” Apple marketed the iPhone as
+a smartphone that was easy to use. Reflecting on the company’s learning from the iPod, Apple’s
+then-CEO announced, “iTunes is going to sync all your media to your iPhone—but also a ton of
+data. Contacts, calendars, photos, notes, bookmarks, email accounts.”
+
+36.
+
+The original iPhone cost approximately $299—approximately $450 in 2024
+dollars adjusted for inflation—with a two-year contract with a phone carrier.
+
+37.
+
+At launch, nearly all native apps for the iPhone were created by Apple. There
+were only about a dozen apps overall, including Calendar, Camera, Clock, Contacts, iPod,
+Messages, Notes, Phone, Photos, Safari, Stocks, Voice Memos, and Weather.
+
+38.
+
+Within a year of launching the iPhone, Apple invited third-party developers to
+create native apps for the iPhone. Apple released its first software development kit—essentially
+the digital tools for building native apps on Apple’s operating system (iOS)—to encourage and
+enable third-party developers to create native apps for the iPhone. Apple also offered developers
+ways to earn money by selling apps and later in-app purchases and subscriptions. By 2009,
+Apple was running marketing campaigns highlighting the value that third-party apps provide to
+iPhone users with the trademarked slogan: “There’s an app for that.”
+
+39.
+
+Apple’s decision to invite third-party participation on its iPhone platform
+benefited Apple, too. The proliferation of third-party apps generated billions of dollars in profits
+for Apple and an iPhone user base of more than 250 million devices in the United States. Apple’s
+market shares—over 70 percent of the performance smartphone market and over 65 percent of
+the broader smartphone market—likely understate its monopoly power today.
+
+40.
+
+While Apple profits from third-party developers that increase the iPhone’s value
+to users, Apple executives understand that third-party products and services can, in their own
+words, be “fundamentally disruptive” to its smartphone monopoly, decreasing users’ dependence
+on Apple and the iPhone and increasing competitive pressure on Apple. Apple therefore
+willingly sacrifices the short-term benefits it would gain from improved products and services
+developed by third parties when necessary to maintain its monopoly.
+
+B.
+
+Apple invited third-party investment on the iPhone and then imposed tight
+controls on app creation and app distribution
+
+41.
+
+Apple controls how developers distribute and create apps for iPhone users. For
+example, developers can only distribute native iPhone apps through Apple’s App Store, which is
+the only way for users to download native iOS apps. Limiting distribution to the Apple App
+Store enables Apple to exert monopoly power over developers by imposing contractual
+restrictions and rules that limit the behavior of non-Apple apps and services. Specifically, Apple
+sets the conditions for apps it allows on the Apple App Store through its App Store Review
+Guidelines. Under these guidelines, Apple has sole discretion to review and approve all apps and
+app updates. Apple selectively exercises that discretion to its own benefit, deviating from or
+changing its guidelines when it suits Apple’s interests and allowing Apple executives to control
+app reviews and decide whether to approve individual apps or updates. Apple often enforces its
+App Store rules arbitrarily. And it frequently uses App Store rules and restrictions to penalize
+and restrict developers that take advantage of technologies that threaten to disrupt,
+disintermediate, compete with, or erode Apple’s monopoly power.
+
+42.
+
+Apple also controls app creation by deciding which APIs are available to
+developers when they make third-party apps. For example, developers cannot provide native
+apps on the iPhone unless they enter into Apple’s non-negotiable Developer Program License
+Agreement (DPLA). That agreement requires developers to use public APIs only “in the manner
+prescribed by Apple.” It also prohibits third-party apps from using APIs that Apple designates as
+“private.” Apple selectively designates APIs as public or private to benefit Apple, limiting the
+functionality developers can offer to iPhone users even when the same functionality is available
+in Apple’s own apps, or even select third-party apps. Similar to Apple’s App Store restrictions,
+Apple uses its DPLA to impose restrictions that penalize and restrict developers that take
+advantage of technologies that threaten to disrupt, disintermediate, compete with, or erode
+Apple’s monopoly power.
+
+43.
+
+Developers cannot avoid Apple’s control of app distribution and app creation by
+making web apps—apps created using standard programming languages for web-based content
+and available over the internet—as an alternative to native apps. Many iPhone users do not look
+for or know how to find web apps, causing web apps to constitute only a small fraction of app
+usage. Apple recognizes that web apps are not a good alternative to native apps for developers.
+As one Apple executive acknowledged, “[d]evelopers can’t make much money on the web.”
+Regardless, Apple can still control the functionality of web apps because Apple requires all web
+browsers on the iPhone to use WebKit, Apple’s browser engine—the key software components
+that third-party browsers use to display web content.
+
+44.
+
+Nor can developers rely on alternative app stores even though this would benefit
+developers and users. For example, developers cannot offer iPhone users an app store that only
+offers apps curated for use by children, which would provide opportunities to improve privacy,
+security, and child safety. By contrast, Apple allows certain enterprise and public sector
+customers to offer versions of app stores with more curated apps to better protect privacy and
+security.
+
+45.
+
+Apple’s control over both app distribution and app creation gives Apple
+tremendous power. For example, Apple designates as “private” the APIs needed to send Short
+Message Service, or SMS, text messages, which is a protocol used by mobile carriers since the
+early 1990s to allow users to send basic text messages to other mobile phone numbers using their
+own mobile phone numbers. Developers have no technical means to access these private APIs,
+but even if they did, doing so would breach their developer agreement with Apple, and therefore
+put the developer at risk of losing the ability to distribute apps through the App Store. For
+example, Apple prohibits third-party iPhone apps from sending or receiving SMS text messages
+even though this functionality is available through Apple Messages. Likewise, Apple can control
+the functionality of third-party apps and accessories through its control of app distribution
+because if an app includes functionality that Apple does not like, Apple can and does exercise its
+discretion to simply block the app from the App Store.
+
+46.
+
+Apple’s dominance is such that neither app developers nor iPhone users can
+benefit from lower cost or higher quality means of distributing apps or purchasing and providing
+digital products and services. Instead, Apple guarantees that it continues to benefit from the
+contributions of third-party developers and other platform participants while also protecting itself
+from the competitive threats and pressure those participants pose to Apple’s smartphone
+monopoly.
+
+47.
+
+This complaint focuses on Apple’s use of its dominance to impose contracts and
+rules that restrict the behavior and design decisions of companies other than Apple.
+
+III.
+
+Smartphones Are Platforms
+
+48.
+
+Smartphones combine the functionality of a traditional mobile phone with
+advanced hardware and software components. This cluster of services and features results in a
+distinct product for consumers and developers. For example, smartphones not only make phone
+calls, but also allow users to listen to music, send text messages, take pictures, play games,
+access software for work, manage their finances, and browse the internet.
+
+49.
+
+Smartphones are platforms. Platforms bring together different groups that benefit
+from each other’s participation on the platform. A food delivery app, for example, is a multisided platform that brings together restaurants, couriers, and consumers. A two-sided platform,
+for example, may bring together service providers on the one hand and consumers on the other.
+The technology and economics of a smartphone platform are fundamentally different from the
+technology and economics of a simultaneous transaction platform, such as a credit card, because
+smartphone platforms compete over device features and pricing in ways that do not directly
+relate to app store transactions. Whereas credit card transactions reflect a single simultaneous
+action that requires both sides of the transaction for either side to exist, consumers value
+smartphone platforms for a variety of reasons separate from their ability to facilitate a
+simultaneous transaction. Consumers care about non-transactional components of the phone,
+such as its camera and processing speed, and they care about non-transactional components of
+apps, such as their features and functionality.
+
+50.
+
+The economics of a smartphone platform are such that the platform’s value to
+users—and in turn to the platform operator—increase when new apps and new features are added
+to the platform. In order to create these economic benefits for itself and its users, Apple has
+opened its smartphone platform to third-party developers, whose countless inventions and
+innovations have created enormous value. Apple has willingly opened the platform to third-party
+developers to capture this value even though there is no extensive regulatory framework
+requiring it to do so or overseeing how it interacts with those third parties. In this way,
+smartphone platforms are very different from other platforms, like landline telephone networks,
+whose value-adding features were built primarily by the platform operator and which were only
+opened to third parties when the platform operator was required to do so by regulation. When a
+third-party developer for the iPhone creates a valuable new feature, consumers benefit and
+consumer demand goes up for Apple’s products, increasing the economic value of the iPhone to
+Apple. This has played out hundreds of thousands of times for the iPhone, resulting in an
+enormously valuable smartphone platform reflecting the combined contributions of millions of
+developers.
+
+51.
+
+In contrast, limiting the features and functionality created by third-party
+developers—and therefore available to iPhone users—makes the iPhone worse and deprives
+Apple of the economic value it would gain as the platform operator. It makes no economic sense
+for Apple to sacrifice the profits it would earn from new features and functionality unless it has
+some other compensating reason to do so, such as protecting its monopoly profits.
+
+IV.
+
+Apple Unlawfully Maintains Its Monopoly Power
+
+A.
+
+Apple harms competition by imposing contractual restrictions, fees, and
+taxes on app creation and distribution
+
+52.
+
+Apple’s internal documents show that, soon after the iPhone’s introduction and
+notwithstanding its success, the company began to fear that disintermediation of its platform and
+the commoditization of the iPhone would threaten Apple’s substantial profits from iPhone sales
+and related revenue streams.
+
+53.
+
+Accordingly, Apple exercised its control of app creation and app distribution in
+key cases to cement the iPhone and App Store as the primary gateway to apps, products, and
+services. Apple often claims these rules and restrictions are necessary to protect user privacy or
+security, but Apple’s documents tell a different story. In reality, Apple imposes certain
+restrictions to benefit its bottom line by thwarting direct and disruptive competition for its iPhone
+platform fees and/or for the importance of the iPhone platform itself.
+
+54.
+
+Three aspects of Apple’s efforts to protect and exploit its smartphone monopoly
+are worth noting. First, Apple exercises its control over app distribution and app creation to
+dictate how developers innovate for the iPhone, enforcing rules and contractual restrictions
+that stop or delay developers from innovating in ways that threaten Apple’s power. In so doing,
+Apple influences the direction of innovation both on and off the iPhone.
+
+55.
+
+Second, Apple drives iPhone users away from products and services that compete
+with or threaten Apple. In doing so, Apple increases the cost and friction of switching from the
+iPhone to another smartphone and generates extraordinary profits through subscription services
+(like Apple’s proprietary music, gaming, cloud storage, and news services), advertisements
+within the App Store, and accessories like headphones and smartwatches.
+
+56.
+
+Third, Apple uses these restrictions to extract monopoly rents from third parties in
+a variety of ways, including app fees and revenue-share requirements. For most of the last 15
+years, Apple collected a tax in the form of a 30 percent commission on the price of any app
+downloaded from the App Store, a 30 percent tax on in-app purchases, and fees to access the
+tools needed to develop iPhone native apps in the first place. While Apple has reduced the tax it
+collects from a subset of developers, Apple still extracts 30 percent from many app makers.
+Apple also generates substantial and increasing revenue by charging developers to help users
+find their apps in the App Store—something that, for years, Apple told developers was part of
+the reason they paid a 30 percent tax in the first place. For example, Apple will sell keyword
+searches for an app to someone other than the owner of the app. Apple is able to command these
+rents from companies of all sizes, including some of the largest and most sophisticated
+companies in the world.
+
+57.
+
+As Apple exercised its control of app distribution and app creation, Apple slowed
+its own iPhone innovation and extracted more revenue and profit from its existing customers
+through subscriptions, advertising, and cloud services. These services increase the cost of
+switching from the iPhone to another smartphone because many of these services—including its
+proprietary gaming, cloud storage, and news service—are exclusive to the Apple ecosystem,
+causing significant frictions for iPhone users who try to use alternative services on another
+smartphone. Moreover, Apple’s conduct demonstrates that Apple recognized the importance of
+digital products and services for the success of the iPhone while at the same time it restricted the
+development and growth of non-iPhone products and services—especially those that might make
+it easier for users to switch from the iPhone to another smartphone.
+
+58.
+
+Each step in Apple’s course of conduct built and reinforced the moat around its
+smartphone monopoly. The cumulative effect of this course of conduct has been to maintain and
+entrench Apple’s smartphone monopoly at the expense of the users, developers, and other third
+parties who helped make the iPhone what it is today. Despite major technological changes over
+the years, Apple’s power to control app creation and distribution and extract fees from
+developers has remained largely the same, unconstrained by competitive pressures or market
+forces. That this conduct is impervious to competition reflects the success of Apple’s efforts to
+create and maintain its smartphone monopoly, the strength of that monopoly, and the durability
+of Apple’s power.
+
+59.
+
+Apple’s monopoly maintenance has taken many forms and continues to evolve
+today; however, Apple’s anticompetitive and exclusionary course of conduct is exemplified by
+its contractual rules and restrictions targeting several products and services: super apps, cloud
+streaming apps, messaging apps, smartwatches, and digital wallets. By stifling these
+technologies, and many others, Apple reinforces the moat around its smartphone monopoly not
+by making its products more attractive to users, but by discouraging innovation that threatens
+Apple’s smartphone monopoly or the disintermediation of the iPhone. Apple continues to expand
+and shift the scope and categories of anticompetitive conduct such that the cumulative
+anticompetitive effect of Apple’s conduct is even more powerful than that of each exclusionary
+act standing alone.
+
+i.
+
+60.
+
+Super Apps: Apple prevented apps from threatening its smartphone
+monopoly by undermining mini programs that reduce user
+dependence on the iPhone
+
+For years, Apple denied its users access to super apps because it viewed them as
+
+“fundamentally disruptive” to “existing app distribution and development paradigms” and
+ultimately Apple’s monopoly power. Apple feared super apps because it recognized that as they
+become popular, “demand for iPhone is reduced.” So, Apple used its control over app
+distribution and app creation to effectively prohibit developers from offering super apps instead
+of competing on the merits.
+
+61.
+
+A super app is an app that can serve as a platform for smaller “mini” programs
+developed using programming languages such as HTML5 and JavaScript. By using
+programming languages standard in most web pages, mini programs are cross platform, meaning
+they work the same on any web browser and on any device. Developers can therefore write a
+single mini program that works whether users have an iPhone or another smartphone.
+
+62.
+
+Super apps can provide significant benefits to users. For example, a super app that
+incorporates a multitude of mini programs might allow users to easily discover and access a wide
+variety of content and services without setting up and logging into multiple apps, not unlike how
+Netflix and Hulu allow users to find and watch thousands of movies and television shows in a
+single app. As one Apple executive put it, “who doesn’t want faster, easier to discover apps that
+do everything a full app does?” Restricting super apps makes users worse off and sacrifices the
+short-term profitability of iPhones for Apple.
+
+63.
+
+Super apps also reduce user dependence on the iPhone, including the iOS
+operating system and Apple’s App Store. This is because a super app is a kind of middleware
+that can host apps, services, and experiences without requiring developers to use the iPhone’s
+APIs or code.
+
+64.
+
+As users interact with a super app, they rely less on the smartphone’s proprietary
+software and more on the app itself. Eventually, users become more willing to choose a different
+smartphone because they can access the same interface, apps, and content they desire on any
+smartphone where the super app is also present. Moreover, developers can write mini programs
+that run on the super app without having to write separate apps for iPhones and other
+smartphones. This lowers barriers to entry for smartphone rivals, decreases Apple’s control over
+third-party developers, and reduces switching costs.
+
+65.
+
+Apple recognizes that super apps with mini programs would threaten its
+monopoly. As one Apple manager put it, allowing super apps to become “the main gateway
+where people play games, book a car, make payments, etc.” would “let the barbarians in at the
+gate.” Why? Because when a super app offers popular mini programs, “iOS stickiness goes
+down.”
+
+66.
+
+Apple’s fear of super apps is based on first-hand experience with enormously
+popular super apps in Asia. Apple does not want U.S. companies and U.S. users to benefit from
+similar innovations. For example, in a Board of Directors presentation, Apple highlighted the
+“[u]ndifferentiated user experience on [a] super platform” as a “major headwind” to growing
+iPhone sales in countries with popular super apps due to the “[l]ow stickiness” and “[l]ow
+switching cost.” For the same reasons, a super app created by a U.S. company would pose a
+similar threat to Apple’s smartphone dominance in the United States. Apple noted as a risk in
+2017 that a potential super app created by a specific U.S. company would “replace[ ] usage of
+native OS and apps resulting in commoditization of smartphone hardware.”
+
+67.
+
+Apple did not respond to the risk that super apps might disrupt its monopoly by
+innovating. Instead, Apple exerted its control over app distribution to stifle others’ innovation.
+Apple created, strategically broadened, and aggressively enforced its App Store Guidelines to
+effectively block apps from hosting mini programs. Apple’s conduct disincentivized investments
+in mini program development and caused U.S. companies to abandon or limit support for the
+technology in the United States.
+
+68.
+
+In particular, part of what makes super apps valuable to consumers is that finding
+and using mini programs is easier than using an app store and navigating many separate apps,
+passwords, and set-up processes. Instead of making mini program discovery easy for users,
+however, Apple made it nearly impossible.
+
+69.
+
+Since at least 2017, Apple has arbitrarily imposed exclusionary requirements that
+unnecessarily and unjustifiably restrict mini programs and super apps. For example, Apple
+required apps in the United States to display mini programs using a flat, text-only list of mini
+programs. Apple also banned displaying mini programs with icons or tiles, such as descriptive
+pictures of the content or service offered by the mini program. Apple also banned apps from
+categorizing mini programs, such as by displaying recently played games or more games by the
+same developer. These restrictions throttle the popularity of mini programs and ultimately make
+the iPhone worse because it discourages developers from creating apps and other content that
+would be attractive to iPhone users.
+
+70.
+
+Apple also selectively enforced its contractual rules with developers to prevent
+developers from monetizing mini programs, hurting both users and developers. For example,
+Apple blocked mini programs from accessing the APIs needed to implement Apple’s in-app
+payment (IAP) system—even if developers were willing to pay Apple’s monopoly tax. Similarly,
+Apple blocked developers’ ability to use in-app payment methods other than directly using IAP.
+For instance, super apps could create a virtual currency for consumers to use in mini programs,
+but Apple blocked this too. Apple, however, allows other, less-threatening apps to do so.
+
+ii.
+
+71.
+
+Cloud Streaming Apps: Apple prevented developers from offering
+cloud gaming apps that reduce dependence on the iPhone’s expensive
+hardware
+
+For years, Apple blocked cloud gaming apps that would have given users access
+to desirable apps and content without needing to pay for expensive Apple hardware because this
+would threaten its monopoly power. In Apple’s own words, it feared a world where “all that
+matters is who has the cheapest hardware” and consumers could “buy[] a [expletive] Android for
+25 bux at a garage sale and . . . have a solid cloud computing device” that “works fine.” Apple’s
+conduct made its own product worse because consumers missed out on apps and content. This
+conduct also cost Apple substantial revenues from third-party developers. At the same time,
+Apple also made other smartphones worse by stifling the growth of these cross-platform apps on
+other smartphones. Importantly, Apple prevented the emergence of technologies that could lower
+the price that consumers pay for iPhones.
+
+72.
+
+Cloud streaming apps let users run a computationally intensive program without
+having to process or store the program on the smartphone itself. Instead, a user’s smartphone
+leverages the computing power of a remote server, which runs the program and streams the result
+back to the phone. Cloud streaming allows developers to bring cutting-edge technologies and
+services to smartphone consumers—including gaming and interactive artificial intelligence
+services—even if their smartphone includes hardware that is less powerful than an iPhone.
+
+73.
+
+Cloud streaming has significant benefits for users. For example, Apple has
+promoted the iPhone 15 by promising that its hardware is powerful enough to enable “next-level
+performance and mobile gaming.” But powerful hardware is unnecessary if games are played via
+cloud streaming apps. For a cloud game, the user experiences and plays the game on the
+smartphone, but the game is run by hardware and software in remote computing centers (“the
+cloud”). Thus, cloud gaming apps deliver rich gaming experiences on smartphones without the
+need for users to purchase powerful, expensive hardware. As a result, users with access to cloud
+streamed games may be more willing to switch from an iPhone to a smartphone with less
+expensive hardware because both smartphones can run desirable games equally well.
+
+74.
+
+Cloud streaming also has significant advantages for developers. For example,
+instead of re-writing the same game for multiple operating systems, cloud platforms can act as
+middleware that allow developers to create a single app that works across iOS, Android, and
+other operating systems. Cloud streaming provides more and simpler options for offering
+subscriptions, collecting payments, and distributing software updates as well. All of this helps
+game developers reach economies of scale and profitability they might not achieve without
+offering cloud gaming apps and reduces their dependence on iOS and Apple’s App Store.
+
+75.
+
+Apple wielded its power over app distribution to effectively prevent third-party
+developers from offering cloud gaming subscription services as a native app on the iPhone. Even
+today, none are currently available on the iPhone.
+
+76.
+
+For years, Apple imposed the onerous requirement that any cloud streaming
+game—or any update to a cloud streaming game—be submitted as a stand-alone app for
+approval by Apple. Having to submit individual cloud streaming games for review by Apple
+increased the cost of releasing games on the iPhone and limited the number of games a developer
+could make available to iPhone users. For example, the highest quality games, referred to as
+AAA games, typically require daily or even hourly updates across different platforms. If these
+updates need to be individually approved by Apple, developers must either delay their software
+updates across all platforms or only update their games on non-iOS platforms, potentially
+making the iOS version of the game incompatible with other versions on other platforms until
+Apple approves the update. Neither option is tenable for players or developers.
+
+77.
+
+Until recently, Apple would have required users to download cloud streaming
+software separately for each individual game, install identical app updates for each game
+individually, and make repeated trips to Apple’s App Store to find and download games. Apple’s
+conduct made cloud streaming apps so unattractive to users that no developer designed one for
+the iPhone.
+
+78.
+
+Apple undermines cloud gaming apps in other ways too, such as by requiring
+cloud games to use Apple’s proprietary payment system and necessitating game overhauls and
+payment redesigns specifically for the iPhone. Apple’s rules and restrictions effectively force
+developers to create a separate iOS-specific version of their app instead of creating a single
+cloud-based version that is compatible with several operating systems, including iOS. As a
+result, developers expend considerable time and resources re-engineering apps to bring crossplatform apps like multiplayer games to the iPhone.
+
+79.
+
+Cloud streaming apps broadly speaking—not just gaming—could force Apple to
+compete more vigorously against rivals. As one Apple manager recognized, cloud streaming
+eliminates “a big reason for high-performance local compute” and thus eliminates one of the
+iPhone’s advantages over other smartphones because then “all that matters is who has the
+cheapest hardware.” Accordingly, it reduces the need for users to buy expensive phones with
+advanced hardware. This problem does not “stop at high-end gaming,” but applies to “a number
+of high-compute requirement applications.”
+
+B.
+
+Apple uses APIs and other critical access points in the smartphone ecosystem
+to control the behavior and innovation of third parties in order to insulate
+itself from competition
+
+i.
+
+80.
+
+Messaging: Apple protects its smartphone monopoly by degrading
+and undermining cross-platform messaging apps and rival
+smartphones
+
+Apple undermines cross-platform messaging to reinforce “obstacle[s] to iPhone
+families giving their kids Android phones.” Apple could have made a better cross-platform
+messaging experience itself by creating iMessage for Android but concluded that doing so “will
+hurt us more than help us.” Apple therefore continues to impede innovation in smartphone
+messaging, even though doing so sacrifices the profits Apple would earn from increasing the
+value of the iPhone to users, because it helps build and maintain its monopoly power.
+
+81.
+
+Messaging apps allow smartphone users to communicate with friends, family, and
+other contacts and are often the primary way users interact with their smartphones. In Apple’s
+own words, messaging apps are “a central artery through which the full range of customer
+experience flows.”
+
+82.
+
+Smartphone messaging apps operate using “protocols,” which are the systems that
+enable communication and determine the features available when users interact with each other
+via messaging apps.
+
+83.
+
+One important protocol used by messaging apps is SMS. SMS offers a broad user
+network, but limited functionality. For example, all mobile phones can receive SMS messages,
+but SMS does not support modern messaging features, such as large files, edited messages, or
+reactions like a “thumbs up” or a heart.
+
+84.
+
+Many messaging apps—such as WhatsApp, Facebook Messenger, and Signal—
+use proprietary, internet-based protocols, which are sometimes referred to as OTT (“over the
+top”) protocols. OTT messaging typically involves more secure and advanced features, such as
+encryption, typing indicators, read receipts, the ability to share rich media, and disappearing or
+ephemeral messages. While all mobile phones can send and receive SMS messages, OTT only
+works between users who sign up for and communicate through the same messaging app. As a
+result, a user cannot send an OTT message to a friend unless the friend also uses the same
+messaging app.
+
+85.
+
+Apple makes third-party messaging apps on the iPhone worse generally and
+relative to Apple Messages, Apple’s own messaging app. By doing so, Apple is knowingly and
+deliberately degrading quality, privacy, and security for its users. For example, Apple designates
+the APIs needed to implement SMS as “private,” meaning third-party developers have no
+technical means of accessing them and are prohibited from doing so under Apple’s contractual
+agreements with developers. As a result, third-party messaging apps cannot combine the “text to
+anyone” functionality of SMS with the advanced features of OTT messaging. Instead, if a user
+wants to send somebody a message in a third-party messaging app, they must first confirm
+whether the person they want to talk to has the same messaging app and, if not, convince that
+person to download and use a new messaging app. By contrast, if an Apple Messages user wants
+to send somebody a message, they just type their phone number into the “To:” field and send the
+message because Apple Messages incorporates SMS and OTT messaging.
+
+86.
+
+Apple prohibits third-party developers from incorporating other important
+features into their messaging apps as well. For example, third-party messaging apps cannot
+continue operating in the background when the app is closed, which impairs functionality like
+message delivery confirmation. And when users receive video calls, third-party messaging apps
+cannot access the iPhone camera to allow users to preview their appearance on video before
+answering a call. Apple Messages incorporates these features.
+
+87.
+
+If third-party messaging apps could incorporate these features, they would be
+more valuable and attractive to users, and the iPhone would be more valuable to Apple in the
+short term. For example, by incorporating SMS, users would avoid the hassle of convincing
+someone to download a separate app before sending them a message. Third-party messaging
+apps could also offer the ability to schedule SMS messages to be sent in the future, suggest
+replies, and support robust multi-device use on smartphones, tablets, and computers—as they
+have already done on Android.
+
+88.
+
+Moreover, messaging apps benefit from significant network effects—as more
+people use the app, there are more people to communicate with through the app, which makes
+the app more valuable and in turn attracts even more users. Incorporating SMS would help thirdparty messaging apps grow their network and attract more users. Instead, Apple limits the reach
+of third-party messaging apps and reinforces network effects that benefit Apple.
+
+89.
+
+Recently, Apple has stated that it plans to incorporate more advanced features for
+cross-platform messaging in Apple Messages by adopting a 2019 version of the RCS protocol
+(which combines aspects of SMS and OTT). Apple has not done so yet, and regardless it would
+not cure Apple’s efforts to undermine third-party messaging apps because third-party messaging
+apps will still be prohibited from incorporating RCS just as they are prohibited from
+incorporating SMS. Moreover, the RCS standard will continue to improve over time, and if
+Apple does not support later versions of RCS, cross-platform messaging using RCS could soon
+be broken on iPhones anyway.
+
+90.
+
+In addition to degrading the quality of third-party messaging apps, Apple
+affirmatively undermines the quality of rival smartphones. For example, if an iPhone user
+messages a non-iPhone user in Apple Messages—the default messaging app on an iPhone—then
+the text appears to the iPhone user as a green bubble and incorporates limited functionality: the
+conversation is not encrypted, videos are pixelated and grainy, and users cannot edit messages or
+see typing indicators. This signals to users that rival smartphones are lower quality because the
+experience of messaging friends and family who do not own iPhones is worse—even though
+Apple, not the rival smartphone, is the cause of that degraded user experience. Many non-iPhone
+users also experience social stigma, exclusion, and blame for “breaking” chats where other
+participants own iPhones. This effect is particularly powerful for certain demographics, like
+teenagers—where the iPhone’s share is 85 percent, according to one survey. This social pressure
+reinforces switching costs and drives users to continue buying iPhones—solidifying Apple’s
+smartphone dominance not because Apple has made its smartphone better, but because it has
+made communicating with other smartphones worse.
+
+91.
+
+Apple recognizes that its conduct harms users and makes it more difficult to
+switch smartphones. For example, in 2013, Apple’s Senior Vice President of Software
+Engineering explained that supporting cross-platform OTT messaging in Apple Messages
+“would simply serve to remove [an] obstacle to iPhone families giving their kids Android
+phones.” In March 2016, Apple’s Senior Vice President of Worldwide Marketing forwarded an
+email to CEO Tim Cook making the same point: “moving iMessage to Android will hurt us more
+than help us.”
+
+92.
+
+In 2022, Apple’s CEO Tim Cook was asked whether Apple would fix iPhone-to-
+Android messaging. “It’s tough,” the questioner implored Mr. Cook, “not to make it personal but
+I can’t send my mom certain videos.” Mr. Cook’s response? “Buy your mom an iPhone.”
+
+93.
+
+Recently, Apple blocked a third-party developer from fixing the broken cross-
+platform messaging experience in Apple Messages and providing end-to-end encryption for
+messages between Apple Messages and Android users. By rejecting solutions that would allow
+for cross-platform encryption, Apple continues to make iPhone users’ less secure than they could
+otherwise be.
+
+ii.
+
+94.
+
+Smartwatches: Apple protects its smartphone monopoly by impeding
+the development of cross-platform smartwatches
+
+Apple uses smartwatches, a costly accessory, to prevent iPhone customers from
+choosing other phones. Having copied the idea of a smartwatch from third-party developers,
+Apple now prevents those developers from innovating and limits the Apple Watch to the iPhone
+to prevent a negative “impact to iPhone sales.”
+
+95.
+
+Smartwatches are wrist-worn devices with an interactive display and
+accompanying apps that let users perform a variety of functions, including monitoring health
+data, responding to messages and notifications, performing mobile payments, and, of course,
+telling time. Smartwatches must generally be paired with a smartphone to operate and unlock
+their full functionality, such as receiving and responding to emails and text messages or
+answering phone calls. Because of the significant cost of buying a smartwatch, users are less
+willing to choose a smartphone if it is not compatible with their smartwatch.
+
+96.
+
+Apple’s smartwatch—Apple Watch—is only compatible with the iPhone.
+So, if Apple can steer a user towards buying an Apple Watch, it becomes more costly for that
+user to purchase a different kind of smartphone because doing so requires the user to abandon
+their costly Apple Watch and purchase a new, Android-compatible smartwatch.
+
+97.
+
+By contrast, cross-platform smartwatches can reduce iPhone users’ dependence
+on Apple’s proprietary hardware and software. If a user purchases a third-party smartwatch that
+is compatible with the iPhone and other smartphones, they can switch from the iPhone to another
+smartphone (or vice versa) by simply downloading the companion app on their new phone and
+connecting to their smartwatch via Bluetooth. Moreover, as users interact with a smartwatch,
+e.g., by accessing apps from their smartwatch instead of their smartphone, users rely less on a
+smartphone’s proprietary software and more on the smartwatch itself. This also makes it easier
+for users to switch from an iPhone to a different smartphone.
+
+98.
+
+Apple recognizes that driving users to purchase an Apple Watch, rather than a
+third-party cross-platform smartwatch, helps drive iPhone sales and reinforce the moat around its
+smartphone monopoly. For example, in a 2019 email the Vice President of Product Marketing
+for Apple Watch acknowledged that Apple Watch “may help prevent iPhone customers from
+switching.” Surveys have reached similar conclusions: many users say the other devices linked to
+their iPhone are the reason they do not switch to Android.
+
+99.
+
+Apple also recognizes that making Apple Watch compatible with Android would
+“remove[an] iPhone differentiator.”
+
+100.
+
+Apple uses its control of the iPhone, including its technical and contractual
+control of critical APIs, to degrade the functionality of third-party cross-platform smartwatches
+in at least three significant ways: First, Apple deprives iPhone users with third-party
+smartwatches of the ability to respond to notifications. Second, Apple inhibits third-party
+smartwatches from maintaining a reliable connection with the iPhone. And third, Apple
+undermines the performance of third-party smartwatches that connect directly with a cellular
+network. In doing so, Apple constrains user choice and crushes innovation that might help fill in
+the moat around Apple’s smartphone monopoly.
+
+101.
+
+The ability to respond to notifications, e.g., new messages or app alerts, directly
+from a smartwatch is one of the top considerations for smartwatch purchasers—and one of the
+most used product features when it is available. According to Apple’s own market research, the
+ability to “[s]end and receive text messages from social and messaging apps” is a critical feature
+for a smartwatch. In 2013, when Apple started offering users the ability to connect their iPhones
+with third-party smartwatches, Apple provided third-party smartwatch developers with access to
+various APIs related to the Apple Notification Center Service, Calendar, Contacts, and
+Geolocation. The following year, Apple introduced the Apple Watch and began limiting thirdparty access to new and improved APIs for smartwatch functionality. For example, Apple
+prevents third-party smartwatches from accessing APIs related to more advanced Actionable
+Notifications, so iPhone users cannot respond to notifications using a third-party smartwatch.
+Instead, Apple provides third-party smartwatches access to more limited APIs that do not allow
+users to respond to a message, accept a calendar invite, or take other actions available on Apple
+Watch.
+
+102.
+
+A reliable Bluetooth connection is essential for a smartwatch to connect
+wirelessly with a smartphone, and thereby function as a companion to the user’s smartphone and
+unlock its full functionality. But Apple prohibits third-party smartwatch developers from
+maintaining a connection even if a user accidentally turns off Bluetooth in the iPhone’s control
+center. Apple gives its own Apple Watch that functionality, however, because Apple recognizes
+that users frequently disable Bluetooth on their iPhone without realizing that doing so
+disconnects their watch. As a result, iPhone users have a worse experience when they try to use a
+third-party smartwatch with their iPhone. Apple also requires users to turn on “Background App
+Refresh” and disable the battery-saving “Low Power Mode” in their iPhone settings for thirdparty smartwatches to remain consistently connected to their companion app, which is necessary
+to allow a user’s iPhone and their smartwatch to update and share data about the weather or
+exercise tracking, even though Apple does not impose similar requirements for Apple Watch.
+
+103.
+
+Cellular-enabled smartwatches incorporate the ability to connect directly to a
+cellular network, allowing users to make calls, send messages, and download data even if their
+smartwatch is not paired to a smartphone. Cellular-enabled smartwatches are popular with
+consumers, making up approximately 20 percent of Apple Watch sales. Apple Watch users can
+use the same phone number for their smartphone and smartwatch when connected to the cellular
+network. As a result, messages are delivered to both the user’s smartphone and smartwatch,
+providing an integrated messaging experience. Although it is technologically feasible for Apple
+to allow an iPhone user with a third-party smartwatch to do the same, Apple instead requires
+these users to disable Apple’s iMessage service on the iPhone in order to use the same phone
+number for both devices. This is a non-starter for most iPhone users. In practice, iPhone users
+with a third-party smartwatch must maintain separate phone numbers for the two devices,
+worsening their user experience, and may miss out on receiving messages sent to their primary
+iPhone number.
+
+iii.
+
+104.
+
+Digital Wallets: Apple restricts cross-platform digital wallets on the
+iPhone, reinforcing barriers to consumers switching to rival
+smartphones
+
+Apple recognizes that paying for products and services with a digital wallet will
+eventually become “something people do every day of their lives.” But Apple has used its
+control over app creation, including its technical and contractual control over API access, to
+effectively block third-party developers from creating digital wallets on the iPhone with tap-topay functionality, which is an important feature of a digital wallet for smartphones. As a result,
+Apple maintains complete control over how users make tap-to-pay payments with their iPhone.
+Apple also deprives users of the benefits and innovations third-party wallets would provide so
+that it can protect “Apple’s most important and successful business, iPhone.”
+
+105.
+
+Digital wallets are apps that allow a user to store and use passes and credentials,
+including credit cards, personal identification, movie tickets, and car keys, in a single app.
+For example, digital wallets allow users to make in-person payments by tapping their device on a
+payment terminal rather than tapping or swiping a physical credit card. Digital wallets can also
+be used for transactions in mobile apps and mobile websites.
+
+106.
+
+Absent Apple’s conduct, cross-platform digital wallets could also be used to
+manage and pay for subscriptions and in-app purchases.
+
+107.
+
+Apple Wallet is Apple’s proprietary digital wallet on the iPhone. Apple Wallet
+incorporates Apple’s proprietary payment system Apple Pay, which processes digital payments
+on the web, in apps, and at merchant points of sale.
+
+108.
+
+Today, Apple Wallet offers users a way to make these payments using their
+iPhone. But Apple envisions that Apple Wallet will ultimately supplant multiple functions of
+physical wallets to become a single app for shopping, digital keys, transit, identification, travel,
+entertainment, and more. As users rely on Apple Wallet for payments and beyond, it “drive[s]
+more sales of iPhone and increase[s] stickiness to the Apple ecosystem” because Apple Wallet is
+only available on the iPhone. Thus, switching to a different smartphone requires leaving behind
+the familiarity of an everyday app, setting up a new digital wallet, and potentially losing access
+to certain credentials and personal data stored in Apple Wallet.
+
+109.
+
+Cross-platform digital wallets would offer an easier, more seamless, and
+potentially more secure way for users to switch from the iPhone to another smartphone. For
+example, if third-party developers could create cross-platform wallets, users transitioning away
+from the iPhone could continue to use the same wallet, with the same cards, IDs, payment
+histories, peer-to-peer payment contacts, and other information, making it easier to switch
+smartphones. And because many users already use apps created by their preferred financial
+institutions, if these financial institutions offered digital wallets, then users would have access to
+new apps and technologies without needing to share their private financial data with additional
+third parties, including Apple. In the short term, these improved features would make the iPhone
+more attractive to users and profitable for Apple.
+
+110.
+
+Accordingly, the absence of cross-platform digital wallets with tap-to-pay
+capability on the iPhone makes it harder for iPhone users to purchase a different smartphone.
+
+111.
+
+The most important function for attracting users to a digital wallet for
+smartphones is the ability to offer tap-to-pay, i.e., the ability to make in-person payments by
+tapping your smartphone on a payment terminal. Apple uses its control over app creation and
+API access to selectively prohibit developers from accessing the near-field communication
+(NFC) hardware needed to provide tap-to-pay through a digital wallet app.
+
+112.
+
+Apple Wallet is the only app on the iPhone that can use NFC to facilitate tap-to-
+pay. While Apple actively encourages banks, merchants, and other parties to participate in Apple
+Wallet, Apple simultaneously exerts its smartphone monopoly to block these same partners from
+developing better payment products and services for iPhone users.
+
+113.
+
+Apple also uses its smartphone monopoly to extract payments from banks, which
+need to access customers that use digital wallets on iPhones. Since Apple first launched Apple
+Pay—long before it achieved meaningful adoption—Apple has charged issuing banks 15 basis
+points (0.15 percent) for each credit card transaction mediated by Apple Pay. Payment apps from
+Samsung and Google are free to issuing banks. Apple’s fees are a significant expense for issuing
+banks and cut into funding for features and benefits that banks might otherwise offer smartphone
+users. The volume of impacted transactions is large and growing. A U.S. Consumer Financial
+Protection Bureau report estimates that Apple Pay facilitated nearly $200 billion in transactions
+in the United States in 2022. And the report goes on to explain that “analysts estimate that the
+value of digital wallet tap-to-pay transactions will grow by over 150 percent by 2028.”
+
+114.
+
+Multiple app developers have sought direct NFC access for their payment or
+wallet apps. Yet Apple prohibits these developers from incorporating tap-to-pay functionality in
+their apps for fear that doing so would “be one way to disable [A]pple [P]ay trivially,” leading to
+the “proliferation of other payment apps” that might operate cross-platform and ultimately
+undermine Apple’s smartphone monopoly.
+
+115.
+
+There is no technical limitation on providing NFC access to developers seeking to
+offer third-party wallets. For example, Apple allows merchants to use the iPhone’s NFC antenna
+to accept tap-to-pay payments from consumers. Apple also acknowledges it is technically
+feasible to enable an iPhone user to set another app (e.g., a bank’s app) as the default payment
+app, and Apple intends to allow this functionality in Europe.
+
+116.
+
+Apple further impedes the adoption of digital wallets by restricting others from
+offering the same ability to authenticate digital payment options on online checkout pages. By
+limiting the ability of third-party wallets to provide a simple, fast, and comprehensive solution to
+online purchasing, Apple further undermines the viability of such wallets.
+
+117.
+
+Apple also blocks other digital wallets from serving as an alternative to Apple’s
+in-app payment (IAP). This prevents these wallets from increasing their attractiveness and
+improving the overall user experience on the iPhone by offering consumer experiences that may
+include use of rewards points in purchasing, digital receipts, returns, loyalty programs, and
+digital coupons for purchases of relevant subscriptions and digital goods. Apple even prohibits
+developers on its App Store from notifying users in the developer’s app that cheaper prices for
+services are available using alternative digital wallets or direct payments.
+
+118.
+
+Apple’s conduct reflects its knowing degradation of the experience of its own
+users by blocking them from accessing wallets that would have better or different features. In so
+doing, Apple cements reliance on the iPhone and also imposes fees on a large and critical slice of
+all digital wallet NFC transactions, which the U.S. Consumer Financial Protection Bureau
+estimates will grow to $451 billion by 2028.
+
+C.
+
+Apple’s “moat” around its smartphone monopoly is wide and deep: it uses a
+similar playbook to maintain its monopoly through many other products and
+services
+
+119.
+
+The exclusionary and anticompetitive acts described above are part of Apple’s
+ongoing course of conduct to build and maintain its smartphone monopoly. They are hardly
+exhaustive. Rather, they exemplify the innovation Apple has stifled and Apple’s overall strategy
+of using its power over app distribution and app creation to selectively block threatening
+innovations.
+
+120.
+
+Apple has deployed a similar playbook for a much broader range of third-party
+apps and services as well, many of which present technologies that function as middleware,
+facilitate switching, reduce the need for expensive hardware, or disintermediate Apple’s iPhone
+by enabling the development of cross-platform technologies. For instance, Apple has
+undermined third-party location trackable devices that fully function across platforms. Apple has
+impaired third-party, cross-platform video communications apps while steering users to its own
+video communication app, FaceTime. Apple has limited the capabilities of third-party iOS web
+browsers, including by requiring that they use Apple’s browser engine, WebKit. Protocols that
+Apple has placed around new “eSIM” technology may introduce additional frictions for any user
+who seeks to transition from an iPhone to a different phone while maintaining the same phone
+number. Apple has impeded cross-platform cloud storage apps in order to steer iPhone users into
+iCloud, making data transfer between different devices more difficult. Apple uses restrictions in
+sales channels to impede the sale and distribution of rival smartphones. And Apple has worsened
+its users’ experience by making it difficult for iPhone users to use superior voice and AI
+assistants and steering users to use Siri as a voice assistant.
+
+121.
+
+Ultimately, the strategies Apple has employed to date are not the only ones Apple
+can use to achieve its anticompetitive and lucrative ends. As technology evolves, Apple
+continues to evolve and shift its anticompetitive behavior to protect its monopoly power.
+For example, in recent years, Apple has increasingly moved into offering its own subscription
+services, including news, games, video, music, cloud storage, and fitness subscriptions that could
+be used to keep users tethered to the platform. These subscription services and other ancillary
+fees are a significant part of Apple’s net revenue. These subscriptions services can also increase
+switching costs among iPhone users. If an Apple user can only access their subscription service
+on an iPhone, they may experience significant costs, time, lost content, and other frictions if they
+attempt to switch to a non-Apple smartphone or subscription service.
+
+122.
+
+These subscription services can also increase Apple’s power over content creators
+and newspapers, among others, by exerting control over how audiences access their work,
+decreasing traffic to their websites and apps, and positioning Apple as the middleman or
+tollbooth operator in the relationship between creators and users. In so doing, Apple takes on
+outsize importance and control in the creative economy, which may diminish incentives to fund,
+make, and distribute artistic expression.
+
+123.
+
+In addition, when one road is closed to Apple, Apple has demonstrated its ability
+to find new roads to the same or worse ends. For example, Apple was recently ordered to stop
+blocking link-outs by third parties to their websites where users could buy the third party’s
+product cheaper. In response, Apple reportedly allowed link-outs to websites but now charges for
+purchases made on the web even if they are not an immediate result of a click from a link in a
+native iPhone app.
+
+124.
+
+Apple has also attempted to undermine cross-platform technologies like digital
+car keys in ways that benefit Apple but harm consumers. For example, Apple has required
+developers to add digital keys developed for their own apps to Apple Wallet as well. The default
+status of Apple Wallet steers users to the Apple Wallet rather than allowing third parties to
+present digital car keys only in their own cross-platform app, increasing dependence on Apple
+and the iPhone whenever they use their car. At the same time, it decreases the incentives of
+automakers to innovate because automakers are forced to share data with Apple and prevented
+from differentiating themselves as they could absent Apple’s conduct.
+
+125.
+
+Apple’s threatened dominance over the automotive industry goes well beyond the
+Apple Wallet and Apple’s demands on car makers to allow innovative products and services on
+the iPhone. Apple’s smartphone dominance extends to CarPlay, an Apple infotainment system
+that enables a car’s central display to serve as a display for the iPhone and enables the driver to
+use the iPhone to control maps and entertainment in the car. Like the smartphone market,
+infotainment systems are increasingly considered must-have capabilities in newer vehicles. After
+leveraging its smartphone dominance to car infotainment systems, Apple has told automakers
+that the next generation of Apple CarPlay will take over all of the screens, sensors, and gauges in
+a car, forcing users to experience driving as an iPhone-centric experience if they want to use any
+of the features provided by CarPlay. Here too, Apple leverages its iPhone user base to exert more
+power over its trading partners, including American carmakers, in future innovation. By applying
+the same playbook of restrictions to CarPlay, Apple further locks-in the power of the iPhone by
+preventing the development of other disintermediating technologies that interoperate with the
+phone but reside off device.
+
+V.
+
+Anticompetitive Effects
+
+A.
+
+Apple’s conduct harms the competitive process
+
+126.
+
+As described above, Apple protects its monopoly power in smartphones and
+performance smartphones by using its control over app distribution and app creation to suppress
+or delay apps, innovations, and technologies that would reduce user switching costs or simply
+allow users to discover, purchase, and use their own apps and content without having to rely on
+Apple. As a result, Apple faces less competition from rival smartphones and less competitive
+pressure from innovative, cross-platform technologies not because Apple makes its own products
+better but because it makes other products worse. With the benefit of less competition, Apple
+extracts extraordinary profits and regulates innovation to serve its interests. This leaves all
+smartphone users worse off, with fewer choices, higher prices and fees, lower quality
+smartphones, apps, and accessories, and less innovation from Apple and others. Left
+unchallenged, Apple will continue to use and strengthen its smartphone monopoly to dictate how
+companies can create and distribute apps in the future so that they cannot threaten Apple’s
+smartphone monopolies.
+
+127.
+
+Apple’s conduct has resulted in less choice for smartphone users. Today, only two
+companies (Google and Samsung) remain as meaningful competitors to Apple in the premium
+smartphone market.
+
+128.
+
+Even when users consider these alternatives, Apple’s conduct has increased the
+technical, behavioral, monetary, and other costs of switching from an iPhone to an alternative
+smartphone. This undermines competition and entrenches Apple’s monopoly power.
+For example, according to user surveys, one of the biggest reasons iPhone users do not switch to
+rival smartphones today is to avoid the problems Apple has created for cross-platform
+messaging. Likewise, Apple exercised its control over app distribution and app creation to
+impede the development and growth of super apps, depriving users of technology that would
+have facilitated switching by decreasing user’s dependence on Apple and the iPhone. Apple took
+a similar approach to cloud streaming apps, delaying or suppressing technology that would have
+made it easier for users to switch to cheaper smartphones. Apple also used its control over app
+creation, including its control over critical APIs, to impose technical and contractual restrictions
+on messaging apps, third-party smartwatches, and digital wallets, undermining cross-platform
+technologies that would have helped users overcome switching costs and friction and ultimately
+increased smartphone competition.
+
+129.
+
+Apple’s conduct has delayed or suppressed the emergence of cross-platform
+technologies that would put competitive pressure on Apple’s ability to extract extraordinary
+profits from users and developers. For example, if developers could distribute their programs
+through super apps or cloud streaming apps, rather than the App Store, it would put competitive
+pressure on Apple’s ability to control app distribution and app creation as well as the taxes Apple
+imposes on developers who want to distribute apps to iPhone users. Similarly, third-party digital
+wallets, or other apps with tap-to-pay functionality, would benefit users and developers by
+putting more competitive pressure on Apple as well. For example, digital wallets could
+eventually provide developers an alternative way to process payments and manage customer
+relationships, forcing Apple to compete more aggressively by lowering fees and improving
+quality, which would ultimately benefit users. Instead, Apple continues to exert its power over
+customers and financial institutions when users pay for something with their phone—in the App
+Store, in an app, or increasingly in the physical world with tap-to-pay.
+
+130.
+
+Apple’s conduct has harmed users in other ways. For example, third-party digital
+wallets would reduce Apple’s ability to charge banks high fees when users make payments using
+Apple Wallet, which ultimately cost consumers through higher prices or other reductions in
+quality. Alternative digital wallets could also provide smartphone users better rewards, e.g., cash
+back, as well as a more private, secure payment experience from a user’s preferred financial
+institution rather than being forced to go through Apple. But these tap-to-pay digital wallet
+products and services do not exist today because of Apple.
+
+131.
+
+Apple’s conduct has made its own products worse, sacrificing the short-term
+profits Apple could earn from improving the iPhone in order to preserve the long-term value of
+maintaining its monopoly. In a competitive market, Apple would compete aggressively to
+support the development of popular apps and accessories for iPhone users, which would in turn
+make iPhones more attractive to users and more valuable. But Apple takes steps to delay or
+suppress cross-platform technologies that it recognizes would be popular with users, such as
+super apps and cloud streaming apps, because of the threat they pose to Apple’s smartphone
+monopolies. As a result, several developers have abandoned plans to develop super apps and
+cloud-based gaming apps even after making substantial investments in bringing them to market.
+Apple’s conduct may have also slowed the development of innovative, high-compute apps
+related to education, artificial intelligence, and productivity as well. Apple has also impeded
+innovation by third-party smartwatches such that manufacturers have limited the functionality of
+their smartwatches for iPhone users, suspended support for iPhone compatibility because of
+Apple’s restrictions, or canceled development of cross-platform smartwatches altogether. At
+least one company’s canceled smartwatch formed part of its overall wearables strategy, including
+future development of virtual-reality technology. Similarly, Apple degrades third-party
+messaging apps, even though it makes cross-platform messaging less private and less secure for
+iPhone users, because doing so raises switching costs.
+
+132.
+
+Apple’s conduct has harmed other smartphone users, too. Because of the
+resources and risks required to maintain different features across different smartphones, many
+potential super app, mini program, and other developers do not implement features prohibited by
+Apple even on other smartphones. For example, prospective digital wallet providers, including
+U.S. banks, have abandoned the development of digital-wallet apps for either Apple or other
+smartphones. Another company decided not to offer users an innovative digital car key in part
+because Apple required that company to add any features related to the key into Apple Wallet
+rather than allowing that company to put its key solely in its own app. Other developers have
+shrunk, shuttered, or abandoned plans to launch super apps, cloud-streamed gaming apps,
+smartwatches, and other apps. As a result, all smartphone users enjoy lower quality smartphones,
+less innovation, and less choice.
+
+133.
+
+Apple’s documents and conduct show that Apple is motivated by the
+anticompetitive purpose of building or maintaining monopoly power in the relevant markets.
+For example, Apple sacrificed substantial revenues it could have earned from super apps, mini
+programs, cloud streaming apps, and other third-party apps and accessories. In particular, mobile
+gaming already accounts for a large and growing portion of Apple’s revenue. Popular cloud
+streamed gaming apps would offer iPhone users access to popular services (including games)
+and in turn generate significant revenue for Apple through subscriptions and in-app purchases.
+Instead, Apple preferred the long-term benefit of reduced smartphone competition to the revenue
+it would generate from cloud gaming, super apps, and mini programs or the quality (and
+consumer demand) increase that would flow from this innovation. Apple has also used its control
+over app distribution and app creation to selectively undermine cross-platform technologies, not
+because this helps protect users but because it helps protect Apple.
+
+134.
+
+The harms to smartphone competition caused by Apple’s conduct are amplified
+by Apple’s decision to grant itself exclusive distribution rights to iPhone users through the Apple
+App Store. If Apple allowed users to access apps in other ways, users could choose an app store
+that did not restrict super apps or mini programs, even if Apple ran its App Store the same way it
+does today. Apple does not allow that choice, however, because if it did developers could write
+their programs for any smartphone rather than specifically for iOS, just as internet browsers and
+Apple’s QuickTime allowed developers to write programs that worked on a variety of operating
+systems not just Windows. That would lower users’ switching costs and reduce users’ and
+developers’ dependence on Apple and the iPhone.
+
+135.
+
+Apple’s smartphone monopoly gives it many levers to maintain its power even in
+the face of interventions focused on eliminating or disciplining specific anticompetitive
+practices. This is because Apple’s iPhone monopoly, secured by its anticompetitive conduct,
+grants it the power to set the rules by which most smartphone users buy digital and hardware
+products, and by which developers are allowed to sell these same products to users. If Apple is
+forced to change some of these rules, it has the power to adopt new rules, restrictions, or features
+that reinforce Apple’s monopoly and harm competition in other ways. For example, Apple has
+stated plans to adopt RCS due to market and international regulatory pressure. But Apple
+continues to contractually restrict third parties from accessing other APIs and features that would
+enable cross-platform messaging apps. In another instance, Apple was enjoined from enforcing
+certain anti-steering provisions in its agreements with developers. In response, Apple simply
+created a different set of onerous restrictions on app developers to achieve a similar result. In
+other cases, Apple has used its control over app distribution to force companies to comply with
+Apple’s policies that may contradict local laws by delaying the review of the offending
+companies’ apps.
+
+B.
+
+Apple has every incentive to use its monopoly playbook in the future
+
+136.
+
+Apple’s conduct does not just impact the past and present but poses significant
+risk to the development of new innovations. Apple may use its smartphone monopoly playbook
+to acquire or maintain power over next-frontier devices and technologies. As Apple grows its
+dominance, Apple may continue delaying or stifling the innovations of cross-platform
+companies, in order to lock users into Apple devices.
+
+137.
+
+Apple has countless products and services—AirPods, iPads, Music, Apple TV,
+photos, maps, iTunes, CarPlay, AirDrop, Apple Card, and Cash. These provide future avenues
+for Apple to engage in anticompetitive conduct and the ability to circumvent remedies.
+Appropriate forward-looking remedies are necessary to ensure that Apple cannot use these
+products and services to further entrench its monopoly power.
+
+
+138.
+
+Apple’s conduct extends beyond just monopoly profits and even affects the flow
+of speech. For example, Apple is rapidly expanding its role as a TV and movie producer and has
+exercised that role to control content.
+
+139.
+
+Apple has also attempted to use its monopoly to collect user data and stifle
+innovation in the automotive industry by, among other things, impeding the development of
+digital key technologies by requiring them to be offered in Apple’s proprietary wallet product
+and creating new single points of power over emerging uses of the iPhone. These acts further
+reinforce Apple’s power in the iPhone by locking in Apple’s services and excluding other
+alternative technologies that have the potential to disintermediate Apple’s iPhone.
+
+140.
+
+Finally, Apple’s monopolization of smartphone markets gives it tremendous
+power over the lives of millions of Americans. Today, Apple uses that power to undermine rival
+smartphones, suppress innovative technologies, and stymie consumer choice. Tomorrow, Apple
+may use its power to force its own users (and their data) to become its next profitable product.
+
+VI.
+
+Privacy, Security, and Other Alleged Countervailing Factors Do Not Justify Apple’s
+Anticompetitive Conduct
+
+141.
+
+There are no valid, procompetitive benefits of Apple’s exclusionary conduct that
+would outweigh its anticompetitive effects. Apple’s moat building has not resulted in lower
+prices, higher output, improved innovation, or a better user experience for smartphone users.
+
+142.
+
+Apple markets itself on the basis of privacy and security to differentiate itself
+from what competition is left in the smartphone market. But this does not justify Apple’s
+monopolistic and anticompetitive conduct. Apple imposes contractual restraints on app creation
+and distribution, imposes hefty fees on many types of smartphone interactions, and conditionally
+restricts API access on its smartphone platform simply because it can. There are limited if any
+competitive constraints on this conduct. As a point of comparison, Apple does not engage in
+such conduct on its Mac laptops and computers. It gives developers the freedom to distribute
+software directly to consumers on Mac without going through an Apple-controlled app store and
+without paying Apple app store fees. This still provides a safe and secure experience for Mac
+users, demonstrating that Apple’s control over app distribution and creation on the iPhone is
+substantially more restrictive than necessary to protect user privacy and security.
+
+143.
+
+In fact, many alternative technologies that Apple’s conduct suppresses would
+enhance user security and privacy. For example, Apple’s conduct targeting digital wallets forces
+users to share information with Apple even if they would prefer to share that information solely
+with their bank, medical provider, or other trusted third party. In particular, when an iPhone user
+provisions a credit or debit card into Apple Wallet, Apple intervenes in a process that could
+otherwise occur directly between the user and card issuer introducing an additional point of
+failure for privacy and security. Likewise, super apps or alternative app stores could offer users
+and their families a more curated selection of apps that better protect user privacy and security.
+Indeed, Apple allows enterprise and public sector customers to offer more curated app stores on
+employee iPhones because it better protects privacy and security.
+
+144.
+
+Apple is also willing to make the iPhone less secure and less private if that helps
+maintain its monopoly power. For example, text messages sent from iPhones to Android phones
+are unencrypted as a result of Apple’s conduct. If Apple wanted to, Apple could allow iPhone
+users to send encrypted messages to Android users while still using iMessage on their iPhone,
+which would instantly improve the privacy and security of iPhone and other smartphone users.
+
+145.
+
+Similarly, Apple is willing to sacrifice user privacy and security in other ways so
+long as doing so benefits Apple. For example, Apple allows developers to distribute apps
+through its App Store that collect vast amounts of personal and sensitive data about users—
+including children—at the expense of its users’ privacy and security. Apple also enters
+agreements to share in the revenue generated from advertising that relies on harvesting users’
+personal data. For example, Apple accepts massive payments from Google to set its search
+engine as the default in the Safari web browser even though Apple recognizes that other search
+engines better protect user privacy.
+
+146.
+
+Finally, Apple selectively enforces its rules and contractual restrictions for app
+distribution and app creation. For example, when it benefits Apple to do so, Apple permits
+developers to introduce mini programs, stream content from the cloud, use virtual currency, and
+receive special permissions or access APIs not automatically available to everyone.
+
+147.
+
+Ultimately, Apple chooses to make the iPhone private and secure when doing so
+benefits Apple; Apple chooses alternative courses when those courses help Apple protect its
+monopoly power. Apple’s conduct underscores the pretextual nature of any claim that Apple’s
+conduct is justified by protecting user privacy or security.
+
+VII.
+
+The Smartphone Industry
+
+A.
+
+Background
+
+148.
+
+Mobile phones are portable devices that enable communications over radio
+frequencies instead of telephone landlines. These signals are transmitted by equipment covering
+distinct geographic areas, or “cells,” which is why mobile phones were called cell phones. The
+first commercial cell phones became available in the 1980s. Since then, improvements in both
+cell phone components and wireless technology have made it possible to transfer large volumes
+of data around the globe in a short period. As a result, mobile phones began to offer a wider
+array of features and the adoption of mobile phones dramatically increased. Today, nearly all
+American adults own a mobile phone.
+
+149.
+
+Smartphones combine the functionality of a traditional mobile phone with
+advanced hardware and software components. Smartphones not only make phone calls, but allow
+users to listen to music, send text messages, take pictures, play games, access software for work,
+manage their finances, and browse the internet. Consumers choose between smartphones based,
+in part, on their functionality. Today, smartphone functionality is driven in large part, though not
+exclusively, by a combination of hardware and software components. Thus, in a competitive
+market, smartphone manufacturers would compete and innovate to provide the best functionality.
+
+150.
+
+Although consumers could replace some smartphone functionality with separate
+devices such as by always carrying a camera and laptop, they generally prefer to access this
+combination of functionality as part of a single device. Thus, phones with some but not all of
+these features are not reasonable substitutes for smartphones. For example, a Canon or Nikon
+camera is not a substitute for an Apple or Samsung smartphone notwithstanding that both these
+products are capable of taking digital pictures.
+
+B.
+
+Smartphone Hardware
+
+151.
+
+A smartphone’s hardware includes the frame and screen. Higher performing
+smartphones are typically constructed from better materials like glass and metal instead of
+plastic, manufactured to higher standards that make them more durable (e.g., water and dust
+proof), and have higher quality displays.
+
+152.
+
+A smartphone’s hardware also includes the semiconductor chipsets that run the
+smartphone: central processing of software instructions, graphics, video, display, memory, data
+storage, and connection to wireless networks. Chipsets that offer superior performance—faster
+processing and network connections, better graphics, more storage—are costly. As a result,
+smartphone manufacturers typically include them only in more expensive performance
+smartphones.
+
+
+153.
+
+Smartphone hardware includes other important components like cameras, and
+position and motion sensors. Performance smartphones typically have higher quality cameras,
+better battery life, wireless charging, and advanced biometrics such as face scanning.
+
+154.
+
+Smartphones also contain several types of antennas that allow the phone to
+communicate with other smartphones, accessories, or other devices using standard
+communication protocols such as Wi-Fi, Bluetooth, and Near-Field Communications (NFC).
+
+a.
+
+Wi-Fi is a wireless networking technology that uses radio waves to provide
+wireless high-speed Internet access through mobile devices, computers, printers,
+and other equipment. “Wi-Fi,” in particular, refers to IEEE 802.11 standards that
+define the protocols that enable communications with current Wi-Fi-enabled
+wireless devices such as wireless routers and access points.
+
+b.
+
+Bluetooth is a wireless standard that allows smartphones to use shortwave radios
+to communicate with accessories like headphones and smartwatches. An industrywide Bluetooth standard specifies technological requirements to ensure that all
+Bluetooth devices can recognize and interact with each other. A typical Bluetooth
+signal has a range of about 30 feet.
+
+c.
+
+Near Field Communication (NFC) allows smartphones to interact with NFCenabled devices like a credit card terminal at a coffee shop. NFC relies on shortrange wireless technologies, including radio signals, to communicate and share
+information. To operate, two NFC-enabled devices must typically be within four
+centimeters or less of one another.
+
+155.
+
+Three device manufacturers, Apple, Samsung, and Google, account for
+approximately 94 percent of all smartphones by revenue in the United States. Apple and
+Samsung alone account for approximately 90 percent of all smartphone revenues in the United
+States.
+
+156.
+
+Cloud-based technologies are run using hardware and software in remote
+computing centers (“the cloud”) rather than by hardware and software on a smartphone. The user
+experiences the technology on the phone but the complex computing that generates the rich
+experience and that executes the user’s commands happens in the cloud. Thus, cloud apps can
+deliver rich experiences on smartphones with less capable hardware than iPhones currently
+contain.
+
+C.
+
+Smartphone Operating Systems, Applications, and Other Software
+
+157.
+
+In addition to hardware, smartphones include various software components that
+make a smartphone more attractive to users.
+
+158.
+
+The most important software component is a smartphone’s operating system, the
+foundational software that manages both the hardware and other software programs on the
+device. All iPhones are preloaded with Apple’s proprietary, exclusive iPhone operating system
+called iOS. The only other significant mobile operating system in the United States is Google’s
+Android, which works with smartphones manufactured by Samsung, whose U.S. headquarters is
+located in this district, Google, Motorola, and smaller players. Software applications, known as
+“apps,” are programs that perform specific tasks at the smartphone user’s request, such as
+sending messages, playing music, or web browsing. Apps depend on a smartphone’s operating
+system to function. For example, to make a video call, apps must communicate with a
+smartphone’s operating system to access various hardware components on the phone, such as the
+camera, microphone, and speaker. Apps communicate with a smartphone’s operating system
+through application programming interfaces (APIs).
+
+159.
+
+Apps that work with a particular smartphone operating system are called native
+apps. Thus, Apple’s native iOS apps work with iPhone and native Android apps work with
+Android smartphones.
+
+160.
+
+Most app developers do not view Android as a substitute for iOS or iOS as a
+substitute for Android. The overwhelming majority of users choose a single phone and do not
+“multi-home” by carrying an Android phone and the iPhone at the same time. Thus, a developer
+cannot reach iPhone users on Android or Android users on iPhones. Due to the lack of user
+multi-homing, most developers create native apps for both iOS and Android to reach the greatest
+number of smartphone users. For example, a food delivery or ride-sharing app cannot develop an
+app just for Android phones or just for the iPhone. Developing for both platforms is often
+necessary for developers to reach the scale they need to be viable.
+
+161.
+
+It is also important to develop apps for the iPhone and other smartphone platforms
+because most apps are increasingly “social” in nature and require users on one platform to reach
+users on the other. For example, the developer of a dating app must enable its users on iPhones to
+meet users on Android and vice-versa. A money-sharing app must enable users on Android
+devices to send money to users on iPhones and vice versa.
+
+162.
+
+App developers typically provide a similar user experience for native apps on
+iPhones and Android smartphones to minimize the resources and risks of maintaining different
+features across different smartphones. Even so, developers must program native apps to work
+with a specific operating system and so they do not always interoperate or synchronize across
+different operating systems.
+
+163.
+
+Middleware is software that provides similar APIs and functionality across a
+diverse set of operating systems and devices. This allows developers to create cross-platform
+applications without having to write separate code for individual operating systems or devices
+because developers can rely on the APIs exposed by the middleware rather than APIs that only
+work on specific operating systems or devices. Apple has long understood how middleware can
+help promote competition and its myriad benefits, including increased innovation and output, by
+increasing scale and interoperability. As Apple’s then-Senior Vice President of Software
+Engineering testified during the government’s landmark monopolization case in United States v.
+Microsoft: “Because we have created QuickTime for both Windows and Macintosh computers,
+developers can write a single version of a content product that will run on both Macintosh and
+Windows, without the additional expense of ‘porting’ the product to different operating
+systems.” In the context of smartphones, examples of middleware include internet browsers,
+internet or cloud-based apps, super apps, and smartwatches, among other products and services.
+While not meeting the technical definition of middleware, certain other products and services
+may nonetheless have the same economic impact as middleware, such as eliminating the added
+expense of porting a product or experience across hardware or operating systems. For the
+purposes of this complaint middleware refers to both technical middleware and to products and
+services that, while not technically middleware, have the same economic effect.
+
+D.
+
+Relevant Markets
+
+164.
+
+All smartphones compete against each other in a broad relevant market. But
+industry participants, including Apple, assess competition among smartphones in narrower
+markets that are best understood as submarkets of the larger all-smartphone market. Because
+Apple chooses not to compete to sell new smartphones in the entry-level tier, the most relevant
+market to assess its conduct is a narrower submarket that excludes this tier. Regardless of how
+the market is drawn, however, Apple’s conduct is unlawful.
+
+iv.
+
+165.
+
+Performance smartphones are a relevant product market
+Performance smartphones are a narrower relevant product market within the
+broader smartphone market. This narrower market includes those smartphones that compete with
+most iPhones and excludes the lowest-end smartphones, which industry participants sometimes
+refer to as “entry-level” smartphones.
+
+166.
+
+Industry participants recognize performance smartphones as distinct and
+frequently group smartphones into tiers that include entry-level smartphones and higher tiers
+such as “premium” or “flagship.”
+
+167.
+
+Apple has also long recognized a distinction between these higher-end
+smartphones and lower-end, entry-level smartphones. Apple’s own documents indicate it does
+not view entry-level smartphones as competing with the iPhone and other performance
+smartphones.
+
+168.
+
+Performance smartphones have distinct characteristics and uses as compared to
+other smartphones. For example, entry-level smartphones are generally made with lower-quality
+materials and are less durable (e.g., plastic instead of metal and glass). They have lowerperformance components such as slower processors and lower-capacity storage, which prevent
+users from running more intensive applications or storing large volumes of pictures and data on
+the device. Entry-level smartphones often lack features such as an NFC antenna that allows
+consumers to use their phone to make payments or access passes for public transit.
+
+169.
+
+Consumers typically purchase performance smartphones under different terms
+than entry-level smartphones. Consumers generally use entry-level smartphones along with prepaid service plans. By contrast, consumers usually purchase performance smartphones for use
+with post-paid service plans that include promotional discounts to consumers who purchase
+performance smartphones.
+
+170.
+
+Because of these differences, among others, between entry-level smartphones and
+performance smartphones, entry-level smartphones are not reasonable substitutes for
+performance smartphones.
+
+171.
+
+Moreover, competition from non-performance smartphones is not sufficient today
+to prevent Apple from exercising monopoly power in the performance smartphone market.
+
+v.
+
+172.
+
+Smartphones are a broader relevant product market
+
+Smartphones are a relevant product market. Smartphones are distinct from phones
+that offer less capable hardware and software options than smartphones. These other phones,
+sometimes called “feature phones,” may offer basic web browsing in addition to calling and
+messaging options, but do not offer the breadth of access to the internet or third-party apps as
+smartphones. Similarly, these phones often have lower-quality hardware, such as poorer
+displays, less capable cameras, and rely on physical keyboards instead of smartphone touch
+screens. Thus, these phones are not reasonable substitutes for smartphones.
+
+173.
+
+Smartphones are also distinct from other portable devices, such as tablets,
+smartwatches, and laptop computers. These devices lack the combination of function, size, and
+portability that consumers rely on in a smartphone, even if they offer some similar capabilities.
+Thus, none of these other products are reasonable substitutes for smartphones.
+
+174.
+
+Apple, other participants in the market, and the public recognize that smartphones
+are distinct from feature phones and other portable devices.
+
+175.
+
+Competition from feature phones, or other alternatives, is not sufficient to prevent
+Apple from exercising monopoly power in the smartphone market.
+
+
+vi.
+
+176.
+
+The United States is a relevant geographic market for performance
+smartphones and smartphones
+
+The United States is a relevant geographic market for the sale of performance
+smartphones and smartphones. Users in the United States demand services offered by U.S.
+retailers when they purchase a smartphone. For example, consumers who purchase a smartphone
+from their mobile carrier can get assistance with activating their new device, setting it up, and
+transferring important content like apps, messages, photos, and video to their new smartphone. A
+smartphone purchased abroad for use in the United States might be incompatible with the
+consumer’s domestic carrier, may not have the necessary radio technology to take advantage of
+the carrier’s highest speed connections, the carrier might not be able to offer support during setup
+or subsequently, or the phone’s warranty may be invalid.
+
+177.
+
+Consumers must also purchase smartphones through a U.S. retailer if they want to
+take advantage of valuable promotions offered by their mobile carrier. These same promotions
+and free financing are unavailable to U.S. consumers who purchase their phones in other
+countries.
+
+178.
+
+Finally, potential new smartphone entrants to the U.S. market must also comply
+with telecommunications regulations and satisfy other legal requirements. No extensive
+regulatory framework governs how Apple operates its platform with respect to developers, but
+there are a number of regulatory requirements that must be met in order to enter the smartphone
+market. For example, some smartphone makers are effectively barred from offering their
+smartphones to U.S. consumers.
+
+179.
+
+Consumers in the United States could not avoid or defeat an increase in the price
+of performance smartphones or smartphones by purchasing and importing smartphones from
+abroad. This allows Apple to set prices for the same smartphone in the United States separately
+from those in other countries. For example, Apple lowered the price of the iPhone 11 in China
+relative to the United States because Apple faced greater competition in China. This additional
+competition arises in part because a popular super app put competitive pressure on Apple and
+made it easier for users to switch from an iPhone to a rival smartphone. As a result, Apple is
+unable to command the same prices for the iPhone in China than they do in the United States due
+to less competition.
+
+E.
+
+Apple has monopoly power in the smartphone and performance smartphone
+markets
+
+180.
+
+Apple has monopoly power in the smartphone and performance smartphone
+markets because it has the power to control prices or exclude competition in each of them. Apple
+also enjoys substantial and durable market shares in these markets. Moreover, Apple’s market
+shares likely underestimate Apple’s power because they are protected by significant barriers to
+entry, network effects, and switching costs. Apple recognizes and exploits these barriers to entry,
+network effects, and switching costs to protect itself from competition from rival platforms and
+innovations, products, and services that may diminish consumer reliance on the iPhone. Apple’s
+power will likely increase over time.
+
+181.
+
+In the U.S. market for performance smartphones, where Apple views itself as
+competing, Apple estimates its market share exceeds 70 percent. These estimates likely
+understate Apple’s market share today. For example, Apple’s share among key demographics,
+including younger audiences and higher-income households, is even larger. Even in the broadest
+market consisting of all smartphones—including many smartphones that Apple and industry
+participants do not view as competing with Apple’s iPhones and other higher-end phones—
+Apple’s share is more than 65 percent by revenue. Similarly, even if consumers choose one
+phone over another, the vast majority of developers consider iPhones and Android devices as
+complements because developers must build apps that run on both platforms due to the lack of
+user multi-homing. In effect, the lack of multi-homing among users necessitates multi-homing
+among developers. This market reality increases the power that Apple is able to exercise over
+developers that seek to reach users on smartphones—especially performance smartphones that
+run sophisticated apps.
+
+182.
+
+Apple’s high market shares are durable. Over the last decade, Apple increased its
+share of smartphones sold in the United States most years. Through the same period, Apple
+collected more than half the revenue for all smartphones sold in the United States.
+
+183.
+
+Apple’s monopoly power in the relevant markets is protected by substantial
+barriers to entry and expansion. For example, since fewer than ten percent of smartphone
+purchasers in the United States are buying their first smartphone, there are fewer new customers
+available for Apple’s rivals. Instead, rivals must encourage existing iPhone users to switch from
+using an iPhone to using another smartphone when they replace or upgrade their phone. As a
+result, switching costs—many created or exacerbated by Apple—impose substantial barriers to
+entry and expansion for rival smartphones. This barrier is increasingly impenetrable. Nearly 90
+percent of iPhone owners in the United States replace their iPhone with another iPhone. At least
+one U.S. carrier estimates that as high as 98 percent of iPhone users on its network replace or
+upgrade their iPhone in a given quarter by buying another iPhone. The increased switching costs
+that consumers experience because of Apple’s conduct underpins these exceedingly high
+retention rates.
+
+184.
+
+Apple’s monopoly power in the relevant markets is protected by other barriers to
+entry, expansion, or repositioning as well. For example, introducing a new smartphone requires
+considerable investments in acquiring expensive and scarce components such as mobile chips
+and specialized glass for screens. Other significant barriers to entry include product design,
+software development, regulatory approval, manufacturing, marketing, and customer service.
+Because most smartphones are bought through mobile carriers including Verizon, which has its
+operations headquarters in this district, new entrants or those seeking to expand or reposition
+must meet the carriers’ technical requirements to access the major carrier networks in the United
+States. New entrants and smaller rivals must also negotiate distribution agreements and persuade
+carriers and other retailers to promote their products to consumers. As explained above, rival
+smartphones must also overcome the substantial network effects generated by interactions
+between users, developers, and others who interact with the iPhone.
+
+185.
+
+Apple’s iPhone platform is protected by several additional barriers to entry and
+expansion, including strong network and scale effects and high switching costs and frictions. For
+example, if an iPhone user wants to buy an Android smartphone, they are likely to face
+significant financial, technological, and behavioral obstacles to switching. The user may need to
+re-learn how to operate their smartphone using a new interface, transfer large amounts of data
+(e.g., contacts), purchase new apps, or transfer or buy new subscriptions and accessories. These
+switching costs and frictions are even higher when software applications, APIs, and other
+functionality do not help the different devices and operating systems communicate and
+interoperate. These switching costs and frictions increase the “stickiness” of the iPhone, making
+users more beholden to the smartphone manufacturer and platform operator.
+
+186.
+
+Many prominent, well-financed companies have tried and failed to successfully
+enter the relevant markets because of these entry barriers. Past failures include Amazon (which
+released its Fire mobile phone in 2014 but could not profitably sustain its business and exited the
+following year); Microsoft (which discontinued its mobile business in 2017); HTC (which exited
+the market by selling its smartphone business to Google in September 2017); and LG (which
+exited the smartphone market in 2021). Today, only Samsung and Google remain as meaningful
+competitors in the U.S. performance smartphone market. Barriers are so high that Google is a
+distant third to Apple and Samsung despite the fact that Google controls development of the
+Android operating system.
+
+187.
+
+Apple’s monopoly power is separately demonstrated by direct indicia. For
+example, Apple can and does profitably forego innovation without fear of losing customers to
+competitors. For example, Apple’s vice president of iPhone marketing explained in February
+2020: “In looking at it with hindsight, I think going forward we need to set a stake in the ground
+for what features we think are ‘good enough’ for the consumer. I would argue were [sic] already
+doing *more* than what would have been good enough.” After identifying old features that
+“would have been good enough today if we hadn’t introduced [updated features] already,” she
+explained, “anything new and especially expensive needs to be rigorously challenged before it’s
+allowed into the consumer phone.”
+
+188.
+
+Apple’s profits and profit margins, for nearly every aspect of the iPhone, are
+further evidence of Apple’s monopoly power. For example, Apple’s per-unit smartphone profit
+margins are far more than its next most profitable rival. Apple charges carriers considerably
+more than its rivals to buy and resell its smartphones to the public and employs contract clauses
+that may impede the ability of carriers to promote rival smartphones, a harmful exercise of
+monopoly power that is hidden to most consumers. Apple extracts fees from developers—as
+much as 30 percent when users purchase apps or make in-app payments. Apple also extracts a
+0.15 percent commission from banks on credit card transactions through its digital wallet, while
+none of its smartphone competitors with digital wallets charge any fee. Apple predicts that it will
+collect nearly $1 billion in worldwide revenue on Apple Pay fees by 2025. A recent report by the
+U.S. Consumer Financial Protection Bureau suggest these revenues will only increase, as
+“analysts expect the value of digital wallet tap-to-pay transactions will grow by over 150 percent
+by 2028.”
+
+189.
+
+Apple increasingly charges developers additional fees to promote their apps in the
+App Store as well. In fact, this is one of the fastest-growing parts of Apple’s services business,
+with revenue “increasing by more than a third to $4.4B in FY 2022.”
+
+190.
+
+These indicia of Apple’s monopoly power are direct evidence of its monopoly
+power in the relevant markets.
+
+VIII. Jurisdiction, Venue, and Commerce
+
+191.
+
+The United States brings this action pursuant to Section 4 of the Sherman Act, 15
+U.S.C § 4, to prevent and restrain Apple’s violations of Section 2 of the Sherman Act, 15 U.S.C.
+§ 2.
+
+192.
+
+The Attorneys General assert these claims based on their independent authority to
+bring this action pursuant to Section 16 of the Clayton Act, 15 U.S.C. § 26, and common law, to
+obtain injunctive and other equitable relief based upon Apple’s anticompetitive practices in
+violation of Section 2 of the Sherman Act, 15 U.S.C. § 2.
+
+193.
+
+The Attorneys General are the chief legal officers of their respective states. They
+have authority to bring actions to protect the economic wellbeing of their states and residents,
+and to seek injunctive relief to remedy and protect against harm resulting from violations of the
+antitrust laws.
+
+194.
+
+Apple’s actions and course of conduct are ongoing and are likely to continue or
+recur, including through other practices with the same purpose or effect.
+
+195.
+
+Apple’s actions complained of herein have harmed, and continue to harm,
+competition, consumers, and the general welfare and economies of the Plaintiff States. This
+Court has subject matter jurisdiction over this action under Section 4 of the Sherman Act, 15
+U.S.C. § 4, and 28 U.S.C. §§ 1331, 1337(a), and 1345.
+
+196.
+
+The Court has personal jurisdiction over Apple, and venue is proper in this
+District under Section 12 of the Clayton Act, 15 U.S.C. § 22, and under 28 U.S.C. § 1391,
+because Apple transacts business and is found within this District.
+
+197.
+
+Apple is a corporation headquartered in Cupertino, California. Apple is one of the
+largest publicly traded companies in the world, generating hundreds of billions of dollars from
+the sale of smartphones, computers, tablets, and related services and accessories.
+
+198.
+
+Apple engages in, and its activities substantially affect, interstate trade and
+commerce. Apple provides a range of products and services that are marketed, distributed, and
+offered to consumers throughout the United States, in the plaintiff States, across state lines, and
+internationally.
+
+IX.
+
+Violations Alleged
+
+A.
+
+First Claim for Relief: Monopolization of the Performance Smartphone
+Market in the United States in Violation of Sherman Act § 2
+
+199.
+
+Plaintiffs incorporate the allegations of paragraphs 1 through 198 above.
+
+200.
+
+Performance smartphones in the United States is a relevant antitrust market, and
+Apple has monopoly power in that market.
+
+201.
+
+Apple has willfully monopolized the performance smartphone market in the
+United States through an exclusionary course of conduct and the anticompetitive acts described
+herein. Each of Apple’s actions individually and collectively increased, maintained, or protected
+its performance smartphone monopoly.
+
+202.
+
+Apple’s anticompetitive acts include, but are not limited to, its contractual
+restrictions against app creation, distribution, and access to APIs that have impeded apps and
+technologies including, but not limited to, super apps, cloud streaming, messaging, wearables,
+and digital wallets. The areas identified in this complaint reflect a non-exhaustive list of recent
+anticompetitive acts but as technology advances, both the technologies impeded and the specific
+manner of impediment may shift in response to technological and regulatory change consistent
+with Apple’s past conduct.
+
+203.
+
+While each of Apple’s acts is anticompetitive in its own right, Apple’s
+interrelated and interdependent actions have had a cumulative and self-reinforcing effect that has
+harmed competition and the competitive process. Apple’s anticompetitive acts have had harmful
+effects on competition and consumers.
+
+204.
+
+Apple’s exclusionary conduct lacks a procompetitive justification that offsets the
+harm caused by Apple’s anticompetitive and unlawful conduct.
+
+B.
+
+Second Claim for Relief, in the Alternative: Attempted Monopolization of the
+Performance Smartphone Market in the United States in Violation of
+Sherman Act § 2
+
+205.
+
+Plaintiffs incorporate the allegations of paragraphs 1 through 204 above.
+
+206.
+
+Performance smartphones in the United States is a relevant antitrust market, and
+Apple has attempted to monopolize that market.
+
+207.
+
+Apple has attempted to monopolize the performance smartphone market in the
+United States through an exclusionary course of conduct and the anticompetitive acts described
+herein. Each of Apple’s actions individually and collectively increased Apple’s market power in
+the performance smartphone market.
+
+208.
+
+Apple’s anticompetitive acts include, but are not limited to, its contractual
+restrictions against app creation, distribution, and access to APIs that have impeded apps and
+technologies including, but not limited to, super apps, cloud streaming, messaging, wearables,
+and digital wallets. The areas identified in this complaint reflect a non-exhaustive list of recent
+anticompetitive acts but as technology advances, both the technologies impeded and the specific
+manner of impediment may shift in response to technological and regulatory change consistent
+with Apple’s past conduct.
+
+209.
+
+While each of Apple’s acts is anticompetitive in its own right, Apple’s
+interrelated and interdependent actions have had a cumulative and self-reinforcing effect that has
+harmed competition and the competitive process.
+
+210.
+
+In undertaking this course of conduct, Apple has acted with specific intent to
+monopolize, and to destroy effective competition in, the performance smartphone market in the
+United States. There is a dangerous probability that, unless restrained, Apple will succeed in
+monopolizing the performance smartphone market in the United States, in violation of Section 2
+of the Sherman Act.
+
+C.
+
+Third Claim for Relief: Monopolization of the Smartphone Market in the
+United States in Violation of Sherman Act § 2
+
+211.
+
+Plaintiffs incorporate the allegations of paragraphs 1 through 210 above.
+
+212.
+
+Smartphones in the United States is a relevant antitrust market, and Apple has
+monopoly power in that market.
+
+213.
+
+Apple has willfully monopolized the smartphone market in the United States
+through an exclusionary course of conduct and the anticompetitive acts described herein. Each of
+Apple’s actions individually and collectively increased, maintained, or protected its smartphone
+monopoly.
+
+214.
+
+Apple’s anticompetitive acts include, but are not limited to, its contractual
+restrictions against app creation, distribution, and access to APIs that have impeded apps and
+technologies including, but not limited to, super apps, cloud streaming, messaging, wearables,
+and digital wallets. The areas identified in this complaint reflect a non-exhaustive list of recent
+anticompetitive acts but as technology advances, both the technologies impeded and the specific
+manner of impediment may shift in response to technological and regulatory change consistent
+with Apple’s past conduct.
+
+215.
+
+While each of Apple’s acts is anticompetitive in its own right, Apple’s
+interrelated and interdependent actions have had a cumulative and self-reinforcing effect that has
+harmed competition and the competitive process.
+
+216.
+
+Apple’s anticompetitive acts have had harmful effects on competition and
+consumers.
+
+217.
+
+Apple’s exclusionary conduct lacks a procompetitive justification that offsets the
+harm caused by Apple’s anticompetitive and unlawful conduct.
+
+D.
+
+Fourth Claim for Relief, in the Alternative: Attempted Monopolization of the
+Smartphone Market in the United States in Violation of Sherman Act § 2
+
+218.
+
+Plaintiffs incorporate the allegations of paragraphs 1 through 217 above.
+
+219.
+
+Smartphones in the United States is a relevant antitrust market, and Apple has
+attempted to monopolize that market.
+
+220.
+
+Apple has attempted to monopolize the smartphone market in the United States
+through an exclusionary course of conduct and the anticompetitive acts described herein. Each of
+Apple’s actions individually and collectively increased Apple’s market power in the smartphone
+market.
+
+
+221.
+
+Apple’s anticompetitive acts include, but are not limited to, its contractual
+restrictions against app creation, distribution, and access to APIs that have impeded apps and
+technologies including, but not limited to, super apps, cloud streaming, messaging, wearables,
+and digital wallets. The areas identified in this complaint reflect a non-exhaustive list of recent
+anticompetitive acts but as technology advances, both the technologies impeded and the specific
+manner of impediment may shift in response to technological and regulatory change consistent
+with Apple’s past conduct.
+
+222.
+
+While each of Apple’s acts is anticompetitive in its own right, Apple’s
+interrelated and interdependent actions have had a cumulative and self-reinforcing effect that has
+harmed competition and the competitive process.
+
+223.
+
+In undertaking this course of conduct, Apple has acted with specific intent to
+monopolize, and to destroy effective competition in, the smartphone market in the United States.
+There is a dangerous probability that, unless restrained, Apple will succeed in monopolizing the
+smartphone market in the United States, in violation of Section 2 of the Sherman Act.
+
+E.
+
+Fifth Claim for Relief: Violation of the New Jersey Antitrust Act (Monopoly
+Maintenance)
+
+224.
+
+Plaintiff State of New Jersey repeats and realleges and incorporates by reference
+each and every preceding paragraph and allegation of this Complaint as if fully set forth herein.
+
+225.
+
+The New Jersey Antitrust Act, N.J.S.A. 56:9-4(a), states: “It shall be unlawful for
+any person to monopolize, or attempt to monopolize, or to combine or conspire with any person
+or persons, to monopolize trade or commerce in any relevant market within this State.”
+
+226.
+
+In the operation of its business, Apple engaged in numerous commercial
+practices that violate the New Jersey Antitrust Act, N.J.S.A. 56:9-1 to -19, including
+monopolizing or attempting to monopolize trade or commerce in the smartphone market and the
+performance smartphone market within the State of New Jersey, in violation of N.J.S.A. 56:9-4.
+
+227.
+
+Each violation of the New Jersey Antitrust Act by Apple constitutes a separate
+unlawful practice and violation, under N.J.S.A. 56:9-16.
+
+228.
+
+Plaintiff State of New Jersey seeks all remedies available under the New Jersey
+Antitrust Act, N.J.S.A. 56:9-1 to -19, including, without limitation, the following: (a) injunctive
+and other equitable relief, pursuant to N.J.S.A. 56:9-7 and N.J.S.A.56:9-10(a); and (b) other
+remedies as the Court may deem appropriate and the interests of justice may require.
+
+F.
+
+Sixth Claim for Relief: Violations of Wisconsin State Law
+
+229.
+
+Plaintiff State of Wisconsin repeats and re-alleges and incorporates by reference
+every paragraph and allegation in this Complaint as if fully set forth herein.
+
+230.
+
+The aforementioned practices by Apple violate Wisconsin’s Antitrust Act, Wis.
+Stat. Ch. § 133.03 et seq. These violations substantially affect the people of Wisconsin and have
+impacts within the State of Wisconsin.
+
+231.
+
+Plaintiff State of Wisconsin, through its Attorney General and under its antitrust
+enforcement authority in Wis. Stat. Ch. 133, is entitled to all remedies available under Wis. Stat.
+§§ 133.03, 133.16, 133.17, and 133.18.
+
+X.
+
+Request for Relief
+
+232.
+
+To remedy these illegal acts, Plaintiffs request that the Court:
+1. Adjudge and decree that Apple has acted unlawfully to monopolize, or, in the
+alternative, attempt to monopolize, the smartphone market in the United States
+in violation of Section 2 of the Sherman Act, 15 U.S.C. § 2;
+2. Adjudge and decree that Apple has acted unlawfully to monopolize, or, in the
+alternative, attempt to monopolize, the performance smartphone market in the
+United States in violation of Section 2 of the Sherman Act, 15 U.S.C. § 2, the
+New Jersey Antitrust Act, N.J.S.A. 56:9-1 to -19, Wisconsin’s Antitrust Act,
+Wis. Stat. Ch. § 133.03 et seq.;
+3. Enter relief as needed to cure any anticompetitive harm;
+4. Enjoin Apple from continuing to engage in the anticompetitive practices
+described herein and from engaging in any other practices with same purpose
+or effect as the challenged practices, including but not limited to:
+a. preventing Apple from using its control of app distribution to
+undermine cross-platform technologies such as super apps and
+cloud streaming apps, among others;
+b. preventing Apple from using private APIs to undermine crossplatform technologies like messaging, smartwatches, and digital
+wallets, among others; and
+c. preventing Apple from using the terms and conditions of its
+contracts with developers, accessory makers, consumers, or others
+to obtain, maintain, extend, or entrench a monopoly.
+5. Enter any other preliminary or permanent relief necessary and appropriate to
+restore competitive conditions in the markets affected by Apple’s unlawful
+conduct;
+6. Enter any additional relief the Court finds just and proper; and
+7. Award each Plaintiff, as applicable, an amount equal to its costs, including
+reasonable attorneys’ fees, incurred in bringing this action.
+
+
+
+
+Dated: March 21, 2024
+Respectfully,
+FOR PLAINTIFF UNITED STATES OF AMERICA:
+JONATHAN S. KANTER
+Assistant Attorney General for Antitrust
+
+PHILIP R. SELLINGER
+United States Attorney
+
+DOHA G. MEKKI
+Principal Deputy Assistant Attorney General
+for Antitrust
+
+s/ J. Andrew Ruymann
+By: J. ANDREW RUYMANN*
+Assistant United States Attorney
+U.S. Attorney’s Office
+402 East State Street, Room 430
+Trenton, NJ 08608
+Telephone: 609-989-0563
+Email: John.Ruymann@usdoj.gov
+
+HETAL J. DOSHI
+Deputy Assistant Attorney General for
+Antitrust
+MICHAEL B. KADES
+Deputy Assistant Attorney General for
+Antitrust
+RYAN DANKS
+Director of Civil Enforcement
+MIRIAM R. VISHIO
+Deputy Director of Civil Enforcement
+ERIC D. DUNN
+Counsel to the Assistant Attorney General
+DANIEL S. GUARNERA
+Chief, Civil Conduct Task Force
+JACKLIN CHOU LEM
+Civil Chief, San Francisco Office
+KATE M. RIGGS
+Assistant Chief, Civil Conduct Task Force
+
+s/ Jonathan Lasken
+By: JONATHAN LASKEN*
+Assistant Chief, Civil Conduct Task Force
+LORRAINE VAN KIRK
+Senior Litigation Counsel
+s/ Jennifer Hane
+By: JENNIFER HANE
+SEAN CARMAN
+PAM COLE
+JAMES ROBERT DUNCAN III
+JEREMY C. KEENEY
+ANDREW L. KLINE
+PATRICK M. KUHLMANN
+MATTHEW C. MANDELBERG
+NOLAN J. MAYTHER
+MICHAEL MIKAWA
+SARAH OLDFIELD
+MICHAEL A. RABKIN
+AARON M. SHEANIN
+MICAH D. STEIN
+JESSICA JOHNSTON TATICCHI
+Trial Attorneys
+
+
+
+
+United States Department of Justice
+Antitrust Division
+450 Fifth Street NW, Suite 8600
+Washington, DC 20530
+Telephone: 202-598-6517
+Email: Jonathan.Lasken@usdoj.gov
+Attorneys for the United States
+*Attorneys of Record
