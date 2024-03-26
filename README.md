@@ -7,6 +7,6 @@ The cookbook is grouped into a few categories. To get started, go to any of the 
 
 | Category | Description |
 | --- | --- |
-| [LLM University](notebooks/llmu/readme.md) | Guides for getting started with Cohere, starting with basic usage and progressing to advanced topics. The code companion to the full [LLM University course](https://llm.university/).|
-| [Guides](notebooks/guides/readme.md) | Tutorials and step-by-step guides covering a range of topics, providing practical guidance and code examples.
+| [Guides](notebooks/guides/) | Tutorials and step-by-step guides covering a range of topics, providing practical guidance and code examples.
+| [LLM University](notebooks/llmu/) | Guides for getting started with Cohere, starting with basic usage and progressing to advanced topics. The code companion to the full [LLM University course](https://llm.university/).|
 | Enterprise (Coming soon) | Guides and best practices for deploying LLMs in an enterprise setting. Curated from real client engagements, offering insights and solutions for businesses.|

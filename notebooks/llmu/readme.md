@@ -6,29 +6,29 @@ The recommended approach is to go through the course and follow along in these n
 
 # Contents
 
-## Text Representation
+## [Text Representation](https://docs.cohere.com/docs/intro-text-representation)
 - [The Classify Endpoint](Classify_Endpoint.ipynb)
 - [The Embed Endpoint](Embed_Endpoint.ipynb)
 - [Text Embeddings Use Cases](Visualizing_Text_Embeddings.ipynb)
 - [Topic Modeling](Topic_Modeling.ipynbb)
 - [Similarity Between Words and Sentences](What_Is_Similarity_Between_Sentences.ipynb)
 
-## Text Generation
+## [Text Generation](https://docs.cohere.com/docs/intro-text-generation)
 - [Building a Chatbot](Building_a_Chatbot.ipynb)
 - [Parameters for Controlling Outputs](Parameters_for_Controlling_Outputs.ipynb)
 - [Prompt Engineering Basics](Prompt_Engineering_Basics.ipynb)
 - [Fine-Tuning for Chat](Fine_Tuning_for_Chat.ipynb)
 
-## Semantic Search
+## [Semantic Search](https://docs.cohere.com/docs/intro-semantic-search)
 - [What is Semantic Search?](What_is_Semantic_Search.ipynb)
 - [Keyword Search, Dense Retrieval, Reranking, and Generating Answers](End_To_End_Wikipedia_Search.ipynb)
 
-## Prompt Engineering
+## [Prompt Engineering](https://docs.cohere.com/docs/intro-prompt-engineering)
 - [Constructing Prompts](Constructing_Prompt_Commands.ipynb)
 - [Use Case Patterns](Command_Model_Use_Case_Patterns.ipynb)
 - [Validating Outputs](Validating_Large_Language_Model_Outputs.ipynb)
 
-## Retrieval-Augmented Generation (RAG)
+## [Retrieval-Augmented Generation (RAG)](https://docs.cohere.com/docs/module-8-chat-and-retrieval-augmented-generation-rag)
 - [Getting Started with RAG](Introduction_to_RAG.ipynb)
 - [RAG with Chat, Embed, and Rerank](RAG_with_Chat_Embed_and_Rerank.ipynb)
 - [RAG with Connectors](RAG_with_Connectors.ipynb)
