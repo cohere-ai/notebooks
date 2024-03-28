@@ -6,12 +6,14 @@ The recommended approach is to go through the course and follow along in these n
 
 # Contents
 
+## [What are Large Language Models?](https://docs.cohere.com/docs/intro-large-language-models)
+- [Similarity Between Words and Sentences](What_Is_Similarity_Between_Sentences.ipynb)
+
 ## [Text Representation](https://docs.cohere.com/docs/intro-text-representation)
 - [The Classify Endpoint](Classify_Endpoint.ipynb)
 - [The Embed Endpoint](Embed_Endpoint.ipynb)
 - [Text Embeddings Use Cases](Visualizing_Text_Embeddings.ipynb)
 - [Topic Modeling](Topic_Modeling.ipynbb)
-- [Similarity Between Words and Sentences](What_Is_Similarity_Between_Sentences.ipynb)
 
 ## [Text Generation](https://docs.cohere.com/docs/intro-text-generation)
 - [Building a Chatbot](Building_a_Chatbot.ipynb)
