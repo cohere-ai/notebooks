@@ -1,8 +1,6 @@
 # LLM University
 
-Here you will find the notebooks companion to the [LLM University course](https://llm.university/). It starts with the basics and progresses into more advanced topics. If you are new to Cohere, these guides are a great way to get started.
-
-The recommended approach is to go through the course and follow along in these notebooks. Having said that, you can still get a reasonable level of understanding if you only have time to go through the notebooks.
+Here you will find the notebooks used in the [LLM University course](https://llm.university/). It starts with the basics and progresses into more advanced topics. If you are new to Cohere, these guides are a great way to get started.
 
 # Contents
 
