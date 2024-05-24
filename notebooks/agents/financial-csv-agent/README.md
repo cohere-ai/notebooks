@@ -1,0 +1,1 @@
+In this notebook we explore how to setup a Cohere ReAct Agent to answer questions over tables in Apple’s SEC10K 2020 form. 

@@ -1,0 +1,1 @@
+In this notebook we will guide you through the best practices of setting up a RAG pipeline to process documents that contain both tables and text. In addition, we will show you how to create a Cohere ReAct agent with access to a RAG pipeline tool to improve accuracy.
