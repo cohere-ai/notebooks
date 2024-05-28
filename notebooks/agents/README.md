@@ -4,10 +4,20 @@ You will find a collection of notebooks that demonstrate how to build `agents` w
 
 ## Notebooks
 
-1. [Tool Use](Tool_Use.ipynb): A simple walkthrough of how to use our API to call tools.
-2. [Multi Step Tool Use](Multi_Step_Tool_Use.ipynb): A walkthrough of how to use Langchain cohere_react_agent to run adaptive RAG.
+### API
+The following notebooks exclusively use the Cohere API to call tools.
+
+1. [Tool Use](Tool_Use.ipynb): A minimal working example of how to use our chat API to call tools.
+2. [Tool Use Configuration](Vanilla_Tool_Use.ipynb): A simple walkthrough of how to configure the chat API to reason over a mock API.
+
+
+### Langchain
+The following notebooks use the cohere_react_agent in Langchain which is currently the recommended way to build multi-step reasoning Agents with Cohere.
+
+1. [Multi Step Tool Use](Multi_Step_Tool_Use.ipynb): this is a simple tutorial example, of how to use Langchain `cohere_react_agent` to run multi-step RAG.
+2. [Data Science Agent](Vanilla_Multi_Step_Tool_Use.ipynb): this is a detailed walkthrough of how to use Langchain `cohere_react_agent` to build a basic data science agent.
 3. [Agent Memory](agent_memory_walkthrough.ipynb): A walkthrough of how to use Langchain cohere_react_agent to effectively manage short term chat history that contains tool calls with Langchain.
-4. [Agent API Calls](agents_with_deterministic_functions.ipynb): A walkthrough of how to use Langchain cohere_react_agent to make API calls to external services that require regex.
-5. [Financial CSV Agent](financial-csv-agent/financial_csv_publication.ipynb): A walkthrough of how to use Langchain cohere_react_agent to read and process CSV files using a python tool.
-6. [Agentic RAG](agentic-RAG/agentic_rag_publication.ipynb): A walkthrough of how to use Langchain cohere_react_agent to run RAG as an agent tool to handle PDFs with mixed table and text data.
+3. [Agent API Calls](agents_with_deterministic_functions.ipynb): A walkthrough of how to use Langchain cohere_react_agent to make API calls to external services that require regex.
+4. [Financial CSV Agent](financial-csv-agent/financial_csv_publication.ipynb): A walkthrough of how to use Langchain cohere_react_agent to read and process CSV files using a python tool.
+5. [Agentic RAG](agentic-RAG/agentic_rag_publication.ipynb): A walkthrough of how to use Langchain cohere_react_agent to run RAG as an agent tool to handle PDFs with mixed table and text data.
 
