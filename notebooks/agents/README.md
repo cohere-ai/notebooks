@@ -26,4 +26,4 @@ The following notebooks use the cohere_react_agent in Langchain which is current
 9. [SQL Agent](sql_agent/sql_agent.ipynb): In this notebook we explore how to setup a Cohere ReAct Agent to answer questions over SQL Databases using Langchain’s existing SQLDBToolkit.
 
 
-We will continue gto introduce more examples to help you get started with building agents using Cohere.
+We will continue to introduce more examples to help you get started with building agents using Cohere.
