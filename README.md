@@ -5,10 +5,11 @@ Welcome to the Cohere Cookbook! This repository provides a collection of example
 # Categories
 The cookbook is grouped into two categories. To get started, go to any of the categories below.
 
-| Category | Description |
-| --- | --- |
-| [Guides](notebooks/guides/) | Tutorials and step-by-step guides covering a range of topics, providing practical guidance and code examples.
-| [LLM University](notebooks/llmu/) | Guides for getting started with Cohere, starting with basic usage and progressing to advanced topics. The code companion to the full [LLM University course](https://llm.university/).|
+| Category                          | Description                                                                                                                                                                                             |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Guides](notebooks/guides/)       | Tutorials and step-by-step guides covering a range of topics, providing practical guidance and code examples.                                                                                           
+| [LLM University](notebooks/llmu/) | Guides for getting started with Cohere, starting with basic usage and progressing to advanced topics. The code companion to the full [LLM University course](https://llm.university/).                  |
+| [Agents](notebooks/agents/)       | Walkthrough of how to build agents with Cohere, starting with basic tool use and progressing to advanced agentic RAG examples. |
 
 # Getting Started
 If you are looking for a quick tour of the Cohere API, the following notebooks will help you get up and running.
