@@ -64,7 +64,6 @@ get_info_employee.args_schema = get_info_employee_inputs
 @tool
 def search_cohere_policies(query):
     """Run a query against a database to retrieve potentially relevant documents about HR policies at Cohere."""
-    # documents = open('cohere_public_data.txt').read().split('*****')
     cohere_embedder = CohereEmbeddings(cohere_api_key=cohere_api_key)
     vectorstore = Chroma(collection_name="cohere_public_data", persist_directory="embs_cohere_public_data", embedding_function=cohere_embedder)
     retriever = vectorstore.as_retriever()
@@ -79,7 +78,6 @@ search_cohere_policies.description = "Run a query against a database to retreive
 search_cohere_policies.args_schema = search_cohere_policies_inputs
 
 # ----------- internet_search -----------
-# os.environ["TAVILY_API_KEY"] = ""
 internet_search = TavilySearchResults()
 
 class TavilySearchInput(BaseModel):
