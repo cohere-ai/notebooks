@@ -20,7 +20,7 @@ The following notebooks use the cohere_react_agent in Langchain which is current
 3. [Data Science Agent](Data_Analyst_Agent_Cohere_and_Langchain.ipynb): this is a detailed walkthrough of how to use Langchain `cohere_react_agent` to build a basic data science agent.
 4. [Agent Memory](agent_memory_walkthrough.ipynb): A walkthrough of how to use Langchain cohere_react_agent to effectively manage short term chat history that contains tool calls with Langchain.
 5. [Agent API Calls](agents_with_deterministic_functions.ipynb): A walkthrough of how to use Langchain cohere_react_agent to make API calls to external services that require regex.
-6. [Agentic RAG for PDFs with mixed data](agentic-RAG/agentic_rag_publication.ipynb): A walkthrough of how to use Langchain cohere_react_agent to run RAG as an agent tool to handle PDFs with mixed table and text data.
+6. [Agentic RAG for PDFs with mixed data](agentic-RAG/agentic_rag_langchain.ipynb): A walkthrough of how to use Langchain cohere_react_agent to run RAG as an agent tool to handle PDFs with mixed table and text data.
 7. [Financial CSV Agent](financial-csv-agent/financial_csv_publication.ipynb): This notebook demonstrates how to setup a Langchain Cohere ReAct Agent to answer questions over the income statement and balance sheet from Apple’s SEC10K 2020 form.
 8. [SQL Agent](sql_agent/sql_agent.ipynb): In this notebook we explore how to setup a Cohere ReAct Agent to answer questions over SQL Databases using Langchain’s existing SQLDBToolkit.
 
