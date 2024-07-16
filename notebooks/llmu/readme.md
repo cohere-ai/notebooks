@@ -39,3 +39,4 @@ Here you will find the notebooks used in the [LLM University course](https://llm
 - [Tool Use Anatomy](tool_use_anatomy.ipynb)
 - [Single-Step Tool Use](single_step_tool_use.ipynb)
 - [Multi-Step Tool Use](multi_step_tool_use.ipynb)
+- [Tool Use with LangChain](../agents/Data_Analyst_Agent_Cohere_and_Langchain.ipynb)
