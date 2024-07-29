@@ -8,7 +8,7 @@ Here you will find the notebooks used in the [LLM University course](https://llm
 - [Similarity Between Words and Sentences](What_Is_Similarity_Between_Sentences.ipynb)
 
 ## [Text Representation](https://cohere.com/llmu#text-representation)
-- [Introduction to Text Embeddings, Semantic Search, and Clustering](Visualizing_Text_Embeddings.ipynb)
+- [Introduction to Text Embeddings, Semantic Search, and Clustering](Introduction_Text_Embeddings.ipynb)
 - [Topic Modeling](../guides/Analyzing_Hacker_News_with_Six_Language_Understanding_Methods.ipynb)
 - [Few-Shot Classification](Classify_Endpoint.ipynb)
 - [Fine-Tuning for Classification](Fine_Tuning_for_Classify.ipynb)
