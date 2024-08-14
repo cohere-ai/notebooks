@@ -59,12 +59,12 @@ This section contains the code companion to the [LLM University](https://cohere.
 | | [Single-Step Tool Use](https://github.com/cohere-ai/notebooks/blob/main/notebooks/llmu/single_step_tool_use.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/llmu/single_step_tool_use.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
 | | [Multi-Step Tool Use](https://github.com/cohere-ai/notebooks/blob/main/notebooks/llmu/multi_step_tool_use.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/llmu/multi_step_tool_use.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
 | | [Tool Use with LangChain](https://github.com/cohere-ai/notebooks/blob/main/notebooks/agents/Data_Analyst_Agent_Cohere_and_Langchain.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/agents/Data_Analyst_Agent_Cohere_and_Langchain.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
-| Cohere on AWS (soon) | Text generation on Bedrock |  |
-|  | Semantic search on Bedrock |  |
-|  | Reranking on SageMaker |  |
-|  | RAG on Bedrock and SageMaker |  |
-|  | Tool use on Bedrock |  |
-|  | Fine-tuning on Bedrock/SageMaker |  |
+| Cohere on AWS | [Text generation on Bedrock](https://github.com/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch3_text_generation.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch3_text_generation.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
+|  | [Semantic search on Bedrock](https://github.com/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch4_semantic_search.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch4_semantic_search.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
+|  | [Reranking on SageMaker](https://github.com/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch5_rerank_sm.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch5_rerank_sm.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
+|  | [RAG on Bedrock and SageMaker](https://github.com/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch6_rag_bedrock_sm.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch6_rag_bedrock_sm.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
+|  | [Tool use on Bedrock](https://github.com/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch7_tool_use.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch7_tool_use.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
+|  | [Fine-tuning on Bedrock/SageMaker](https://github.com/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch8_ft_command.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/llmu/co_aws_ch8_ft_command.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
 
 <br>
 
