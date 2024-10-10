@@ -1,0 +1,13 @@
+﻿usecase,run,score,temperature,tokens,latency
+extract_names,A,0.5,0.3,103,1.12
+draft_email,A,0.6,0.3,252,2.5
+summarize_article,A,0.8,0.3,350,4.2
+extract_names,B,0.2,0.3,101,2.85
+draft_email,B,0.4,0.3,230,3.2
+summarize_article,B,0.6,0.3,370,4.2
+extract_names,C,0.7,0.3,101,2.22
+draft_email,C,0.5,0.3,221,2.5
+summarize_article,C,0.1,0.3,361,3.9
+extract_names,D,0.7,0.5,120,3.2
+draft_email,D,0.8,0.5,280,3.4
+summarize_article,D,0.9,0.5,342,4.8
