@@ -1,0 +1,80 @@
+name: Pull Request
+description: Submit a pull request
+title: "[Type of Change]: [Brief Description]"
+body:
+  - type: dropdown
+    id: change-type
+    attributes:
+      label: Type of Change
+      options:
+        - New notebook
+        - Notebook update
+        - Documentation update
+        - Environment/dependency update
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What changes does this PR make?
+    validations:
+      required: true
+  - type: textarea
+    id: testing
+    attributes:
+      label: Testing
+      description: |
+        How have you verified these changes work?
+        For notebooks:
+        - Include a screen recording showing execution and outputs
+        - Or include screenshots of key outputs with explanation
+        
+        For documentation:
+        - Preview any markdown changes
+        - Test any new links or references
+    validations:
+      required: true
+  - type: checkboxes
+    id: notebook-checklist
+    attributes:
+      label: Notebook Changes Checklist
+      description: Complete this section if you're modifying notebooks
+      options:
+        - label: I have run the notebook from start to finish without errors
+        - label: I have cleared all cell outputs before committing
+        - label: I have included all required pip installations with pinned versions (e.g., pip install package==1.2.3) in %%sh cells at the start of the notebook
+        - label: I have included a screen recording or screenshots demonstrating the changes
+        - label: I have added sufficient markdown cells to explain the notebook's purpose and usage
+    validations:
+      required: false
+  - type: checkboxes
+    id: documentation-checklist
+    attributes:
+      label: Documentation Changes Checklist
+      description: Complete this section if you're modifying documentation
+      options:
+        - label: I have checked for similar wording/style issues across all documentation
+        - label: I have verified all links and references still work
+        - label: I have previewed how the changes will appear
+        - label: I have followed the repository's documentation style guide (if applicable)
+    validations:
+      required: false
+  - type: input
+    id: related-issues
+    attributes:
+      label: Related Issues
+      description: "Add any related issue numbers (e.g., Fixes #123)"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        > **Note for notebook submissions:** 
+        > - Run the notebook in a fresh environment (e.g., new conda env or colab instance) to ensure all dependencies are captured
+        > - Comments should explain the purpose of non-obvious code blocks and any external data dependencies
+
+        > **Note for documentation updates:**
+        > - For minor changes, consider bundling multiple related improvements in one PR
+        > - Look for opportunities to improve similar sections across the documentation
