@@ -1,0 +1,62 @@
+name: Pull Request
+description: Submit a pull request
+title: "[Type of Change]: [Brief Description]"
+body:
+  - type: dropdown
+    id: change-type
+    attributes:
+      label: Type of Change
+      options:
+        - Bug fix
+        - New feature
+        - Documentation update
+        - Refactor
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What changes does this PR make?
+    validations:
+      required: true
+
+  - type: textarea
+    id: testing
+    attributes:
+      label: Testing
+      description: How have you verified these changes work?
+    validations:
+      required: true
+
+  - type: input
+    id: related-issues
+    attributes:
+      label: Related Issues
+      description: "Add any related issue numbers (e.g., Fixes #123)"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: documentation-checklist
+    attributes:
+      label: Documentation Change Checklist
+      description: Complete this section if this is a documentation change
+      options:
+        - label: I have checked for similar wording/style issues across all documentation
+        - label: I have bundled related improvements together
+        - label: I have verified all links and references still work
+        - label: If this is a single small change, I have explained why it needs to be addressed independently
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        > **Note for documentation updates:** 
+        > - Please check if similar improvements could be made elsewhere in the docs
+        > - Consider bundling multiple small improvements in one PR
+        > - For minor style/flow changes, try to find at least 3-5 similar instances to update together
+        > - If this is a single small change, consider collecting more improvements before submitting
