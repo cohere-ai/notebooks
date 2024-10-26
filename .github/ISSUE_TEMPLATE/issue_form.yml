@@ -1,0 +1,72 @@
+name: Bug Report / Feature Request
+description: File a bug report or feature request for sample notebooks
+title: "[BUG/FEATURE]: "
+labels: ["triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this issue! Please make sure to fill out the relevant sections below.
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: Is this a bug report or feature request?
+      options:
+        - Bug Report
+        - Feature Request
+    validations:
+      required: true
+
+  - type: input
+    id: notebook
+    attributes:
+      label: Notebook Name
+      description: Which notebook does this issue relate to? Leave blank for general issues.
+      placeholder: example_analysis.ipynb
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the bug or feature request in detail
+      placeholder: |
+        For bugs: What happened? What did you expect to happen?
+        For features: What would you like to see added/changed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce (for bugs)
+      description: Please provide detailed steps to reproduce the issue
+      placeholder: |
+        1. Open notebook '...'
+        2. Run cell number '...'
+        3. See error '...'
+    validations:
+      required: false
+
+  - type: textarea
+    id: system-info
+    attributes:
+      label: System Information
+      description: Please provide your system information
+      placeholder: |
+        - Operating System:
+        - Python Version:
+        - Key Package Versions (numpy, pandas, etc):
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here
+    validations:
+      required: false

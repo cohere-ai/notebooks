@@ -1,10 +1,10 @@
-from fastapi import FastAPI
-from pydantic import BaseModel, conlist
 import cohere
 from cohere import ClassifyExample
+from fastapi import FastAPI
+from pydantic import BaseModel, conlist
 
 # Setup the Cohere client
-co = cohere.Client("COHERE_API_KEY") # Get your API key here: https://dashboard.cohere.com/api-keys
+co = cohere.ClientV2("COHERE_API_KEY") # Get your free API key: https://dashboard.cohere.com/api-keys
 
 app = FastAPI()
 
@@ -30,6 +30,7 @@ def predict_sentiment(product_reviews: ProductReviews):
             ClassifyExample(text="I have no emotions towards this item", label="neutral")]
     
     response = co.classify(
+        model="embed-english-v2.0",
         inputs=product_reviews.reviews,
         examples=examples)
 

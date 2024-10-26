@@ -5,21 +5,13 @@ import textwrap
 import json
 
 # Set up Cohere client
-co = cohere.Client(os.environ["COHERE_API_KEY"]) # Get your API key: https://dashboard.cohere.com/api-keys
+co = cohere.ClientV2("COHERE_API_KEY") # Get your free API key: https://dashboard.cohere.com/api-keys
 
 def generate_idea(industry, temperature):
-  """
-  Generate startup idea given an industry name
-  Arguments:
-    industry(str): the industry name
-    temperature(str): the Generate model `temperature` value
-  Returns:
-    response(str): the startup idea
-  """
-  prompt = f"""
+    
+    prompt = f"""
 Generate a startup idea given the industry. Return the startup idea and without additional commentary.
 
-## Examples
 Industry: Workplace
 Startup Idea: A platform that generates slide deck contents automatically based on a given outline
 
@@ -32,32 +24,22 @@ Startup Idea: A hearing aid for the elderly that automatically adjusts its level
 Industry: Education
 Startup Idea: An online primary school that lets students mix and match their own curriculum based on their interests and goals
 
-## Your Task
 Industry: {industry}
 Startup Idea:"""
 
-  # Call the Cohere Chat endpoint
-  response = co.chat( 
-    message=prompt,
-    model='command-r', 
-    temperature=temperature,
-    preamble="")
-  
-  return response.text
+    # Call the Cohere Chat endpoint
+    response = co.chat( 
+            messages=[{"role": "user", "content": prompt}],
+            model="command-r-plus-08-2024", 
+            temperature=temperature)
+        
+    return response.message.content[0].text
 
 def generate_name(idea, temperature):
-  """
-  Generate startup name given a startup idea
-  Arguments:
-    idea(str): the startup idea
-    temperature(str): the Generate model `temperature` value
-  Returns:
-    response(str): the startup name
-  """
-  prompt= f"""
+    
+    prompt= f"""
 Generate a startup name given the startup idea. Return the startup name and without additional commentary.
 
-## Examples
 Startup Idea: A platform that generates slide deck contents automatically based on a given outline
 Startup Name: Deckerize
 
@@ -70,17 +52,16 @@ Startup Name: Hearspan
 Startup Idea: An online primary school that lets students mix and match their own curriculum based on their interests and goals
 Startup Name: Prime Age
 
-## Your Task
 Startup Idea: {idea}
 Startup Name:"""
-  # Call the Cohere Chat endpoint
-  response = co.chat( 
-    message=prompt,
-    model='command-r',
-    temperature=temperature,
-    preamble="")
 
-  return response.text
+    # Call the Cohere Chat endpoint
+    response = co.chat( 
+            messages=[{"role": "user", "content": prompt}],
+            model="command-r-plus-08-2024", 
+            temperature=temperature)
+        
+    return response.message.content[0].text
 
 # The front end code starts here
 
