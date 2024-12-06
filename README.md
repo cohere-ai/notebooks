@@ -1,4 +1,4 @@
- # Cohere Examples
+# Cohere Examples
 
 Welcome! This repository provides a collection of examples to help you build LLM-powered applications with the [Cohere API](https://docs.cohere.com/). They contain step-by-step guides, with code examples and explanations, to help you understand and use the API effectively.
 
@@ -11,7 +11,30 @@ Interested to contribute? Read the [contributing guide](#contributing).
 
 <br>
 
-# Getting Started
+## Quick Start
+
+### Installation
+```bash
+# Install the Cohere Python SDK
+pip install cohere
+
+# Clone this repository
+git clone https://github.com/cohere-ai/notebooks.git
+cd notebooks
+```
+
+### Authentication
+```python
+import cohere
+co = cohere.Client('your-api-key')  # Get your API key from dashboard.cohere.ai
+```
+
+## Prerequisites
+- Python 3.7 or higher
+- A Cohere API key ([Sign up here](https://dashboard.cohere.ai))
+- Familiarity with Jupyter notebooks
+
+## Getting Started
 This is a Cohere 101 guide. Build your first Cohere application: An onboarding assistant for new hires.
 Duration: ~15 mins.
 
@@ -27,7 +50,7 @@ Duration: ~15 mins.
 
 <br>
 
-# LLM University
+## LLM University
 This section contains the code companion to the [LLM University](https://cohere.com/llmu) course containing a comprehensive list of modules.
 
 | Module | Title | Colab |
@@ -68,7 +91,7 @@ This section contains the code companion to the [LLM University](https://cohere.
 
 <br>
 
-# Cookbook
+## Cookbook
 This section provides a deep dive into various techniques in the following topics:
 - [RAG](#rag)
 - [Agents](#agents)
@@ -79,7 +102,7 @@ This section provides a deep dive into various techniques in the following topic
 
 <br>
 
-## RAG
+### RAG
 | Title | Components | Colab |
 |--------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Basic RAG](https://github.com/cohere-ai/notebooks/blob/main/notebooks/Vanilla_RAG.ipynb) | Chat, Embed, Rerank | [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/Vanilla_RAG.ipynb) |
@@ -92,7 +115,7 @@ This section provides a deep dive into various techniques in the following topic
 | [Adaptive RAG](https://github.com/cohere-ai/notebooks/blob/main/notebooks/agents/Multi_Step_Tool_Use.ipynb) | Chat, LangChain | [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/agents/Multi_Step_Tool_Use.ipynb) |
 
 
-## Agents
+### Agents
 
 | Title | Components | Colab |
 |--------------------------------------------------------------|--------------------------------|-----------------|
@@ -120,7 +143,7 @@ This section provides a deep dive into various techniques in the following topic
 | [Wikipedia Semantic Search with Cohere + Weaviate](https://github.com/cohere-ai/notebooks/blob/main/notebooks/guides/Wikipedia_search_demo_cohere_weaviate.ipynb) | Embed, Weaviate | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/guides/Wikipedia_search_demo_cohere_weaviate.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
 
 
-## Summarization
+### Summarization
 | Title                                              | Components      | Colab |
 |--------------------------------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Long Form General Strategies](https://github.com/cohere-ai/notebooks/blob/main/notebooks/guides/Long_form_General_Strategies.ipynb) | Chat, Embed, Rerank | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/guides/Long_form_General_Strategies.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |
@@ -128,7 +151,7 @@ This section provides a deep dive into various techniques in the following topic
 | [Grounded Summarization Using Command R](https://github.com/cohere-ai/notebooks/blob/main/notebooks/guides/Grounded_summarisation_using_Command_R.ipynb) | Chat, Embed         | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/guides/Grounded_summarisation_using_Command_R.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |
 
 
-## Others
+### Others
 | Title | Components | Colab |
 |--------------------------------------------------------------|-----------------------|------------------------------------------------------------------------|
 | [Advanced Document Parsing For Enterprises](https://github.com/cohere-ai/notebooks/blob/main/notebooks/guides/Document_Parsing_For_Enterprises.ipynb) | Chat, Embed, Rerank | <a target="_blank" href="https://colab.research.google.com/github/cohere-ai/notebooks/blob/main/notebooks/guides/Document_Parsing_For_Enterprises.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> |
@@ -140,7 +163,7 @@ This section provides a deep dive into various techniques in the following topic
 
 <br>
 
-# Contributing
+## Contributing
 Thank you for your interest in contributing! We appreciate your input and encourage you to share your ideas and improvements. Here are some ways you can contribute:
 
 - New Examples and Guides: If you have an idea for a new example or guide, please share it with us! Create an issue to discuss your proposal, gather feedback, and get started. This ensures your contribution aligns with the project's scope and avoids duplication.
