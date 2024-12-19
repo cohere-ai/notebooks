@@ -1,1 +1,1 @@
-In this notebook we explore how to setup a Cohere ReAct Agent to answer questions over SQL Databases using Langchain’s existing SQLDBToolkit.
+This file has been moved to https://github.com/cohere-ai/cohere-developer-experience/blob/main/notebooks/README.md.
