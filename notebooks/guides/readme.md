@@ -1,1 +1,1 @@
-Here you will find tutorials and step-by-step guides covering a range of topics, providing practical guidance and code examples.
+This file has been moved to https://github.com/cohere-ai/cohere-developer-experience/blob/main/notebooks/readme.md.
