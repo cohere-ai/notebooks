@@ -1,1 +1,1 @@
-Here you will find step-by-step guides and demonstrations related to Cohere's finetuning services.
+This file has been moved to https://github.com/cohere-ai/cohere-developer-experience/blob/main/notebooks/README.md.
