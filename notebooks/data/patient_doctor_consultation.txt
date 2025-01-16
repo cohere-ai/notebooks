@@ -1,0 +1,131 @@
+Doctor: Good morning. I'm Doctor Smith from Babylon. Can you just confirm your name, date of birth, and the first line of your address please?
+ Patient: Hi. My name is Susan. Um, thirty, Redbridge Street, SW two two HZ.
+ Doctor: Hello.
+ Doctor: And your date of birth?
+ Patient: forty, oh two, nineteen seventy four.
+ Doctor: OK. Are you in a private place so you can have a consultation today?
+ Patient: Yes I am.
+ Doctor: OK. What can I do for you?
+ Patient: It hurts when I pee.
+ Doctor: OK, and how long has that been going on for?
+ Patient: It stays now.
+ Doctor: Pardon?
+ Patient: Uh, six days.
+ Doctor: Six days, OK. And just tell me a bit more about that. How did it start?
+ Patient: Um, I've got this thing when I pee, and it hurts when I go to the loo, and I've got this very unpleasant smell that comes out.
+ Doctor: 
+ Doctor: OK. And, have you had any other symptoms along with that? Have you had any abdominal pain, or back, lower back pain at all?
+ Patient: I've got, pain in my tummy.
+ Doctor: Uh, whereabouts?
+ Patient: In my lower tummy.
+ Doctor: OK. Is it one-sided, or in the middle?
+ Patient: In the middle.
+ Doctor: And how bad would you say that is on a scale of one to ten? With ten being the worst pain.
+ Patient: Seven.
+ Patient: Seven.
+ Doctor: And is it, constant, or does it come and go?
+ Patient: Comes and goes.
+ Doctor: OK. And have you actually been able to pass water OK?
+ Patient: Yes, but I've had spotted, uh, blood in my urine. Spots.
+ Doctor: OK. And is that just over the last, six days?
+ Patient: Yes.
+ Doctor: Right. And have you been able to eat and drink OK?
+ Patient: Yes.
+ Doctor: Um, and, have you had a temperature? Do you feel like you've been feverish, or had a temperature with this?
+ Patient: No, not at all.
+ Doctor: Um, and any, did you , you said you didn't have any lower back pain?
+ Patient: No, I've got.
+ Patient: Um, and no loin pain as well.
+ Doctor: OK. And, have you had these symptoms before?
+ Patient: No.
+ Doctor: Never.
+ Patient: No.
+ Doctor: And was there anything you were doing recently, which you think may have contributed to it? Have you , have you been doing lots of exercise, been dehydrated, um, been having regular sexual intercourse or anything?
+ Patient: No.
+ Doctor: No, OK. And, any, any other symptoms, any vaginal discharge or, anything like that?
+ Patient: No, just the blood spot, in my.
+ Doctor: No. Do you have regular periods?
+ Patient: Yes I do.
+ Doctor: OK.
+ Doctor: Um, and , in the past, have you had any medical problems at all?
+ Patient: No medical, no.
+ Doctor: Have you had any problems with your kidneys, or any urine infections?
+ Patient: I had IBS before.
+ Doctor: OK.
+ Doctor: And how's that been recently? Any change in your bowel habit? Any blood when you pass stool?
+ Patient: Yeah, I've had spotting in my urine.
+ Doctor: In your, OK. Um, any change in your bowel habit? Any weight loss or anything?
+ Patient: No.
+ Patient: No.
+ Doctor: Any other medical problems, or surgery in the past?
+ Patient: No.
+ Doctor: Do you take regular medications?
+ Patient: I've had Mebeverine, Mebeverine. I've had Mebeverine.
+ Doctor: Pardon? No birth .
+ Doctor: Do you take that regularly?
+ Patient: Yes.
+ Doctor: OK. And it, do you take it three times a day?
+ Patient: Yes I do.
+ Doctor: Two hundred milligrams?
+ Patient: Yes.
+ Doctor: Any allergies?
+ Doctor: Any allergies?
+ Patient: Clindamycin.
+ Doctor: You're allergic to Clindamycin, OK.
+ Doctor: And anyone in your family had any medical problems?
+ Patient: No.
+ Doctor: That's fine. And whereabouts, do you live? Do you live with friends, family?
+ Patient: I live with friends.
+ Doctor: OK. And where do you work? What's your job?
+ Patient: I'm a support worker.
+ Doctor: OK. Do you drink alcohol at all?
+ Patient: Occasionally.
+ Doctor: So how much in a average week?
+ Patient: One glass of wine a week.
+ Doctor: OK. And do you smoke?
+ Patient: No.
+ Doctor: OK. Um, it sounds very much like you, might have an infection in your urine. Did you say, you haven't felt feverish?
+ Patient: No fever at all.
+ Doctor: Have you got a thermometer at home?
+ Patient: No.
+ Doctor: OK. It would be helpful if you could get a thermometer from the pharmacy and, do check your temperature, just to make sure that it isn't, going up and down.
+ Patient: OK.
+ Doctor: Um, normally we can treat this infection without having to test your urine. Uh, with, with a course of antibiotics.
+ Patient: OK.
+ Doctor: Um, how do you feel about that? Are you happy to take a course of antibiotics?
+ Patient: Yes I would be.
+ Doctor: It would just be for three days.
+ Patient: OK.
+ Doctor: Um.
+ Patient: , get my prescription.
+ Doctor: Yes, so I can send a prescription through to your requested pharmacy for that. If you take them, as soon as you can, get them, pick them up as soon as you can, and start taking them.
+ Doctor: The other thing which is important to do is to drink, lots of water. So, two and a half to three litres a day.
+ Patient: 
+ Doctor: Um, you can get some cranberry juice and take, drink that as well, that sometimes helps. And also some, sachets um, which you can get from the chemist, some sachets which just help change the acidity of your urine. So I, I can put the details of that on your notes.
+ Patient: Yeah.
+ Patient: OK then.
+ Doctor: Um, if you feel like your pain is getting worse or not settling, you get lower back pain, um, or you're getting a high temperature, or you have any problems actually passing urine. Then it's very important that we speak to you again.
+ Patient: OK.
+ Doctor: Um, the other thing is that if it becomes a, common, thing or a recurrent problem. Then we need to talk to you again about it.
+ Patient: So, do I have to call after I finish my course of antibiotics.
+ Doctor: No, not if you're better. If you're, if you feel like your symptoms get worse at any point, or they're not resolving with the treatment. Or you keep getting a similar, um, you keep getting a similar, problem, reccurently. Then it's important for us to talk, talk to you in more detail about that.
+ Patient: OK.
+ Patient: Yeah.
+ Patient: OK then.
+ Doctor: Um, have you got any other questions?
+ Patient: Uh, no. Uh, where will be the pharmacy I'll be picking up, my medication from?
+ Doctor: Um, so have you already requested a pharmacy through Babylon?
+ Patient: Yes I did.
+ Doctor: Can I just check that with you?
+ Patient: Knightsbridge, Practice.
+ Doctor: OK, that's fine. So the antibiotics, that I'm gonna prescribe, um, will go through to that, pharmacy.
+ Patient: How soon?
+ Doctor: And then , you'll be able to pick them up from there.
+ Patient: How soon is that gonna be, at the practice? In five minutes?
+ Doctor: Um, I would give it longer than that. Give it a, an hour or so.
+ Patient: 
+ Patient: All right then. Thank you, I'll pick that at lunchtime.
+ Doctor: OK. All right then. Take care. Bye.
+ Patient: Thank you.
+ Patient: . Bye.
+ Doctor: Sorry, I .
